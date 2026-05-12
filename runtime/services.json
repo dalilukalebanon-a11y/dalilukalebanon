@@ -1,8 +1,8 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-11T22:56:11.003Z",
-  "count": 749,
+  "published_at": "2026-05-12T16:30:31.560Z",
+  "count": 750,
   "data": [
     {
       "service_id": "SRV-001",
@@ -16381,6 +16381,19 @@
       ],
       "description_ar": "تقدم الهيئة الطبية الدولية خدمات الرعاية الصحية الأولية عبر مراكز مدعومة، وذلك عبر رزم صحية مدعومة ومتكاملة لجميع اللبنانيين وغير اللبنانيين، وفقاً لإرشادات وزارة الصحة العامة. وتشمل هذه الرزم:\n\nالخدمات الصحية والرعاية المتخصصة المتوفرة\n\n🩺 استشارات طبية مدعومة للأمراض الحادة والمزمنة\n\n🧪 فحوصات دم وأشعة أساسية مغطاة بنسبة 100٪ بعد دراسة الحالة من قبل طبيب الهيئة الطبية الدولية\n\n🤰 رعاية الأم الحامل والعناية بالطفل واللقاحات حسب الجدول الوطني\n\n💊 أدوية أساسية بناءً على وصفة طبية\n\n🧠 خدمة الصحة النفسية والدعم النفسي الاجتماعي في بعض المراكز",
       "phone_1": 81311748,
+      "governorate": "لبنان",
+      "coverage_type": "multi_area",
+      "audience_tags_ar": "عام",
+      "availability_status": "available",
+      "display_priority": 90,
+      "show_in_fallback": "no",
+      "sensitive_group": "none"
+    },
+    {
+      "service_id": "SRV-655",
+      "service_name_ar": "حوامل",
+      "category_main": "pregnancy_support",
+      "description_ar": "حواملللللل",
       "governorate": "لبنان",
       "coverage_type": "multi_area",
       "audience_tags_ar": "عام",
