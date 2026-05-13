@@ -1,7 +1,7 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-13T15:00:40.518Z",
+  "published_at": "2026-05-13T16:07:29.646Z",
   "count": 750,
   "data": [
     {
@@ -300,7 +300,8 @@
       "display_priority": 100,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "gbv_sensitive"
+      "sensitive_group": "gbv_sensitive",
+      "link_url": "www.laaha.org"
     },
     {
       "service_id": "SRV-017",
@@ -1087,7 +1088,8 @@
       "display_priority": 80,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://find.shelterslebanon.info"
     },
     {
       "service_id": "SRV-060",
@@ -1287,7 +1289,8 @@
       "display_priority": 70,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://ee-eu.kobotoolbox.org/x/2ffEoNKT"
     },
     {
       "service_id": "SRV-081",
@@ -1429,7 +1432,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://step-by-step-program.com/"
     },
     {
       "service_id": "SRV-084",
@@ -1473,7 +1477,8 @@
       "display_priority": 80,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://step-by-step-program.com/"
     },
     {
       "service_id": "SRV-097",
@@ -1492,7 +1497,8 @@
       "display_priority": 72,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://mosa-relief.com"
     },
     {
       "service_id": "SRV-098",
@@ -9444,7 +9450,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://akkarcharity.com/%d9%85%d8%b1%d9%83%d8%b2-%d8%b9%d9%83%d8%a7%d8%b1-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a/"
     },
     {
       "service_id": "SRV-338",
@@ -9462,7 +9469,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://akkarcharity.com/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9/"
     },
     {
       "service_id": "SRV-339",
@@ -9484,7 +9492,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://alwaer.ensany.com/"
     },
     {
       "service_id": "SRV-340",
@@ -9506,7 +9515,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://alwaer.ensany.com/"
     },
     {
       "service_id": "SRV-341",
@@ -9556,7 +9566,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-343",
@@ -9577,7 +9588,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-344",
@@ -9597,7 +9609,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-345",
@@ -9617,7 +9630,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-346",
@@ -9667,7 +9681,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.fistanorthlebanon.org/"
     },
     {
       "service_id": "SRV-348",
@@ -9684,7 +9699,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-349",
@@ -9701,7 +9717,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-350",
@@ -9718,7 +9735,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-351",
@@ -9735,7 +9753,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-352",
@@ -9805,7 +9824,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org"
     },
     {
       "service_id": "SRV-357",
@@ -9833,7 +9853,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://orderofmaltalebanon.org/"
     },
     {
       "service_id": "SRV-358",
@@ -9854,7 +9875,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-359",
@@ -9876,7 +9898,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-360",
@@ -9899,7 +9922,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://nabadassociation.org"
     },
     {
       "service_id": "SRV-361",
@@ -9923,7 +9947,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://nabadassociation.org"
     },
     {
       "service_id": "SRV-362",
@@ -9945,7 +9970,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-363",
@@ -9967,7 +9993,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.daralaytam.org"
     },
     {
       "service_id": "SRV-364",
@@ -9989,7 +10016,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-365",
@@ -10010,7 +10038,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-366",
@@ -10034,7 +10063,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.haramouncenter.org"
     },
     {
       "service_id": "SRV-367",
@@ -10057,7 +10087,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-368",
@@ -10081,7 +10112,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lacode.org"
     },
     {
       "service_id": "SRV-369",
@@ -10108,7 +10140,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://lphu.com/en"
     },
     {
       "service_id": "SRV-370",
@@ -10130,7 +10163,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.mousawat.org"
     },
     {
       "service_id": "SRV-372",
@@ -10155,7 +10189,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/"
     },
     {
       "service_id": "SRV-373",
@@ -10177,7 +10212,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://orderofmaltalebanon.org/"
     },
     {
       "service_id": "SRV-374",
@@ -10198,7 +10234,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-375",
@@ -10220,7 +10257,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-376",
@@ -10238,7 +10276,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.alpha-association.info"
     },
     {
       "service_id": "SRV-377",
@@ -10258,7 +10297,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://al-association.org/"
     },
     {
       "service_id": "SRV-378",
@@ -10325,7 +10365,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://www.alhadi.org.lb/"
     },
     {
       "service_id": "SRV-381",
@@ -10356,7 +10397,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.amel.org"
     },
     {
       "service_id": "SRV-382",
@@ -10380,7 +10422,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.amel.org"
     },
     {
       "service_id": "SRV-383",
@@ -10410,7 +10453,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.arcenciel.org"
     },
     {
       "service_id": "SRV-384",
@@ -10437,7 +10481,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.arcenciel.org"
     },
     {
       "service_id": "SRV-385",
@@ -10461,7 +10506,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.beirutnazarenechurch.org"
     },
     {
       "service_id": "SRV-386",
@@ -10488,7 +10534,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://banincharity.org"
     },
     {
       "service_id": "SRV-387",
@@ -10535,7 +10582,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://baytnabaytak.com"
     },
     {
       "service_id": "SRV-389",
@@ -10555,7 +10603,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.beirutbybike"
     },
     {
       "service_id": "SRV-390",
@@ -10580,7 +10629,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.beirutmarathon.org"
     },
     {
       "service_id": "SRV-391",
@@ -10600,7 +10650,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.beirutbybike"
     },
     {
       "service_id": "SRV-392",
@@ -10645,7 +10696,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.cesvi.eu"
     },
     {
       "service_id": "SRV-394",
@@ -10707,7 +10759,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.embracelebanon.org"
     },
     {
       "service_id": "SRV-397",
@@ -10755,7 +10808,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.hoopsclub.com"
     },
     {
       "service_id": "SRV-399",
@@ -10782,7 +10836,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.haltek.org/"
     },
     {
       "service_id": "SRV-400",
@@ -10802,7 +10857,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.heritagecollege.edu.lb"
     },
     {
       "service_id": "SRV-401",
@@ -10829,7 +10885,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.hi.org"
     },
     {
       "service_id": "SRV-402",
@@ -10851,7 +10908,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.idraac.org"
     },
     {
       "service_id": "SRV-403",
@@ -10875,7 +10933,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://kafa.org.lb/ar"
     },
     {
       "service_id": "SRV-404",
@@ -10896,7 +10955,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lade.org.lb"
     },
     {
       "service_id": "SRV-405",
@@ -10917,7 +10977,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://disability-hub.com/"
     },
     {
       "service_id": "SRV-406",
@@ -10947,7 +11008,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.autismlebanon.org/"
     },
     {
       "service_id": "SRV-407",
@@ -10967,7 +11029,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lebanesefoodbank.com"
     },
     {
       "service_id": "SRV-408",
@@ -10993,7 +11056,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://lphu.com/"
     },
     {
       "service_id": "SRV-409",
@@ -11014,7 +11078,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lwah.org.lb/"
     },
     {
       "service_id": "SRV-410",
@@ -11061,7 +11126,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://makhzoumi-foundation.org"
     },
     {
       "service_id": "SRV-412",
@@ -11082,7 +11148,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.khaledfoundations.org"
     },
     {
       "service_id": "SRV-413",
@@ -11112,7 +11179,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.mousawat.org/"
     },
     {
       "service_id": "SRV-414",
@@ -11138,7 +11206,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://www.mousawat.org/"
     },
     {
       "service_id": "SRV-416",
@@ -11162,7 +11231,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-417",
@@ -11186,7 +11256,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-418",
@@ -11208,7 +11279,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-419",
@@ -11235,7 +11307,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-420",
@@ -11260,7 +11333,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.orderofmaltalebanon.org"
     },
     {
       "service_id": "SRV-421",
@@ -11283,7 +11357,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://proudlebanon.org/"
     },
     {
       "service_id": "SRV-422",
@@ -11304,7 +11379,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.rmf.org.lb"
     },
     {
       "service_id": "SRV-423",
@@ -11329,7 +11405,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://sidc-lebanon.org/who-is-sidc-lebanon/"
     },
     {
       "service_id": "SRV-424",
@@ -11358,7 +11435,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.teach-school.com"
     },
     {
       "service_id": "SRV-425",
@@ -11384,7 +11462,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.tabithalb.org"
     },
     {
       "service_id": "SRV-426",
@@ -11414,7 +11493,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.tahaddilebanon.org"
     },
     {
       "service_id": "SRV-427",
@@ -11436,7 +11516,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://food-heritage.org/"
     },
     {
       "service_id": "SRV-428",
@@ -11459,7 +11540,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-429",
@@ -11480,7 +11562,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-430",
@@ -11501,7 +11584,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-431",
@@ -11522,7 +11606,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-432",
@@ -11543,7 +11628,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-433",
@@ -11565,7 +11651,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://transparency-lebanon.org"
     },
     {
       "service_id": "SRV-434",
@@ -11585,7 +11672,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://www.yablb.org/"
     },
     {
       "service_id": "SRV-435",
@@ -11607,7 +11695,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.aareen.org"
     },
     {
       "service_id": "SRV-436",
@@ -11628,7 +11717,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-437",
@@ -11659,7 +11749,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.arcenciel.org"
     },
     {
       "service_id": "SRV-438",
@@ -11682,7 +11773,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://nabadassociation.org"
     },
     {
       "service_id": "SRV-439",
@@ -11703,7 +11795,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-440",
@@ -11727,7 +11820,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.caritas.org"
     },
     {
       "service_id": "SRV-441",
@@ -11750,7 +11844,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-442",
@@ -11774,7 +11869,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.dia-ngo.org"
     },
     {
       "service_id": "SRV-443",
@@ -11797,7 +11893,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.dia-ngo.org"
     },
     {
       "service_id": "SRV-444",
@@ -11819,7 +11916,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-445",
@@ -11843,7 +11941,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.haramouncenter.org"
     },
     {
       "service_id": "SRV-446",
@@ -11864,7 +11963,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://himaya.org"
     },
     {
       "service_id": "SRV-447",
@@ -11885,7 +11985,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://himaya.org"
     },
     {
       "service_id": "SRV-448",
@@ -11909,7 +12010,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://Hand.ngo"
     },
     {
       "service_id": "SRV-449",
@@ -11933,7 +12035,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://Hand.ngo"
     },
     {
       "service_id": "SRV-450",
@@ -11957,7 +12060,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://Hand.ngo"
     },
     {
       "service_id": "SRV-451",
@@ -11981,7 +12085,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://Hand.ngo"
     },
     {
       "service_id": "SRV-452",
@@ -12006,7 +12111,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.humedica.org"
     },
     {
       "service_id": "SRV-453",
@@ -12032,7 +12138,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://koloobminnour.org"
     },
     {
       "service_id": "SRV-454",
@@ -12058,7 +12165,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://koloobminnour.org"
     },
     {
       "service_id": "SRV-455",
@@ -12079,7 +12187,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lwah.org.lb/"
     },
     {
       "service_id": "SRV-456",
@@ -12130,7 +12239,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://lphu.com/en"
     },
     {
       "service_id": "SRV-458",
@@ -12174,7 +12284,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.mousawat.org"
     },
     {
       "service_id": "SRV-461",
@@ -12197,7 +12308,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/"
     },
     {
       "service_id": "SRV-462",
@@ -12218,7 +12330,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-463",
@@ -12241,7 +12354,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-464",
@@ -12263,7 +12377,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-465",
@@ -12288,7 +12403,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.rsyondespoir.org"
     },
     {
       "service_id": "SRV-466",
@@ -12329,7 +12445,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.afhil.com"
     },
     {
       "service_id": "SRV-468",
@@ -12356,7 +12473,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "None"
     },
     {
       "service_id": "SRV-469",
@@ -12384,7 +12502,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.Avsi.org.lb"
     },
     {
       "service_id": "SRV-470",
@@ -12408,7 +12527,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.amalinst.org/"
     },
     {
       "service_id": "SRV-471",
@@ -12431,7 +12551,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.alyounbouh.org"
     },
     {
       "service_id": "SRV-472",
@@ -12484,7 +12605,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.antaakhi.org"
     },
     {
       "service_id": "SRV-474",
@@ -12504,7 +12626,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.arcenciel.org"
     },
     {
       "service_id": "SRV-475",
@@ -12531,7 +12654,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lokh-arcl.org"
     },
     {
       "service_id": "SRV-476",
@@ -12554,7 +12678,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://aaa-autism.org/"
     },
     {
       "service_id": "SRV-477",
@@ -12602,7 +12727,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.cielassociation.org"
     },
     {
       "service_id": "SRV-479",
@@ -12628,7 +12754,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-480",
@@ -12651,7 +12778,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-481",
@@ -12676,7 +12804,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-482",
@@ -12701,7 +12830,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-483",
@@ -12726,7 +12856,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-484",
@@ -12748,7 +12879,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.caritas.org.lb"
     },
     {
       "service_id": "SRV-485",
@@ -12776,7 +12908,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-486",
@@ -12799,7 +12932,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-487",
@@ -12821,7 +12955,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-488",
@@ -12845,7 +12980,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-489",
@@ -12872,7 +13008,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-490",
@@ -12901,7 +13038,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.caritas.org.lb"
     },
     {
       "service_id": "SRV-491",
@@ -12924,7 +13062,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-492",
@@ -12949,7 +13088,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.caritas.org"
     },
     {
       "service_id": "SRV-493",
@@ -12994,7 +13134,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.chroniccare.org.lb"
     },
     {
       "service_id": "SRV-495",
@@ -13020,7 +13161,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.dar-alamal.org"
     },
     {
       "service_id": "SRV-496",
@@ -13043,7 +13185,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.dar-alamal.org"
     },
     {
       "service_id": "SRV-497",
@@ -13068,7 +13211,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://dar-alamal.org/"
     },
     {
       "service_id": "SRV-498",
@@ -13098,7 +13242,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://dispensaire-intercommunautaire.business.site/"
     },
     {
       "service_id": "SRV-499",
@@ -13122,7 +13267,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.saintmaron.school"
     },
     {
       "service_id": "SRV-500",
@@ -13145,7 +13291,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.oikoumene.org/what-we-do/edan"
     },
     {
       "service_id": "SRV-501",
@@ -13176,7 +13323,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.faid-lb.org"
     },
     {
       "service_id": "SRV-502",
@@ -13248,7 +13396,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.himaya.org/"
     },
     {
       "service_id": "SRV-505",
@@ -13269,7 +13418,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://Hoops-club.com"
     },
     {
       "service_id": "SRV-506",
@@ -13294,7 +13444,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.hand.ngo"
     },
     {
       "service_id": "SRV-507",
@@ -13319,7 +13470,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.friendsfordisabled.org"
     },
     {
       "service_id": "SRV-508",
@@ -13349,7 +13501,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://iraplb.org/mot-de-bienvenue/"
     },
     {
       "service_id": "SRV-509",
@@ -13375,7 +13528,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.insanassociation.org"
     },
     {
       "service_id": "SRV-510",
@@ -13399,7 +13553,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.jrs.net"
     },
     {
       "service_id": "SRV-511",
@@ -13425,7 +13580,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://karagheusianassociation.org/"
     },
     {
       "service_id": "SRV-512",
@@ -13447,7 +13603,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://lecoute-lb.org"
     },
     {
       "service_id": "SRV-513",
@@ -13467,7 +13624,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://baabda.besancon.edu.lb/home"
     },
     {
       "service_id": "SRV-514",
@@ -13490,7 +13648,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.chainedelespoir.org"
     },
     {
       "service_id": "SRV-515",
@@ -13520,7 +13679,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.autismlebanon.org/"
     },
     {
       "service_id": "SRV-516",
@@ -13546,7 +13706,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lsbdbaabda.org/"
     },
     {
       "service_id": "SRV-517",
@@ -13570,7 +13731,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.Lcd-lebanon.org"
     },
     {
       "service_id": "SRV-518",
@@ -13627,7 +13789,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.mousawat.org/"
     },
     {
       "service_id": "SRV-520",
@@ -13652,7 +13815,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.mousawat.org/"
     },
     {
       "service_id": "SRV-524",
@@ -13680,7 +13844,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org"
     },
     {
       "service_id": "SRV-525",
@@ -13701,7 +13866,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://nfd-nofordrugs.org/"
     },
     {
       "service_id": "SRV-526",
@@ -13731,7 +13897,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://nfd-nofordrugs.org/"
     },
     {
       "service_id": "SRV-527",
@@ -13751,7 +13918,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nahnoo.org"
     },
     {
       "service_id": "SRV-528",
@@ -13777,7 +13945,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nahnoo.org"
     },
     {
       "service_id": "SRV-529",
@@ -13826,7 +13995,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.orderofmaltalebanon.org"
     },
     {
       "service_id": "SRV-531",
@@ -13880,7 +14050,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.redoaklb.org"
     },
     {
       "service_id": "SRV-533",
@@ -13906,7 +14077,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.redoaklb.org"
     },
     {
       "service_id": "SRV-534",
@@ -13930,7 +14102,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.restartcenter.com"
     },
     {
       "service_id": "SRV-535",
@@ -13954,7 +14127,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.scale.org.lb"
     },
     {
       "service_id": "SRV-536",
@@ -14006,7 +14180,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.sos.org.lb/"
     },
     {
       "service_id": "SRV-538",
@@ -14026,7 +14201,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://sagessesjb.edu.lb/"
     },
     {
       "service_id": "SRV-539",
@@ -14072,7 +14248,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://sawa-lb.org/"
     },
     {
       "service_id": "SRV-541",
@@ -14099,7 +14276,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.sesobel.org"
     },
     {
       "service_id": "SRV-542",
@@ -14124,7 +14302,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.shareq.org"
     },
     {
       "service_id": "SRV-543",
@@ -14177,7 +14356,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.steptogetherlb.org"
     },
     {
       "service_id": "SRV-545",
@@ -14203,7 +14383,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.tabithalb.org"
     },
     {
       "service_id": "SRV-546",
@@ -14233,7 +14414,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.jinishian-lb.org"
     },
     {
       "service_id": "SRV-547",
@@ -14261,7 +14443,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-548",
@@ -14289,7 +14472,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-549",
@@ -14315,7 +14499,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-550",
@@ -14369,7 +14554,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.warmheartworldwide.org"
     },
     {
       "service_id": "SRV-552",
@@ -14398,7 +14584,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://www.ymca-leb.org.lb/"
     },
     {
       "service_id": "SRV-553",
@@ -14422,7 +14609,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://www.yaduna.org"
     },
     {
       "service_id": "SRV-554",
@@ -14491,7 +14679,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://orderofmaltalebanon.org"
     },
     {
       "service_id": "SRV-557",
@@ -14513,7 +14702,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.bpshebaya.org/"
     },
     {
       "service_id": "SRV-558",
@@ -14535,7 +14725,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.bpshebaya.org/"
     },
     {
       "service_id": "SRV-559",
@@ -14560,7 +14751,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-560",
@@ -14581,7 +14773,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-561",
@@ -14604,7 +14797,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-562",
@@ -14625,7 +14819,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-563",
@@ -14645,7 +14840,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-564",
@@ -14667,7 +14863,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-565",
@@ -14691,7 +14888,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-566",
@@ -14773,7 +14971,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.fistanorthlebanon.org/"
     },
     {
       "service_id": "SRV-569",
@@ -14794,7 +14993,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://himaya.org"
     },
     {
       "service_id": "SRV-570",
@@ -14812,7 +15012,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-571",
@@ -14830,7 +15031,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-572",
@@ -14847,7 +15049,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-573",
@@ -14864,7 +15067,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-574",
@@ -14881,7 +15085,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-575",
@@ -14898,7 +15103,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-576",
@@ -14921,7 +15127,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-577",
@@ -14938,7 +15145,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://iocc.org/"
     },
     {
       "service_id": "SRV-579",
@@ -14961,7 +15169,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org"
     },
     {
       "service_id": "SRV-580",
@@ -14986,7 +15195,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-581",
@@ -15011,7 +15221,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://orderofmaltalebanon.org/"
     },
     {
       "service_id": "SRV-582",
@@ -15034,7 +15245,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.restartcenter.com"
     },
     {
       "service_id": "SRV-583",
@@ -15063,7 +15275,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://swi.org.lb/"
     },
     {
       "service_id": "SRV-584",
@@ -15094,7 +15307,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://theforum-lb.org"
     },
     {
       "service_id": "SRV-585",
@@ -15125,7 +15339,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "http://theforum-lb.org"
     },
     {
       "service_id": "SRV-586",
@@ -15153,7 +15368,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://lebanon.my.id/wahat/"
     },
     {
       "service_id": "SRV-587",
@@ -15176,7 +15392,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.almoasat.org/"
     },
     {
       "service_id": "SRV-588",
@@ -15199,7 +15416,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-589",
@@ -15223,7 +15441,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-590",
@@ -15245,7 +15464,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-591",
@@ -15266,7 +15486,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-592",
@@ -15287,7 +15508,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-593",
@@ -15309,7 +15531,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-594",
@@ -15334,7 +15557,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://caritas.org.lb/"
     },
     {
       "service_id": "SRV-595",
@@ -15385,7 +15609,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.fdprovidence.org"
     },
     {
       "service_id": "SRV-597",
@@ -15406,7 +15631,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://himaya.org"
     },
     {
       "service_id": "SRV-598",
@@ -15431,7 +15657,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lwah.org.lb/"
     },
     {
       "service_id": "SRV-599",
@@ -15453,7 +15680,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://lphu.com/"
     },
     {
       "service_id": "SRV-600",
@@ -15478,7 +15706,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lwah.org.lb/"
     },
     {
       "service_id": "SRV-601",
@@ -15498,7 +15727,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.lwah.org.lb/"
     },
     {
       "service_id": "SRV-602",
@@ -15525,7 +15755,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://mosancenter.org"
     },
     {
       "service_id": "SRV-603",
@@ -15549,7 +15780,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://mousawat.org/"
     },
     {
       "service_id": "SRV-604",
@@ -15572,7 +15804,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.mousawat.org"
     },
     {
       "service_id": "SRV-605",
@@ -15595,7 +15828,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://mousawat.org/"
     },
     {
       "service_id": "SRV-609",
@@ -15620,7 +15854,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-610",
@@ -15647,7 +15882,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-611",
@@ -15668,7 +15904,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-612",
@@ -15690,7 +15927,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-613",
@@ -15715,7 +15953,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.socialcare.org/portal/home/1/"
     },
     {
       "service_id": "SRV-614",
@@ -15744,7 +15983,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org/"
     },
     {
       "service_id": "SRV-615",
@@ -15773,7 +16013,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org/"
     },
     {
       "service_id": "SRV-616",
@@ -15801,7 +16042,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org/"
     },
     {
       "service_id": "SRV-617",
@@ -15827,7 +16069,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org"
     },
     {
       "service_id": "SRV-618",
@@ -15851,7 +16094,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org"
     },
     {
       "service_id": "SRV-619",
@@ -15877,7 +16121,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.nabaa-lb.org"
     },
     {
       "service_id": "SRV-620",
@@ -15899,7 +16144,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://orderofmaltalebanon.org/"
     },
     {
       "service_id": "SRV-621",
@@ -15920,7 +16166,8 @@
       "display_priority": 65,
       "show_in_fallback": "no",
       "medical_tests_anchor": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://orphanwelfare-lb.org"
     },
     {
       "service_id": "SRV-622",
@@ -16306,7 +16553,8 @@
       "availability_status": "available",
       "display_priority": 90,
       "show_in_fallback": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.oumelnour.org"
     },
     {
       "service_id": "SRV-650",
@@ -16321,7 +16569,8 @@
       "availability_status": "available",
       "display_priority": 90,
       "show_in_fallback": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.skoun.org/ar"
     },
     {
       "service_id": "SRV-651",
@@ -16336,7 +16585,8 @@
       "availability_status": "available",
       "display_priority": 90,
       "show_in_fallback": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.skoun.org/ar"
     },
     {
       "service_id": "SRV-652",
@@ -16351,7 +16601,8 @@
       "availability_status": "available",
       "display_priority": 90,
       "show_in_fallback": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://www.skoun.org/ar"
     },
     {
       "service_id": "SRV-653",
@@ -16364,7 +16615,8 @@
       "availability_status": "available",
       "display_priority": 90,
       "show_in_fallback": "no",
-      "sensitive_group": "none"
+      "sensitive_group": "none",
+      "link_url": "https://sidc-lebanon.org/"
     },
     {
       "service_id": "SRV-654",
