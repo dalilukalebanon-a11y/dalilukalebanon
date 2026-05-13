@@ -1,7 +1,395 @@
 {
   "file": "option_sets.json",
   "source_sheet": "Option_Sets",
-  "published_at": "2026-05-12T22:25:48.458Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:32.323Z",
+  "count": 43,
+  "data": [
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-01",
+      "display_order": 1,
+      "label_ar": "بيروت",
+      "maps_to_slot": "area",
+      "maps_to_value": "بيروت",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-02",
+      "display_order": 2,
+      "label_ar": "جبل لبنان",
+      "maps_to_slot": "area",
+      "maps_to_value": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-03",
+      "display_order": 3,
+      "label_ar": "الشمال",
+      "maps_to_slot": "area",
+      "maps_to_value": "الشمال",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-04",
+      "display_order": 4,
+      "label_ar": "البقاع",
+      "maps_to_slot": "area",
+      "maps_to_value": "البقاع",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-05",
+      "display_order": 5,
+      "label_ar": "الجنوب",
+      "maps_to_slot": "area",
+      "maps_to_value": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-06",
+      "display_order": 6,
+      "label_ar": "النبطية",
+      "maps_to_slot": "area",
+      "maps_to_value": "النبطية",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-07",
+      "display_order": 7,
+      "label_ar": "عكار",
+      "maps_to_slot": "area",
+      "maps_to_value": "عكار",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-AREA-GOV-8",
+      "option_value_id": "AREA-08",
+      "display_order": 8,
+      "label_ar": "بعلبك الهرمل",
+      "maps_to_slot": "area",
+      "maps_to_value": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DISABILITY-TYPE",
+      "option_value_id": "DIS-01",
+      "display_order": 1,
+      "label_ar": "علاج وتأهيل",
+      "maps_to_slot": "disability_type",
+      "maps_to_value": "therapy_services",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DISABILITY-TYPE",
+      "option_value_id": "DIS-02",
+      "display_order": 2,
+      "label_ar": "دعم نفسي",
+      "maps_to_slot": "disability_type",
+      "maps_to_value": "mental_health",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DISABILITY-TYPE",
+      "option_value_id": "DIS-03",
+      "display_order": 3,
+      "label_ar": "أجهزة مساعدة",
+      "maps_to_slot": "disability_type",
+      "maps_to_value": "assistive_devices",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DISABILITY-TYPE",
+      "option_value_id": "DIS-04",
+      "display_order": 4,
+      "label_ar": "حماية اجتماعية",
+      "maps_to_slot": "disability_type",
+      "maps_to_value": "social_protection; disability_protection",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DISABILITY-TYPE",
+      "option_value_id": "DIS-05",
+      "display_order": 5,
+      "label_ar": "خدمات طبية",
+      "maps_to_slot": "disability_type",
+      "maps_to_value": "medical_support",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DISABILITY-TYPE",
+      "option_value_id": "DIS-06",
+      "display_order": 6,
+      "label_ar": "تعليم / دمج",
+      "maps_to_slot": "disability_type",
+      "maps_to_value": "education_inclusion",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DIAPER-SUBTYPE",
+      "option_value_id": "DIA-01",
+      "display_order": 1,
+      "label_ar": "حفاضات أطفال",
+      "maps_to_slot": "diaper_subtype",
+      "maps_to_value": "diapers_baby",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-DIAPER-SUBTYPE",
+      "option_value_id": "DIA-02",
+      "display_order": 2,
+      "label_ar": "حفاضات للكبار",
+      "maps_to_slot": "diaper_subtype",
+      "maps_to_value": "diapers_adult",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-ELDERLY-TYPE",
+      "option_value_id": "ELD-01",
+      "display_order": 1,
+      "label_ar": "أدوية",
+      "maps_to_slot": "elderly_service_type",
+      "maps_to_value": "medications",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-ELDERLY-TYPE",
+      "option_value_id": "ELD-02",
+      "display_order": 2,
+      "label_ar": "حفاضات",
+      "maps_to_slot": "elderly_service_type",
+      "maps_to_value": "diapers_adult",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-ELDERLY-TYPE",
+      "option_value_id": "ELD-03",
+      "display_order": 3,
+      "label_ar": "دعم صحي أو تمريضي",
+      "maps_to_slot": "elderly_service_type",
+      "maps_to_value": "health_support",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-ELDERLY-TYPE",
+      "option_value_id": "ELD-04",
+      "display_order": 4,
+      "label_ar": "أجهزة أو مستلزمات مساعدة",
+      "maps_to_slot": "elderly_service_type",
+      "maps_to_value": "assistive_devices",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-ELDERLY-TYPE",
+      "option_value_id": "ELD-05",
+      "display_order": 5,
+      "label_ar": "دعم نفسي",
+      "maps_to_slot": "elderly_service_type",
+      "maps_to_value": "mental_health",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-REPAIR-TYPE",
+      "option_value_id": "REP-01",
+      "display_order": 1,
+      "label_ar": "النتيجة مش لنفس المنطقة",
+      "maps_to_slot": "repair_type",
+      "maps_to_value": "wrong_area",
+      "active": "no"
+    },
+    {
+      "option_set_id": "OPT-REPAIR-TYPE",
+      "option_value_id": "REP-02",
+      "display_order": 2,
+      "label_ar": "في تكرار",
+      "maps_to_slot": "repair_type",
+      "maps_to_value": "duplicates",
+      "active": "no"
+    },
+    {
+      "option_set_id": "OPT-REPAIR-TYPE",
+      "option_value_id": "REP-03",
+      "display_order": 3,
+      "label_ar": "الخدمة مش من نفس النوع",
+      "maps_to_slot": "repair_type",
+      "maps_to_value": "wrong_family",
+      "active": "no"
+    },
+    {
+      "option_set_id": "OPT-REPAIR-TYPE",
+      "option_value_id": "REP-04",
+      "display_order": 4,
+      "label_ar": "بدي إعادة فلترة فقط",
+      "maps_to_slot": "repair_type",
+      "maps_to_value": "refilter",
+      "active": "no"
+    },
+    {
+      "option_set_id": "OPT-MENTAL-HEALTH-TYPE",
+      "option_value_id": "MH-01",
+      "display_order": 1,
+      "label_ar": "طبيب / معالج نفسي",
+      "maps_to_slot": "mental_health_type",
+      "maps_to_value": "psychiatrist_support",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MENTAL-HEALTH-TYPE",
+      "option_value_id": "MH-02",
+      "display_order": 2,
+      "label_ar": "دعم نفسي",
+      "maps_to_slot": "mental_health_type",
+      "maps_to_value": "mental_health",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-VIOLENCE-TARGET",
+      "option_value_id": "VIO-01",
+      "display_order": 1,
+      "label_ar": "امرأة / فتاة",
+      "maps_to_slot": "violence_target",
+      "maps_to_value": "gbv_sensitive",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-VIOLENCE-TARGET",
+      "option_value_id": "VIO-02",
+      "display_order": 2,
+      "label_ar": "طفل / طفلة",
+      "maps_to_slot": "violence_target",
+      "maps_to_value": "child_protection",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-VIOLENCE-TARGET",
+      "option_value_id": "VIO-03",
+      "display_order": 3,
+      "label_ar": "شخص عنده إعاقة",
+      "maps_to_slot": "violence_target",
+      "maps_to_value": "disability_protection_urgent",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-01",
+      "display_order": 1,
+      "label_ar": "مراكز صحية",
+      "maps_to_slot": "intent",
+      "maps_to_value": "health_center",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-02",
+      "display_order": 2,
+      "label_ar": "أرقام طوارئ",
+      "maps_to_slot": "intent",
+      "maps_to_value": "emergency_hotline",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-03",
+      "display_order": 3,
+      "label_ar": "مستشفيات حكومية",
+      "maps_to_slot": "intent",
+      "maps_to_value": "public_hospitals",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-04",
+      "display_order": 4,
+      "label_ar": "حفاضات",
+      "maps_to_slot": "intent",
+      "maps_to_value": "diapers",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-05",
+      "display_order": 5,
+      "label_ar": "أدوية",
+      "maps_to_slot": "intent",
+      "maps_to_value": "medications",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-06",
+      "display_order": 6,
+      "label_ar": "مساعدة غذائية",
+      "maps_to_slot": "intent",
+      "maps_to_value": "food_assistance",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-07",
+      "display_order": 7,
+      "label_ar": "مساعدات مالية",
+      "maps_to_slot": "intent",
+      "maps_to_value": "cash_assistance",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-08",
+      "display_order": 8,
+      "label_ar": "مركز إيواء",
+      "maps_to_slot": "intent",
+      "maps_to_value": "shelter_support",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-09",
+      "display_order": 9,
+      "label_ar": "حماية من العنف / حماية الطفل",
+      "maps_to_slot": "intent",
+      "maps_to_value": "protection_violence",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-10",
+      "display_order": 10,
+      "label_ar": "دعم نفسي",
+      "maps_to_slot": "intent",
+      "maps_to_value": "mental_health",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-11",
+      "display_order": 11,
+      "label_ar": "خدمات لذوي الإعاقة",
+      "maps_to_slot": "intent",
+      "maps_to_value": "disability_support",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-12",
+      "display_order": 12,
+      "label_ar": "خدمات لكبار السن",
+      "maps_to_slot": "intent",
+      "maps_to_value": "elderly_support",
+      "active": "yes"
+    },
+    {
+      "option_set_id": "OPT-MAIN-MENU",
+      "option_value_id": "MENU-13",
+      "display_order": 13,
+      "label_ar": "ولادة وصحة نسائية",
+      "maps_to_slot": "intent",
+      "maps_to_value": "pregnancy_support",
+      "active": "yes"
+    }
+  ]
 }
