@@ -1,7 +1,3965 @@
 {
   "file": "locations.json",
   "source_sheet": "Locations_Input",
-  "published_at": "2026-05-12T22:25:32.622Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:16.425Z",
+  "count": 630,
+  "data": [
+    {
+      "location_id": "LOCVAR-0001",
+      "canonical_name_ar": "لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0002",
+      "canonical_name_ar": "لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0003",
+      "canonical_name_ar": "لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0004",
+      "canonical_name_ar": "لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0005",
+      "canonical_name_ar": "لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0006",
+      "canonical_name_ar": "لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0007",
+      "canonical_name_ar": "بيروت",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0008",
+      "canonical_name_ar": "بيروت",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0009",
+      "canonical_name_ar": "بيروت",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0010",
+      "canonical_name_ar": "بيروت",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0011",
+      "canonical_name_ar": "جبل لبنان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0012",
+      "canonical_name_ar": "جبل لبنان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0013",
+      "canonical_name_ar": "جبل لبنان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0014",
+      "canonical_name_ar": "جبل لبنان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0015",
+      "canonical_name_ar": "جبل لبنان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0016",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0017",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0018",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0019",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0020",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0021",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0022",
+      "canonical_name_ar": "الشمال",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0023",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0024",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0025",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0026",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0027",
+      "canonical_name_ar": "الجنوب",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0028",
+      "canonical_name_ar": "الجنوب",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0029",
+      "canonical_name_ar": "الجنوب",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0030",
+      "canonical_name_ar": "الجنوب",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0031",
+      "canonical_name_ar": "الجنوب",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0032",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0033",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0034",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0035",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0036",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0037",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0038",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0039",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0040",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0041",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0042",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0043",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0044",
+      "canonical_name_ar": "بعلبك الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0045",
+      "canonical_name_ar": "بعلبك الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0046",
+      "canonical_name_ar": "بعلبك الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0047",
+      "canonical_name_ar": "بعلبك الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0048",
+      "canonical_name_ar": "بعلبك الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0049",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0050",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0051",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0052",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0053",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0054",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0055",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0056",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0057",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0058",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0059",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0060",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0061",
+      "canonical_name_ar": "صور",
+      "governorate": "الجنوب",
+      "district": "صور",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0062",
+      "canonical_name_ar": "صور",
+      "governorate": "الجنوب",
+      "district": "صور",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0063",
+      "canonical_name_ar": "صور",
+      "governorate": "الجنوب",
+      "district": "صور",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0064",
+      "canonical_name_ar": "صور",
+      "governorate": "الجنوب",
+      "district": "صور",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0065",
+      "canonical_name_ar": "صور",
+      "governorate": "الجنوب",
+      "district": "صور",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0066",
+      "canonical_name_ar": "زحلة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0067",
+      "canonical_name_ar": "زحلة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0068",
+      "canonical_name_ar": "زحلة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0069",
+      "canonical_name_ar": "زحلة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0070",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0071",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0072",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0073",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0074",
+      "canonical_name_ar": "الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "district": "الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0075",
+      "canonical_name_ar": "الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "district": "الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0076",
+      "canonical_name_ar": "الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "district": "الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0077",
+      "canonical_name_ar": "جبيل",
+      "governorate": "جبل لبنان",
+      "district": "جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0078",
+      "canonical_name_ar": "جبيل",
+      "governorate": "جبل لبنان",
+      "district": "جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0079",
+      "canonical_name_ar": "جبيل",
+      "governorate": "جبل لبنان",
+      "district": "جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0080",
+      "canonical_name_ar": "جبيل",
+      "governorate": "جبل لبنان",
+      "district": "جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0081",
+      "canonical_name_ar": "جبيل",
+      "governorate": "جبل لبنان",
+      "district": "جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0082",
+      "canonical_name_ar": "كسروان",
+      "governorate": "جبل لبنان",
+      "district": "كسروان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0083",
+      "canonical_name_ar": "كسروان",
+      "governorate": "جبل لبنان",
+      "district": "كسروان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0084",
+      "canonical_name_ar": "كسروان",
+      "governorate": "جبل لبنان",
+      "district": "كسروان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0085",
+      "canonical_name_ar": "كسروان",
+      "governorate": "جبل لبنان",
+      "district": "كسروان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0086",
+      "canonical_name_ar": "المتن",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0087",
+      "canonical_name_ar": "المتن",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0088",
+      "canonical_name_ar": "المتن",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0089",
+      "canonical_name_ar": "المتن",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0090",
+      "canonical_name_ar": "المتن",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0091",
+      "canonical_name_ar": "بعبدا",
+      "governorate": "جبل لبنان",
+      "district": "بعبدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0092",
+      "canonical_name_ar": "بعبدا",
+      "governorate": "جبل لبنان",
+      "district": "بعبدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0093",
+      "canonical_name_ar": "بعبدا",
+      "governorate": "جبل لبنان",
+      "district": "بعبدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0094",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0095",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0096",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0097",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0098",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0099",
+      "canonical_name_ar": "الشوف",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0100",
+      "canonical_name_ar": "الشوف",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0101",
+      "canonical_name_ar": "الشوف",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0102",
+      "canonical_name_ar": "الشوف",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0103",
+      "canonical_name_ar": "المنية",
+      "governorate": "الشمال",
+      "district": "المنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0104",
+      "canonical_name_ar": "المنية",
+      "governorate": "الشمال",
+      "district": "المنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0105",
+      "canonical_name_ar": "المنية",
+      "governorate": "الشمال",
+      "district": "المنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0106",
+      "canonical_name_ar": "المنية",
+      "governorate": "الشمال",
+      "district": "المنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0107",
+      "canonical_name_ar": "المنية",
+      "governorate": "الشمال",
+      "district": "المنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0108",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "district": "الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0109",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "district": "الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0110",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "district": "الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0111",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "district": "الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0112",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "district": "الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0113",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "district": "الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0114",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0115",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0116",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0117",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0118",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0119",
+      "canonical_name_ar": "زغرتا",
+      "governorate": "الشمال",
+      "district": "زغرتا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0120",
+      "canonical_name_ar": "زغرتا",
+      "governorate": "الشمال",
+      "district": "زغرتا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0121",
+      "canonical_name_ar": "البقاع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0122",
+      "canonical_name_ar": "الطريق العام",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0123",
+      "canonical_name_ar": "الطريق العام",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0124",
+      "canonical_name_ar": "الطريق العام خلف المحكمة الشرعية",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0125",
+      "canonical_name_ar": "برالياس",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0126",
+      "canonical_name_ar": "تربل",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0127",
+      "canonical_name_ar": "تعنايل",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0128",
+      "canonical_name_ar": "جالال",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0129",
+      "canonical_name_ar": "جب جنين",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0130",
+      "canonical_name_ar": "جب جنين",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0131",
+      "canonical_name_ar": "حوش الحريمة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0132",
+      "canonical_name_ar": "حي السيدة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0133",
+      "canonical_name_ar": "حي السيدة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0134",
+      "canonical_name_ar": "خربة روحا",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0135",
+      "canonical_name_ar": "راشيا",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0136",
+      "canonical_name_ar": "راشيا الوادي",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0137",
+      "canonical_name_ar": "زحلة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0138",
+      "canonical_name_ar": "زحلة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0139",
+      "canonical_name_ar": "سحمر",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0140",
+      "canonical_name_ar": "سعدنايل حي العمرية",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0141",
+      "canonical_name_ar": "سعدنايل حي العمرية",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0142",
+      "canonical_name_ar": "سعدنايل مبنى الجامع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0143",
+      "canonical_name_ar": "شارع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0144",
+      "canonical_name_ar": "شارع",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0145",
+      "canonical_name_ar": "شارع الصنوبر",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0146",
+      "canonical_name_ar": "شارع الصنوبر",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0147",
+      "canonical_name_ar": "شارع الصنوبرة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0148",
+      "canonical_name_ar": "شارع الصنوبرة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0149",
+      "canonical_name_ar": "طريق دير زنون",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0150",
+      "canonical_name_ar": "طريق دير زنون",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0151",
+      "canonical_name_ar": "عزة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0152",
+      "canonical_name_ar": "علي النهري",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0153",
+      "canonical_name_ar": "عنجر الطريق العام مفرق الروضه",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0154",
+      "canonical_name_ar": "عين كفرزبد",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0155",
+      "canonical_name_ar": "غزة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0156",
+      "canonical_name_ar": "ق عنجر الطريق العام مفر الروضه",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0157",
+      "canonical_name_ar": "قب الياس",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0158",
+      "canonical_name_ar": "كامد اللوز",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0159",
+      "canonical_name_ar": "كامد اللوز",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0160",
+      "canonical_name_ar": "كسارة جانب مطرانية زحلة المارونية",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0161",
+      "canonical_name_ar": "كفريا",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0162",
+      "canonical_name_ar": "مجدل عنجر",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0163",
+      "canonical_name_ar": "مشغرة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0164",
+      "canonical_name_ar": "وسط البلدة قبل البلدية",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0165",
+      "canonical_name_ar": "ال مدينة العم",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0166",
+      "canonical_name_ar": "الزرارية",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0167",
+      "canonical_name_ar": "الشهابية",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0168",
+      "canonical_name_ar": "الصرفند",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0169",
+      "canonical_name_ar": "الصرفند",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0170",
+      "canonical_name_ar": "العباسية",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0171",
+      "canonical_name_ar": "الغازية",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0172",
+      "canonical_name_ar": "الغسانية",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0173",
+      "canonical_name_ar": "القليله",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0174",
+      "canonical_name_ar": "المجيدل",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0175",
+      "canonical_name_ar": "المعشوق صور",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0176",
+      "canonical_name_ar": "المعشوق صور",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0177",
+      "canonical_name_ar": "الهرمل",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0178",
+      "canonical_name_ar": "تفاحتا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0179",
+      "canonical_name_ar": "حارة صيدا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0180",
+      "canonical_name_ar": "رجال",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0181",
+      "canonical_name_ar": "رجال",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0182",
+      "canonical_name_ar": "روم",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0183",
+      "canonical_name_ar": "سربتا الصرفند",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0184",
+      "canonical_name_ar": "سربتا الصرفند",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0185",
+      "canonical_name_ar": "صديقين",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0186",
+      "canonical_name_ar": "صرفند ال",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0187",
+      "canonical_name_ar": "صريفا صور",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0188",
+      "canonical_name_ar": "صريفا صور",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0189",
+      "canonical_name_ar": "صيدا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0190",
+      "canonical_name_ar": "طرفلسيه",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0191",
+      "canonical_name_ar": "طورا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0192",
+      "canonical_name_ar": "عيتيت",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0193",
+      "canonical_name_ar": "كفرحتى",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0194",
+      "canonical_name_ar": "مار نقوال صيدا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0195",
+      "canonical_name_ar": "مار نقوال صيدا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0196",
+      "canonical_name_ar": "-ن ابو سمرا الزيتو ا السكة البيض",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0197",
+      "canonical_name_ar": "ابو سمرا الزيتون السكة البيضا -",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0198",
+      "canonical_name_ar": "البترون",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0199",
+      "canonical_name_ar": "البداوي",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0200",
+      "canonical_name_ar": "التبانة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0201",
+      "canonical_name_ar": "الحدادين",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0202",
+      "canonical_name_ar": "الخالدية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0203",
+      "canonical_name_ar": "الزاهرية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0204",
+      "canonical_name_ar": "السويقة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0205",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0206",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0207",
+      "canonical_name_ar": "الضنية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0208",
+      "canonical_name_ar": "القبة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0209",
+      "canonical_name_ar": "القبة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0210",
+      "canonical_name_ar": "القلمون",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0211",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0212",
+      "canonical_name_ar": "الكورة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0213",
+      "canonical_name_ar": "المينا",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0214",
+      "canonical_name_ar": "بحبوش",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0215",
+      "canonical_name_ar": "بقاع صفرين",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0216",
+      "canonical_name_ar": "جبل محسن",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0217",
+      "canonical_name_ar": "جبل محسن",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0218",
+      "canonical_name_ar": "حدشيت",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0219",
+      "canonical_name_ar": "حصرون",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0220",
+      "canonical_name_ar": "حي البالط",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0221",
+      "canonical_name_ar": "حي البالط",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0222",
+      "canonical_name_ar": "حي البالط",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0223",
+      "canonical_name_ar": "حي الحكر",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0224",
+      "canonical_name_ar": "حي الحكر",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0225",
+      "canonical_name_ar": "دوار ابو",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0226",
+      "canonical_name_ar": "دوار ابو",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0227",
+      "canonical_name_ar": "راس مسقا",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0228",
+      "canonical_name_ar": "رع شا",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0229",
+      "canonical_name_ar": "رع شا",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0230",
+      "canonical_name_ar": "ساحة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0231",
+      "canonical_name_ar": "ساحة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0232",
+      "canonical_name_ar": "سير الضنية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0233",
+      "canonical_name_ar": "شارع الثقافي",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0234",
+      "canonical_name_ar": "شارع الثقافي",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0235",
+      "canonical_name_ar": "طاران",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0236",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0237",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0238",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0239",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0240",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0241",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0242",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0243",
+      "canonical_name_ar": "طرابلس",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0244",
+      "canonical_name_ar": "قرب مجمع",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0245",
+      "canonical_name_ar": "قرب مجمع",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0246",
+      "canonical_name_ar": "قنات",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0247",
+      "canonical_name_ar": "كوسبا الكوره",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0248",
+      "canonical_name_ar": "مبنى اتحاد",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0249",
+      "canonical_name_ar": "مبنى اتحاد",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0250",
+      "canonical_name_ar": "محلة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0251",
+      "canonical_name_ar": "محلة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0252",
+      "canonical_name_ar": "مرياطة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0253",
+      "canonical_name_ar": "مزيارة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0254",
+      "canonical_name_ar": "مستديرة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0255",
+      "canonical_name_ar": "مستديرة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0256",
+      "canonical_name_ar": "مقابل",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0257",
+      "canonical_name_ar": "مقابل",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0258",
+      "canonical_name_ar": "مقابل",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0259",
+      "canonical_name_ar": "مقابل مسجد",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0260",
+      "canonical_name_ar": "مقابل مسجد",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0261",
+      "canonical_name_ar": "منطقة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0262",
+      "canonical_name_ar": "منطقة",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0263",
+      "canonical_name_ar": "منطقة التبانة العقارية",
+      "governorate": "الشمال",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0264",
+      "canonical_name_ar": "أنصار",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0265",
+      "canonical_name_ar": "البازورية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0266",
+      "canonical_name_ar": "التامرية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0267",
+      "canonical_name_ar": "التامرية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0268",
+      "canonical_name_ar": "الخيام",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0269",
+      "canonical_name_ar": "الساحة",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0270",
+      "canonical_name_ar": "الساحة",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0271",
+      "canonical_name_ar": "الطيبة",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0272",
+      "canonical_name_ar": "العوينة حي بنت جبيل",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0273",
+      "canonical_name_ar": "العوينة حي بنت جبيل",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0274",
+      "canonical_name_ar": "النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0275",
+      "canonical_name_ar": "النميرية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0276",
+      "canonical_name_ar": "برج قالوية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0277",
+      "canonical_name_ar": "تل العسكر النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0278",
+      "canonical_name_ar": "تل العسكر النبطية",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0279",
+      "canonical_name_ar": "جباع",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0280",
+      "canonical_name_ar": "جديدة مرجعيون",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0281",
+      "canonical_name_ar": "جسر ال اول",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0282",
+      "canonical_name_ar": "جسر ال اول",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0283",
+      "canonical_name_ar": "حاصبيا",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0284",
+      "canonical_name_ar": "حاصبيا",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0285",
+      "canonical_name_ar": "حوال",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0286",
+      "canonical_name_ar": "خربة سلم",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0287",
+      "canonical_name_ar": "دير الزهراني",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0288",
+      "canonical_name_ar": "دير سريان",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0289",
+      "canonical_name_ar": "رميش",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0290",
+      "canonical_name_ar": "شبعا",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0291",
+      "canonical_name_ar": "شقرا",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0292",
+      "canonical_name_ar": "صور",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0293",
+      "canonical_name_ar": "صور",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0294",
+      "canonical_name_ar": "عيتا الشعب",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0295",
+      "canonical_name_ar": "قبريخا",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0296",
+      "canonical_name_ar": "قعية الجسر عق",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0297",
+      "canonical_name_ar": "كفرحمام",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0298",
+      "canonical_name_ar": "معركة",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0299",
+      "canonical_name_ar": "ميس الجبل",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0300",
+      "canonical_name_ar": "ميمس",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0301",
+      "canonical_name_ar": "يارون",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0302",
+      "canonical_name_ar": "ياطر",
+      "governorate": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0303",
+      "canonical_name_ar": "الفاكهة الطريق العام",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0304",
+      "canonical_name_ar": "القاع",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0305",
+      "canonical_name_ar": "القصر",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0306",
+      "canonical_name_ar": "المناقع",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0307",
+      "canonical_name_ar": "المناقع",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0308",
+      "canonical_name_ar": "النبي شيت",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0309",
+      "canonical_name_ar": "اليمونة",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0310",
+      "canonical_name_ar": "بجانب",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0311",
+      "canonical_name_ar": "بجانب",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0312",
+      "canonical_name_ar": "برقا",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0313",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0314",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0315",
+      "canonical_name_ar": "بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0316",
+      "canonical_name_ar": "تمنين التحتا",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0317",
+      "canonical_name_ar": "حوش الرافقة",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0318",
+      "canonical_name_ar": "حي الصلح",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0319",
+      "canonical_name_ar": "دورس",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0320",
+      "canonical_name_ar": "دير االحمر",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0321",
+      "canonical_name_ar": "رأس بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0322",
+      "canonical_name_ar": "ساحة ناصر بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0323",
+      "canonical_name_ar": "ساحة ناصر بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0324",
+      "canonical_name_ar": "سرعين الفوقا",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0325",
+      "canonical_name_ar": "شمسطار",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0326",
+      "canonical_name_ar": "طريق",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0327",
+      "canonical_name_ar": "طريق",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0328",
+      "canonical_name_ar": "طريق رأس",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0329",
+      "canonical_name_ar": "طريق رأس",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0330",
+      "canonical_name_ar": "عرسال",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0331",
+      "canonical_name_ar": "عرسال حي وادي جانب جامع",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0332",
+      "canonical_name_ar": "عرسال حي وادي جانب جامع",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0333",
+      "canonical_name_ar": "عرسال حي وادي عطا جانب جامع عثمان -",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0334",
+      "canonical_name_ar": "قرب",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0335",
+      "canonical_name_ar": "قرب",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0336",
+      "canonical_name_ar": "مبنى بلدية بوداي",
+      "governorate": "بعلبك الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0337",
+      "canonical_name_ar": "االشرفية",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0338",
+      "canonical_name_ar": "البسطا الفوقا",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0339",
+      "canonical_name_ar": "الحرج",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0340",
+      "canonical_name_ar": "الحرش",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0341",
+      "canonical_name_ar": "الحرش",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0342",
+      "canonical_name_ar": "الكرنتينا",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0343",
+      "canonical_name_ar": "المزرعة",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0344",
+      "canonical_name_ar": "المصيطبة",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0345",
+      "canonical_name_ar": "النويري",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0346",
+      "canonical_name_ar": "بربور",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0347",
+      "canonical_name_ar": "بربور",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0348",
+      "canonical_name_ar": "تلة الخياط",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0349",
+      "canonical_name_ar": "راس بيروت",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0350",
+      "canonical_name_ar": "زقاق البالط",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0351",
+      "canonical_name_ar": "ش. ابن رشد",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0352",
+      "canonical_name_ar": "شارع",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0353",
+      "canonical_name_ar": "شارع",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0354",
+      "canonical_name_ar": "شارع عبد الرحمن لبان",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0355",
+      "canonical_name_ar": "صيطبة وطى الم",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0356",
+      "canonical_name_ar": "طبة المصي",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0357",
+      "canonical_name_ar": "عائشة بكار",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0358",
+      "canonical_name_ar": "كرم الزيتون",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0359",
+      "canonical_name_ar": "ية الظريف والزيدان",
+      "governorate": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0360",
+      "canonical_name_ar": "األشرفية",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0361",
+      "canonical_name_ar": "األوزاعي",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0362",
+      "canonical_name_ar": "اجنة برج البر",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0363",
+      "canonical_name_ar": "ادما",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0364",
+      "canonical_name_ar": "الباروك",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0365",
+      "canonical_name_ar": "الباشورة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0366",
+      "canonical_name_ar": "الجديدة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0367",
+      "canonical_name_ar": "الجديدة البوشرية السد",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0368",
+      "canonical_name_ar": "الحازمية",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0369",
+      "canonical_name_ar": "الحدث",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0370",
+      "canonical_name_ar": "الخريبة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0371",
+      "canonical_name_ar": "الخزان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0372",
+      "canonical_name_ar": "الخزان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0373",
+      "canonical_name_ar": "الشوف",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0374",
+      "canonical_name_ar": "الشويفات",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0375",
+      "canonical_name_ar": "الشياح",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0376",
+      "canonical_name_ar": "الصومعة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0377",
+      "canonical_name_ar": "الصومعة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0378",
+      "canonical_name_ar": "الطريق",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0379",
+      "canonical_name_ar": "الطريق",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0380",
+      "canonical_name_ar": "الطريق الجديدة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0381",
+      "canonical_name_ar": "الطيونة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0382",
+      "canonical_name_ar": "العبادية",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0383",
+      "canonical_name_ar": "الغبيري",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0384",
+      "canonical_name_ar": "الفنار",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0385",
+      "canonical_name_ar": "الفنار",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0386",
+      "canonical_name_ar": "المبنى البلدي",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0387",
+      "canonical_name_ar": "المبنى البلدي",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0388",
+      "canonical_name_ar": "المريجة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0389",
+      "canonical_name_ar": "بئر حسن",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0390",
+      "canonical_name_ar": "برج البراجنة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0391",
+      "canonical_name_ar": "برج حمود",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0392",
+      "canonical_name_ar": "برج حمود",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0393",
+      "canonical_name_ar": "برجا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0394",
+      "canonical_name_ar": "بسكنتا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0395",
+      "canonical_name_ar": "بعقلين",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0396",
+      "canonical_name_ar": "بعلشميه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0397",
+      "canonical_name_ar": "بلونه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0398",
+      "canonical_name_ar": "بناية",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0399",
+      "canonical_name_ar": "بناية",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0400",
+      "canonical_name_ar": "بيت الدين",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0401",
+      "canonical_name_ar": "جسر",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0402",
+      "canonical_name_ar": "جسر",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0403",
+      "canonical_name_ar": "حارة حريك",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0404",
+      "canonical_name_ar": "حارة حريك ساحة القدس",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0405",
+      "canonical_name_ar": "حارة حريك ساحة القدس",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0406",
+      "canonical_name_ar": "حمانا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0407",
+      "canonical_name_ar": "حي الحارة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0408",
+      "canonical_name_ar": "حي الحارة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0409",
+      "canonical_name_ar": "حي السلم",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0410",
+      "canonical_name_ar": "حي السلم ه عالي",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0411",
+      "canonical_name_ar": "حي السلم ه عالي",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0412",
+      "canonical_name_ar": "حي الشريفة شحيم",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0413",
+      "canonical_name_ar": "حي الشريفة شحيم",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0414",
+      "canonical_name_ar": "حي بعجور",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0415",
+      "canonical_name_ar": "حي فرحات صبرا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0416",
+      "canonical_name_ar": "حي فرحات صبرا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0417",
+      "canonical_name_ar": "رأس المتن",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0418",
+      "canonical_name_ar": "ريفون",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0419",
+      "canonical_name_ar": "زوق مكايل",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0420",
+      "canonical_name_ar": "سن الفيل",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0421",
+      "canonical_name_ar": "شارع",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0422",
+      "canonical_name_ar": "شارع",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0423",
+      "canonical_name_ar": "شارع",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0424",
+      "canonical_name_ar": "شارع كنيسة مار المبنى",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0425",
+      "canonical_name_ar": "شارع كنيسة مار المبنى",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0426",
+      "canonical_name_ar": "ضهور الشوير",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0427",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0428",
+      "canonical_name_ar": "عاليه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0429",
+      "canonical_name_ar": "عبيه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0430",
+      "canonical_name_ar": "عرمون عاليه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0431",
+      "canonical_name_ar": "عرمون عاليه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0432",
+      "canonical_name_ar": "عين االسد برجا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0433",
+      "canonical_name_ar": "عين الرمانة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0434",
+      "canonical_name_ar": "غدير",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0435",
+      "canonical_name_ar": "فرن الشباك",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0436",
+      "canonical_name_ar": "فيطرون المنطقة الزرقاء",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0437",
+      "canonical_name_ar": "فيطرون المنطقة الزرقاء",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0438",
+      "canonical_name_ar": "قرنة شهوان",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0439",
+      "canonical_name_ar": "كامب",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0440",
+      "canonical_name_ar": "كامب",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0441",
+      "canonical_name_ar": "كترمايا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0442",
+      "canonical_name_ar": "كفرحيم",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0443",
+      "canonical_name_ar": "كفرمتى",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0444",
+      "canonical_name_ar": "كورنيش المزرعة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0445",
+      "canonical_name_ar": "كيفون",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0446",
+      "canonical_name_ar": "لم حي الس عاليه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0447",
+      "canonical_name_ar": "لم حي الس عاليه",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0448",
+      "canonical_name_ar": "لمختارة ا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0449",
+      "canonical_name_ar": "مشمش",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0450",
+      "canonical_name_ar": "نيحا",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0451",
+      "canonical_name_ar": "وطى المصيطبة",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0452",
+      "canonical_name_ar": "– سد البوشرية بناية ريموند فياض",
+      "governorate": "جبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0453",
+      "canonical_name_ar": "البرج",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0454",
+      "canonical_name_ar": "البرج",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0455",
+      "canonical_name_ar": "البيرة",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0456",
+      "canonical_name_ar": "البيرة الطريق العام",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0457",
+      "canonical_name_ar": "الجديدة عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0458",
+      "canonical_name_ar": "الشيخ طابا",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0459",
+      "canonical_name_ar": "الطريق",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0460",
+      "canonical_name_ar": "الطريق",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0461",
+      "canonical_name_ar": "الطريق العام",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0462",
+      "canonical_name_ar": "القبيات",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0463",
+      "canonical_name_ar": "الكواشرة",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0464",
+      "canonical_name_ar": "المحمرة وسط بالقرب من جامع الكوثر",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0465",
+      "canonical_name_ar": "برقايل",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0466",
+      "canonical_name_ar": "تكريت",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0467",
+      "canonical_name_ar": "جديدة القيطع",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0468",
+      "canonical_name_ar": "حلبا",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0469",
+      "canonical_name_ar": "خريبة الجندي",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0470",
+      "canonical_name_ar": "دير دلوم الطريق العام",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0471",
+      "canonical_name_ar": "رحبة",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0472",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0473",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0474",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0475",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0476",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0477",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0478",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0479",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0480",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0481",
+      "canonical_name_ar": "عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0482",
+      "canonical_name_ar": "عكار العتيقة",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0483",
+      "canonical_name_ar": "عين الزيت الطريق العام",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0484",
+      "canonical_name_ar": "كفرتون",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0485",
+      "canonical_name_ar": "كفرصارون الكورة",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0486",
+      "canonical_name_ar": "مشتى حسن",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0487",
+      "canonical_name_ar": "مشحا",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0488",
+      "canonical_name_ar": "مشمش عكار",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0489",
+      "canonical_name_ar": "وادى خالد",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0490",
+      "canonical_name_ar": "وادى خالد",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0491",
+      "canonical_name_ar": "وادي",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0492",
+      "canonical_name_ar": "وادي",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0493",
+      "canonical_name_ar": "وادي الجاموس",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0494",
+      "canonical_name_ar": "يق الطر",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0495",
+      "canonical_name_ar": "يق الطر",
+      "governorate": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0496",
+      "canonical_name_ar": "حي السلم عاليه",
+      "governorate": "كسروان-جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0497",
+      "canonical_name_ar": "حي السلم عاليه",
+      "governorate": "كسروان-جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0498",
+      "canonical_name_ar": "خلدة",
+      "governorate": "كسروان-جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0499",
+      "canonical_name_ar": "شحيم",
+      "governorate": "كسروان-جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0500",
+      "canonical_name_ar": "عمشيت",
+      "governorate": "كسروان-جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0501",
+      "canonical_name_ar": "المرج - البقاع الغربي",
+      "governorate": "البقاع",
+      "district": "البقاع الغربي",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0502",
+      "canonical_name_ar": "البقاع الغربي",
+      "governorate": "البقاع",
+      "district": "البقاع الغربي",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0503",
+      "canonical_name_ar": "الفاعور – زحلة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0504",
+      "canonical_name_ar": "بر الياس",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0505",
+      "canonical_name_ar": "بر الياس - طريق دير زنون رياق",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0506",
+      "canonical_name_ar": "تعلبايا - شارع الصنوبر الغربي",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0507",
+      "canonical_name_ar": "تعلبايا – شارع الصنوبرة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0508",
+      "canonical_name_ar": "جالالا",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0509",
+      "canonical_name_ar": "زحلة – حي السيدة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0510",
+      "canonical_name_ar": "زحلة – وادي العرايش",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0511",
+      "canonical_name_ar": "سعدنايل حي العمرية، خلف صيدلية السهل",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0512",
+      "canonical_name_ar": "كفرزبد – زحلة",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0513",
+      "canonical_name_ar": "مكسة - الطريق العام - مبنى البلدية",
+      "governorate": "البقاع",
+      "district": "زحلة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0514",
+      "canonical_name_ar": "جزين",
+      "governorate": "الجنوب",
+      "district": "جزين",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0515",
+      "canonical_name_ar": "قانا - صور",
+      "governorate": "الجنوب",
+      "district": "صور",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0516",
+      "canonical_name_ar": "القياعة - صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0517",
+      "canonical_name_ar": "شارع مار نقولا - صيدا",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0518",
+      "canonical_name_ar": "صيدا – رجال الأربعين",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0519",
+      "canonical_name_ar": "مدينة العمال",
+      "governorate": "الجنوب",
+      "district": "صيدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0520",
+      "canonical_name_ar": "تنورين",
+      "governorate": "الشمال",
+      "district": "البترون",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0521",
+      "canonical_name_ar": "دده - الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0522",
+      "canonical_name_ar": "كفريا – الكورة",
+      "governorate": "الشمال",
+      "district": "الكورة",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0523",
+      "canonical_name_ar": "المنية - الضنية",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0524",
+      "canonical_name_ar": "الضنية - مقابل ثانوية بيت الفقس",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0525",
+      "canonical_name_ar": "المنية - حي البلاط",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0526",
+      "canonical_name_ar": "المنية - حي البلاط - بجانب مجمع العبير",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0527",
+      "canonical_name_ar": "المنية – حي الحكر",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0528",
+      "canonical_name_ar": "المنية – قرب مجمع العبير",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0529",
+      "canonical_name_ar": "إيزال - مقابل مسجد إيزال",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0530",
+      "canonical_name_ar": "بخعون - الضنية",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0531",
+      "canonical_name_ar": "بخعون - مبنى اتحاد بلديات الضنية",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0532",
+      "canonical_name_ar": "بطرماز - الضنية",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0533",
+      "canonical_name_ar": "دير عمار- الضنية",
+      "governorate": "الشمال",
+      "district": "المنية - الضنية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0534",
+      "canonical_name_ar": "بشري",
+      "governorate": "الشمال",
+      "district": "بشري",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0535",
+      "canonical_name_ar": "أبو سمراء – طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0536",
+      "canonical_name_ar": "أبي سمراء – ساحة الشراع",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0537",
+      "canonical_name_ar": "التل - طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0538",
+      "canonical_name_ar": "القبة – جبل محسن",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0539",
+      "canonical_name_ar": "القبة - طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0540",
+      "canonical_name_ar": "القلمون – طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0541",
+      "canonical_name_ar": "الميناء",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0542",
+      "canonical_name_ar": "باب التبانة – طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0543",
+      "canonical_name_ar": "جبل محسن - طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0544",
+      "canonical_name_ar": "زيتون طرابلس - محلة المعيصرة",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0545",
+      "canonical_name_ar": "ساحة النور - طرابلس",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0546",
+      "canonical_name_ar": "شارع الزاهرية - مقابل كاراج سير",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0547",
+      "canonical_name_ar": "طرابلس – دوار أبو علي",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0548",
+      "canonical_name_ar": "طرابلس - شارع عجمي - بساتين",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0549",
+      "canonical_name_ar": "طرابلس - مستديرة الملعب البلدي",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0550",
+      "canonical_name_ar": "طرابلس – منطقة بساتين الميناء",
+      "governorate": "الشمال",
+      "district": "طرابلس",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0551",
+      "canonical_name_ar": "جبشيت – الساحة",
+      "governorate": "النبطية",
+      "district": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0552",
+      "canonical_name_ar": "حبوش - أول الجسر",
+      "governorate": "النبطية",
+      "district": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0553",
+      "canonical_name_ar": "قعقعية الجسر",
+      "governorate": "النبطية",
+      "district": "النبطية",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0554",
+      "canonical_name_ar": "بنت جبيل",
+      "governorate": "النبطية",
+      "district": "بنت جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0555",
+      "canonical_name_ar": "حي العوينة – بنت جبيل",
+      "governorate": "النبطية",
+      "district": "بنت جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0556",
+      "canonical_name_ar": "عين جرفا - حاصبيا",
+      "governorate": "النبطية",
+      "district": "حاصبيا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0557",
+      "canonical_name_ar": "مرجعيون",
+      "governorate": "النبطية",
+      "district": "مرجعيون",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0558",
+      "canonical_name_ar": "تولين – التامرية – سنتر عوالي",
+      "governorate": "النبطية",
+      "district": "مرجعيون",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0559",
+      "canonical_name_ar": "المعالي - الهرمل",
+      "governorate": "بعلبك الهرمل",
+      "district": "الهرمل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0560",
+      "canonical_name_ar": "العين - بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0561",
+      "canonical_name_ar": "اللبوة - بعلبك",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0562",
+      "canonical_name_ar": "بريتال",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0563",
+      "canonical_name_ar": "بعلبك - طريق رأس العين",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0564",
+      "canonical_name_ar": "بعلبك - قرب ساحة ناصر",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0565",
+      "canonical_name_ar": "دورس – بجانب البلدية",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0566",
+      "canonical_name_ar": "دير الأحمر",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0567",
+      "canonical_name_ar": "عرسال - المناقع",
+      "governorate": "بعلبك الهرمل",
+      "district": "بعلبك",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0568",
+      "canonical_name_ar": "الأشرفية",
+      "governorate": "بيروت",
+      "district": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0569",
+      "canonical_name_ar": "الظريف والزيدانية",
+      "governorate": "بيروت",
+      "district": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0570",
+      "canonical_name_ar": "بيروت – بربور",
+      "governorate": "بيروت",
+      "district": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0571",
+      "canonical_name_ar": "حمرا - شارع المقدسي",
+      "governorate": "بيروت",
+      "district": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0572",
+      "canonical_name_ar": "زقاق البلاط",
+      "governorate": "بيروت",
+      "district": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0573",
+      "canonical_name_ar": "قصقص - الحرش",
+      "governorate": "بيروت",
+      "district": "بيروت",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0574",
+      "canonical_name_ar": "الدامور - الطريق العام",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0575",
+      "canonical_name_ar": "السمقانية - الشوف",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0576",
+      "canonical_name_ar": "المختارة",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0577",
+      "canonical_name_ar": "برجا-الخزان",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0578",
+      "canonical_name_ar": "عين الأسد برجا",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0579",
+      "canonical_name_ar": "مجد المعوش",
+      "governorate": "جبل لبنان",
+      "district": "الشوف",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0580",
+      "canonical_name_ar": "البوشرية الجديدة البوشرية السد",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0581",
+      "canonical_name_ar": "البوشرية – شارع أمانوس",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0582",
+      "canonical_name_ar": "الزعيترية – الفنار",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0583",
+      "canonical_name_ar": "برج حمود - شارع مرعش",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0584",
+      "canonical_name_ar": "برج حمود - كامب سيس",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0585",
+      "canonical_name_ar": "سد البوشرية – بناية سان ميشال",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0586",
+      "canonical_name_ar": "سن الفيل – جسر الباشا",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0587",
+      "canonical_name_ar": "شارع كنيسة مار ساسين",
+      "governorate": "جبل لبنان",
+      "district": "المتن",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0588",
+      "canonical_name_ar": "الأوزاعي",
+      "governorate": "جبل لبنان",
+      "district": "بعبدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0589",
+      "canonical_name_ar": "الشياح - شارع مار جرجس",
+      "governorate": "جبل لبنان",
+      "district": "بعبدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0590",
+      "canonical_name_ar": "بئر العبد",
+      "governorate": "جبل لبنان",
+      "district": "بعبدا",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0591",
+      "canonical_name_ar": "بتاتر الساحة - عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0592",
+      "canonical_name_ar": "صوفر - عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0593",
+      "canonical_name_ar": "مجدليا - عاليه",
+      "governorate": "جبل لبنان",
+      "district": "عاليه",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0594",
+      "canonical_name_ar": "التليل – الطريق العام",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0595",
+      "canonical_name_ar": "الخريبة – عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0596",
+      "canonical_name_ar": "الشقدوف - البرج - الطريق العام",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0597",
+      "canonical_name_ar": "العبدة – عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0598",
+      "canonical_name_ar": "العبودية – الطريق العام",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0599",
+      "canonical_name_ar": "الهيشة - وادى خالد",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0600",
+      "canonical_name_ar": "ببنين حي العبد",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0601",
+      "canonical_name_ar": "ببنين - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0602",
+      "canonical_name_ar": "برقايل - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0603",
+      "canonical_name_ar": "برقايل- وادي الريحان",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0604",
+      "canonical_name_ar": "تل الحياة – عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0605",
+      "canonical_name_ar": "تلمعيان - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0606",
+      "canonical_name_ar": "حرار - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0607",
+      "canonical_name_ar": "حلبا - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0608",
+      "canonical_name_ar": "فنيدق - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0609",
+      "canonical_name_ar": "قبعيت – الطريق العام",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0610",
+      "canonical_name_ar": "وادي خالد - عكار",
+      "governorate": "عكار",
+      "district": "عكار",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0611",
+      "canonical_name_ar": "كسروان - جبيل",
+      "governorate": "كسروان - جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0612",
+      "canonical_name_ar": "جبيل – حي الحارة",
+      "governorate": "كسروان - جبيل",
+      "district": "جبيل",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0613",
+      "canonical_name_ar": "برج البراجنة - مركز غازي بيضون",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0614",
+      "canonical_name_ar": "مركز غازي بيضون",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0615",
+      "canonical_name_ar": "المشرفية",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0616",
+      "canonical_name_ar": "كرم الزيتون - اشرفية",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0617",
+      "canonical_name_ar": "اشرفية",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0618",
+      "canonical_name_ar": "برج حمود - بلغرجيان",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0619",
+      "canonical_name_ar": "بلغرجيان",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0620",
+      "canonical_name_ar": "بشار مهنا ومسلم عقيل - الشياح",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0621",
+      "canonical_name_ar": "بشار مهنا ومسلم عقيل",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0622",
+      "canonical_name_ar": "الظريف",
+      "governorate": "بيروت وجبل لبنان",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0623",
+      "canonical_name_ar": "العين",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0624",
+      "canonical_name_ar": "مهدي عيدي - مشغرة",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0625",
+      "canonical_name_ar": "مهدي عيدي",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0626",
+      "canonical_name_ar": "دورس لصحة الأم والطفل",
+      "governorate": "البقاع",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0627",
+      "canonical_name_ar": "حلتا",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0628",
+      "canonical_name_ar": "فرديس",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0629",
+      "canonical_name_ar": "ابل السقي",
+      "governorate": "الجنوب",
+      "active": "yes"
+    },
+    {
+      "location_id": "LOCVAR-0630",
+      "canonical_name_ar": "العرقوب",
+      "governorate": "الجنوب",
+      "active": "yes"
+    }
+  ]
 }
