@@ -1,7 +1,684 @@
 {
   "file": "routing.json",
   "source_sheet": "Routing_Policies",
-  "published_at": "2026-05-12T22:25:42.521Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:26.386Z",
+  "count": 45,
+  "data": [
+    {
+      "rule_id": "RT-001",
+      "intent_id": "medications",
+      "allowed_target_categories": "medications",
+      "location_behavior": "strict_then_expand_same_family",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-002",
+      "intent_id": "diapers_baby",
+      "allowed_target_categories": "diapers_baby",
+      "location_behavior": "strict_then_expand_same_family",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "diapers_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-003",
+      "intent_id": "diapers_adult",
+      "allowed_target_categories": "diapers_adult",
+      "location_behavior": "strict_then_expand_same_family",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "diapers_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-004",
+      "intent_id": "hospital",
+      "allowed_target_categories": "hospital",
+      "location_behavior": "strict_then_show_national_hospital_context",
+      "fallback_behavior": "hospital_context_then_related_services",
+      "response_shape": "message_plus_cards",
+      "intent_class": "urgent_direct",
+      "clarification_mode": "answer_now",
+      "response_assembler": "hospital_context_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-005",
+      "intent_id": "pregnancy_support",
+      "allowed_target_categories": [
+        "pregnancy_support",
+        "women_health_general"
+      ],
+      "location_behavior": "strict_then_expand_same_family",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-006",
+      "intent_id": "baby_delivery",
+      "allowed_target_categories": [
+        "baby_delivery",
+        "hospital"
+      ],
+      "location_behavior": "strict_then_show_national_hotlines",
+      "fallback_behavior": "urgent_hotline_first",
+      "response_shape": "hotline_plus_cards",
+      "intent_class": "urgent_direct",
+      "clarification_mode": "answer_now",
+      "response_assembler": "urgent_hotline_plus_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-007",
+      "intent_id": "women_health_general",
+      "allowed_target_categories": "women_health_general",
+      "location_behavior": "strict_then_expand_same_family",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-008",
+      "intent_id": "health_center",
+      "allowed_target_categories": [
+        "health_center",
+        "health_center_general",
+        "amel_phc"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "ask_area_then_list_exact_matches_or_1787",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-002",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-009",
+      "intent_id": "medical_tests",
+      "allowed_target_categories": [
+        "medical_tests",
+        "health_center",
+        "health_center_general"
+      ],
+      "location_behavior": "strict_then_expand_same_family",
+      "fallback_behavior": "always_include_medical_tests_anchor",
+      "response_shape": "message_plus_cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "tests_plus_anchor_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-010",
+      "intent_id": "mental_health",
+      "allowed_target_categories": [
+        "mental_health",
+        "health_center_psychiatrist",
+        "psychiatrist_support"
+      ],
+      "location_behavior": "strict_sensitive_with_fuzzy_crisis_override",
+      "fallback_behavior": "urgent_hotline_first",
+      "response_shape": "hotline_plus_cards",
+      "intent_class": "sensitive_direct",
+      "clarification_mode": "type_then_area_if_needed",
+      "prompt_id_step_1": "PR-014",
+      "prompt_id_step_2": "PR-001",
+      "response_assembler": "mental_health_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-011",
+      "intent_id": "disability_support",
+      "allowed_target_categories": [
+        "disability_support",
+        "assistive_devices",
+        "therapy_services",
+        "education_inclusion",
+        "medical_support",
+        "social_protection"
+      ],
+      "location_behavior": "numbered_area_then_include_all_areas",
+      "fallback_behavior": "clarify_type_and_area_first",
+      "response_shape": "cards_plus_pinned_contacts",
+      "intent_class": "final_subtype_required",
+      "clarification_mode": "type_then_area",
+      "prompt_id_step_1": "PR-003",
+      "prompt_id_step_2": "PR-004",
+      "response_assembler": "disability_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-012",
+      "intent_id": "displacement_aid",
+      "allowed_target_categories": [
+        "displacement_aid",
+        "refugees_aid",
+        "cash_assistance",
+        "food_assistance",
+        "shelter_support"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-013",
+      "intent_id": "lost_child",
+      "allowed_target_categories": "lost_child",
+      "location_behavior": "strict_sensitive",
+      "fallback_behavior": "lost_child_only",
+      "response_shape": "hotline_plus_cards",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now",
+      "response_assembler": "protected_hotline_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-014",
+      "intent_id": "health_center_general",
+      "allowed_target_categories": [
+        "health_center_general",
+        "health_center",
+        "amel_phc"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "ask_area_then_list_exact_matches_or_1787",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-002",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-015",
+      "intent_id": "health_center_psychiatrist",
+      "allowed_target_categories": "health_center_psychiatrist",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "ask_area_not_fallback",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-016",
+      "intent_id": "amel_phc",
+      "allowed_target_categories": "amel_phc",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-002",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-017",
+      "intent_id": "amel_community_center",
+      "allowed_target_categories": "amel_community_center",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-018",
+      "intent_id": "amel_social_center",
+      "allowed_target_categories": "amel_social_center",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-019",
+      "intent_id": "elderly_support",
+      "allowed_target_categories": [
+        "elderly_support",
+        "diapers_adult",
+        "assistive_devices",
+        "medications",
+        "mental_health",
+        "health_support"
+      ],
+      "location_behavior": "clarify_before_results",
+      "fallback_behavior": "clarify_not_fallback",
+      "response_shape": "clarify_menu_then_cards",
+      "intent_class": "umbrella",
+      "clarification_mode": "type_then_area_if_needed",
+      "prompt_id_step_1": "PR-011",
+      "prompt_id_step_2": "PR-001",
+      "response_assembler": "elderly_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-020",
+      "intent_id": "psychiatrist_support",
+      "allowed_target_categories": [
+        "psychiatrist_support",
+        "health_center_psychiatrist"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "ask_area_not_fallback",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-010",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-021",
+      "intent_id": "assistive_devices",
+      "allowed_target_categories": "assistive_devices",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-022",
+      "intent_id": "protection_violence",
+      "allowed_target_categories": [
+        "protection_violence",
+        "child_protection",
+        "psea_reporting",
+        "disability_protection"
+      ],
+      "location_behavior": "strict_sensitive_with_subtype_gate",
+      "fallback_behavior": "protected_only",
+      "response_shape": "cards",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "target_then_results",
+      "prompt_id_step_1": "PR-015",
+      "response_assembler": "protected_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-023",
+      "intent_id": "cancer_support",
+      "allowed_target_categories": [
+        "cancer_support",
+        "medical_support",
+        "hospital"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-024",
+      "intent_id": "shelter_support",
+      "allowed_target_categories": [
+        "shelter_support",
+        "house_aid"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-025",
+      "intent_id": "food_assistance",
+      "allowed_target_categories": "food_assistance",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-026",
+      "intent_id": "nutrition_infant",
+      "allowed_target_categories": "nutrition_infant",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-027",
+      "intent_id": "mine_risk_reporting",
+      "allowed_target_categories": "mine_risk_reporting",
+      "location_behavior": "ignore_area_show_now",
+      "fallback_behavior": "hotline_only",
+      "response_shape": "hotline_only",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now",
+      "response_assembler": "warning_hotline_only",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-028",
+      "intent_id": "psea_reporting",
+      "allowed_target_categories": "psea_reporting",
+      "location_behavior": "strict_sensitive",
+      "fallback_behavior": "protected_only",
+      "response_shape": "cards",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now",
+      "response_assembler": "protected_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-029",
+      "intent_id": "education_emergency",
+      "allowed_target_categories": [
+        "education_emergency",
+        "education"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-030",
+      "intent_id": "displacement_registration",
+      "allowed_target_categories": "displacement_registration",
+      "location_behavior": "ignore_area_show_now",
+      "fallback_behavior": "national_only",
+      "response_shape": "message_plus_cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "answer_now",
+      "response_assembler": "links_first_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-031",
+      "intent_id": "suicide_support",
+      "allowed_target_categories": "suicide_support",
+      "location_behavior": "ignore_area_show_now",
+      "fallback_behavior": "embrace_only",
+      "response_shape": "hotline_only",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now",
+      "response_assembler": "embrace_only",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-032",
+      "intent_id": "therapy_services",
+      "allowed_target_categories": "therapy_services",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-033",
+      "intent_id": "health_support",
+      "allowed_target_categories": [
+        "health_support",
+        "medical_support",
+        "health_center",
+        "hospital"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-034",
+      "intent_id": "emergency_hotline",
+      "allowed_target_categories": "emergency_hotline",
+      "location_behavior": "ignore_area_show_now",
+      "fallback_behavior": "hotline_only",
+      "response_shape": "hotline_only",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now",
+      "response_assembler": "emergency_hotline_only",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-035",
+      "intent_id": "cash_assistance",
+      "allowed_target_categories": [
+        "cash_assistance",
+        "house_aid"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-036",
+      "intent_id": "refugees_aid",
+      "allowed_target_categories": [
+        "refugees_aid",
+        "displacement_aid",
+        "cash_assistance",
+        "food_assistance",
+        "shelter_support"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-037",
+      "intent_id": "case_management",
+      "allowed_target_categories": "case_management",
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-038",
+      "intent_id": "education",
+      "allowed_target_categories": [
+        "education",
+        "education_inclusion",
+        "education_emergency"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-039",
+      "intent_id": "social_protection",
+      "allowed_target_categories": [
+        "social_protection",
+        "case_management"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-040",
+      "intent_id": "medical_support",
+      "allowed_target_categories": [
+        "medical_support",
+        "health_support",
+        "hospital"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results_if_missing",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-041",
+      "intent_id": "education_inclusion",
+      "allowed_target_categories": [
+        "education_inclusion",
+        "education",
+        "disability_support"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-042",
+      "intent_id": "child_protection",
+      "allowed_target_categories": [
+        "child_protection",
+        "lost_child"
+      ],
+      "location_behavior": "strict_sensitive",
+      "fallback_behavior": "protected_only",
+      "response_shape": "cards",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now_or_target_if_needed",
+      "response_assembler": "protected_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-043",
+      "intent_id": "disability_protection",
+      "allowed_target_categories": [
+        "disability_protection",
+        "protection_violence"
+      ],
+      "location_behavior": "strict_sensitive_with_subtype_gate",
+      "fallback_behavior": "protected_only",
+      "response_shape": "cards",
+      "intent_class": "hard_sensitive",
+      "clarification_mode": "answer_now_or_target_if_needed",
+      "response_assembler": "protected_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RT-044",
+      "intent_id": "house_aid",
+      "allowed_target_categories": [
+        "house_aid",
+        "cash_assistance",
+        "shelter_support"
+      ],
+      "location_behavior": "ask_area_every_new_request_then_strict_exact_area",
+      "fallback_behavior": "clarify_then_national",
+      "response_shape": "cards",
+      "intent_class": "final_direct",
+      "clarification_mode": "area_then_results",
+      "prompt_id_step_1": "PR-001",
+      "response_assembler": "standard_cards",
+      "active": "yes"
+    },
+    {
+      "rule_id": "RP-HOSP-PUBLIC",
+      "intent_id": "public_hospitals",
+      "allowed_target_categories": "hospital",
+      "location_behavior": "requires_location",
+      "fallback_behavior": "no_fallback",
+      "response_shape": "cards",
+      "intent_class": "service",
+      "clarification_mode": "none",
+      "response_assembler": "hospital_cards",
+      "active": "yes"
+    }
+  ]
 }
