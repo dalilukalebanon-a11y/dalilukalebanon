@@ -1,7 +1,7 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-13T03:34:11.433Z",
+  "published_at": "2026-05-13T15:00:40.518Z",
   "count": 750,
   "data": [
     {
@@ -16391,10 +16391,11 @@
     },
     {
       "service_id": "SRV-655",
-      "service_name_ar": "حوامل",
-      "category_main": "pregnancy_support",
+      "service_name_ar": "أدوية لمرضى السرطان النازحين في لبنان",
+      "category_main": "cancer_support",
       "category_additional": "medications",
-      "description_ar": "حواملللللل",
+      "description_ar": "للاستفسار عن الأدوية لمرضى السرطان النازحين في لبنان",
+      "phone_1": 70666933,
       "governorate": "لبنان",
       "coverage_type": "multi_area",
       "audience_tags_ar": "عام",
