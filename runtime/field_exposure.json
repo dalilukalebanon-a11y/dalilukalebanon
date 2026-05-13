@@ -1,7 +1,88 @@
 {
   "file": "field_exposure.json",
   "source_sheet": "Field_Exposure_Policies",
-  "published_at": "2026-05-12T22:25:52.974Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:36.582Z",
+  "count": 10,
+  "data": [
+    {
+      "rule_id": "FE-001",
+      "source_sheet": "Policies_Input",
+      "field_name": "value_ar",
+      "exposure_type": "user_visible",
+      "allowed_in_response": "yes",
+      "notes": "Use only rows where exposure_type = user_visible"
+    },
+    {
+      "rule_id": "FE-002",
+      "source_sheet": "Policies_Input",
+      "field_name": "editable_notes",
+      "exposure_type": "internal_only",
+      "allowed_in_response": "no",
+      "notes": "Never render admin guidance"
+    },
+    {
+      "rule_id": "FE-003",
+      "source_sheet": "Policies_Input",
+      "field_name": "system_notes",
+      "exposure_type": "internal_only",
+      "allowed_in_response": "no",
+      "notes": "Never render system contracts or implementation notes"
+    },
+    {
+      "rule_id": "FE-004",
+      "source_sheet": "Clarification_Prompts",
+      "field_name": "prompt_text_ar",
+      "exposure_type": "user_visible",
+      "allowed_in_response": "yes",
+      "notes": "Clarification text shown to user"
+    },
+    {
+      "rule_id": "FE-005",
+      "source_sheet": "Clarification_Prompts",
+      "field_name": "internal_notes",
+      "exposure_type": "internal_only",
+      "allowed_in_response": "no",
+      "notes": "Never render prompt-building notes"
+    },
+    {
+      "rule_id": "FE-006",
+      "source_sheet": "Conversation_Flow_Policies",
+      "field_name": "internal_contract",
+      "exposure_type": "internal_only",
+      "allowed_in_response": "no",
+      "notes": "Brain contract only; never surface in chat"
+    },
+    {
+      "rule_id": "FE-007",
+      "source_sheet": "Services_Input",
+      "field_name": "service_name_ar",
+      "exposure_type": "user_visible",
+      "allowed_in_response": "yes",
+      "notes": "Main title on result cards"
+    },
+    {
+      "rule_id": "FE-008",
+      "source_sheet": "Services_Input",
+      "field_name": "description_ar",
+      "exposure_type": "user_visible",
+      "allowed_in_response": "yes",
+      "notes": "Main description on result cards"
+    },
+    {
+      "rule_id": "FE-009",
+      "source_sheet": "Services_Input",
+      "field_name": "source_sheet",
+      "exposure_type": "internal_only",
+      "allowed_in_response": "no",
+      "notes": "Do not expose raw import sheet names to users"
+    },
+    {
+      "rule_id": "FE-010",
+      "source_sheet": "Services_Input",
+      "field_name": "internal_notes",
+      "exposure_type": "internal_only",
+      "allowed_in_response": "no",
+      "notes": "Reserve for ops/admin only"
+    }
+  ]
 }
