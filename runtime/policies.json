@@ -1,7 +1,374 @@
 {
   "file": "policies.json",
   "source_sheet": "Policies_Input",
-  "published_at": "2026-05-12T22:25:34.757Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:19.880Z",
+  "count": 61,
+  "data": [
+    {
+      "policy_group": "messaging",
+      "policy_key": "first_intro_message",
+      "value_ar": "أهلاً فيك 👋\nأنا \"دليلك\"، مساعد إلكتروني بيساعدك تلاقي خدمات وأرقام مهمة بلبنان.\n\n📌 فيك تحكي معي بالعربي\n\n⚠️ حالياً أنا بمرحلة تجريبية،  \nيعني ممكن أحياناً ما أفهم كل شي 100%، بس عم اتحسن باستمرار.\n\n📂 فيني ساعدك بهالمجالات:\n\n1. مراكز صحية  \n2. أرقام طوارئ  \n3. مستشفيات حكومية  \n4. حفاضات  \n5. أدوية  \n6. مساعدة غذائية  \n7. مساعدات مالية  \n8. مركز إيواء  \n9. حماية من العنف / حماية الطفل  \n10. دعم نفسي  \n11. خدمات لذوي الإعاقة  \n12. خدمات لكبار السن  \n13. ولادة وصحة نسائية  \n\n👉 فيك تكتب اسم الخدمة  \nأو حتى تبعت رقم (مثلاً: 1 أو 4)\n\n⚠️ مهم جداً:  \nأي رقم أو خدمة بعطيك ياها،  \nتأكد منها عبر الاتصال أولاً،  \nوإذا ما حدا رد، جرّب تتصل بوقت تاني.\n\nأنا هون لابعتلك الخدمة الأقرب لطلبك، مش لاتخاذ القرار بدالك 💙",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "reintro_message",
+      "value_ar": "أكيد 🌷\nأنا \"دليلك\"، بساعدك تلاقي خدمات وأرقام مهمة بلبنان.\n\n📂 فيني ساعدك بهالمجالات:\n\n1. مراكز صحية  \n2. أرقام طوارئ  \n3. مستشفيات حكومية  \n4. حفاضات  \n5. أدوية  \n6. مساعدة غذائية  \n7. مساعدات مالية  \n8. مركز إيواء  \n9. حماية من العنف / حماية الطفل  \n10. دعم نفسي  \n11. خدمات لذوي الإعاقة  \n12. خدمات لكبار السن  \n13. ولادة وصحة نسائية  \n\n👉 فيك تختار رقم أو تكتب طلبك بكلماتك.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "disclaimer_always",
+      "value_ar": "⚠️ تأكد من الرقم أو الخدمة عبر الاتصال أولاً، وإذا ما كان في رد جرّب الاتصال بوقت آخر.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "conversation",
+      "policy_key": "how_can_you_help_triggers",
+      "value_ar": "كيف فيك تساعدني; كيف بتساعد; شو فيك تساعد; شو فيك تعمل; شو الخدمات يلي بتعرفها; how can you help me; what can you help with",
+      "active": "yes"
+    },
+    {
+      "policy_group": "language",
+      "policy_key": "display_language_rule",
+      "value_ar": "استعمل العربية أولاً في النصوص الظاهرة للمستخدم. لا تستعمل اختصارات داخلية مثل PHCC. وإذا كان الاسم الرسمي نفسه بالإنكليزية فقط، اعرضه كما هو.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "phone_rendering_rule",
+      "value_ar": "اعرض أرقام الهاتف باتجاه LTR ومعزولة بصرياً داخل الواجهة حتى لا تنعكس داخل النص العربي.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "field_exposure_rule",
+      "value_ar": "اعرض للمستخدم فقط الحقول والسياسات المعلّمة exposure_type = user_visible. أي editable_notes أو system_notes أو internal_contract أو internal_only يجب أن تبقى داخلية بالكامل.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "execution_order_rule",
+      "value_ar": "ترتيب التنفيذ الإلزامي: 1) normalize input، 2) إذا في pending_step صالح فحاول حل الرد عبر option_set المرتبط أولاً، 3) Sensitive_Triggers، 4) Safety_Overrides، 5) Intent_Variants_Input، 6) Conversation_Flow_Policies، 7) service matching، 8) filtering + dedupe + ranking، 9) response assembler.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "availability_rule",
+      "value_ar": "اعرض فقط الخدمات التي availability_status فيها = available. إذا كانت unavailable لا تُذكرها أبداً.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "category_additional_matching_rule",
+      "value_ar": "يطابق النظام الخدمة إذا طابق intent مع category_main أو مع أي قيمة ضمن category_additional بعد تقسيمها بالفاصلة المنقوطة ; مع الحفاظ على category_main كأولوية في الترتيب.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "area_filter_rule",
+      "value_ar": "إذا ذكر المستخدم منطقة، طبّق الفلترة بحسب المنطقة أولاً. وإذا كانت سياسة المسار تتطلب area ولم تُذكر، اسأل سؤال المنطقة المناسب ولا تعرض نتائج قبل جمعها في المسارات التي requires_area_before_results فيها = yes.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "all_areas_inclusion_rule",
+      "value_ar": "أي خدمة تغطيتها كل لبنان/كل المناطق تبقى مؤهلة للعرض حتى عندما يطلب المستخدم منطقة محددة. اعرض التطابق المحلي أولاً ثم خدمات كل المناطق.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "true_national_not_all_regions_rule",
+      "value_ar": "الخدمات الوطنية الحقيقية يمكن إظهارها مع أي منطقة. أما الخطوط الإقليمية أو وحدات المحافظات فيُذكر فقط ما يطابق منطقة المستخدم، وليس جميع الوحدات.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "response_assembly_order_rule",
+      "value_ar": "بعد تحديد intent والـ slots النهائية: طبّق حدود الحماية أولاً، ثم الفلاتر، ثم dedupe، ثم الترتيب main > additional > display_priority، وبعدها فقط استعمل response_assembler المحدد للمسار.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "conversation",
+      "policy_key": "sequential_clarification_rule",
+      "value_ar": "إذا احتاج المسار أكثر من معلومة (مثل النوع ثم المنطقة)، اسأل عن كل معلومة برسالة منفصلة فقط. لا تضع قائمتين مرقمتين مختلفتين في نفس الرسالة أبداً.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "conversation",
+      "policy_key": "clarification_override_rule",
+      "value_ar": "إذا كان هناك pending_step صالح، فإن intent = clarification يجب أن يربح قبل أي intent عادي، ويُفسَّر الرد فقط ضمن السؤال المعلّق.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "option_set_resolution_rule",
+      "value_ar": "عند وجود pending_step مرتبط بـ option_set_id: إذا كان الرد رقماً صالحاً ضمن هذا الـ option set، استخرج maps_to_slot و maps_to_value من Option_Sets واكتب القيمة في slot المقابل ثم أكمل نفس المسار.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "invalid_pending_number_rule",
+      "value_ar": "إذا كان هناك pending_step لكن الرقم المرسل لا يطابق أي display_order في الـ option_set المتوقع، لا تخمّن معناه. أعد طلب نفس التوضيح أو اسمح بالنص الحر فقط إذا كان prompt يسمح بذلك.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "orphan_numeric_rule",
+      "value_ar": "إذا وصلت رسالة رقمية منفردة ولا يوجد pending_step صالح مرتبط بـ option_set، لا تخمّن معناها. الاستثناء الوحيد هو عندما تكون آخر رسالة معروضة هي first_intro_message أو reintro_message أو رسالة الاعتذار بعد repair_objection وكان pending_step = main_menu_navigation مربوطاً بـ OPT-MAIN-MENU.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "pending_text_resume_rule",
+      "value_ar": "إذا كان pending_step يسمح بالنص الحر وكان الرد نصاً يطابق slot السؤال الحالي (مثل منطقة أو شرح اعتراض)، استهلكه كمتابعة للمسار نفسه قبل أي reroute.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "repair",
+      "policy_key": "repair_objection_rule",
+      "value_ar": "إذا اعترض المستخدم على النتيجة السابقة عبر repair_objection، لا تعِد فلترة النتائج السابقة ولا تستخدم Result_Repair_Policies. اعرض رسالة اعتذار قصيرة، ثم أعد توجيهه مباشرة إلى القائمة المرقّمة نفسها، مع تفعيل pending_step = main_menu_navigation وربط OPT-MAIN-MENU.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "no_general_aid_umbrella_rule",
+      "value_ar": "لا تستخدم intent أو سياسة باسم general_aid. عند الطلبات العامة عن المساعدة، حاول تحديد المسار الفعلي من intents الموجودة مثل cash_assistance أو food_assistance أو shelter_support أو displacement_aid أو social_protection، وإذا بقي الطلب غامضاً اطلب توضيحاً بدل عرض خدمات مختلطة.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "specific_group_not_general_rule",
+      "value_ar": "إذا طلب المستخدم خدمة لفئة محددة مثل الحوامل أو الأشخاص ذوي الإعاقة أو الأطفال أو كبار السن، وجّه أولاً إلى المسار الخاص بهذه الفئة ولا تُرجع مساعدات عامة فقط.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "pregnancy_plural_rule",
+      "value_ar": "اعتبر كلمات مثل حوامل / للحوامل / خدمات للحوامل جزءاً من pregnancy_support أو women_health_general بحسب الصياغة، وليس من المساعدات العامة فقط.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "diaper_age_rule",
+      "value_ar": "إذا ذُكر طفل أو بيبي أو عمر صغير، فضّل diapers_baby. وإذا ذُكر كبير بالعمر أو incontinence أو 60+، فضّل diapers_adult. وإذا بقيت الإشارة غير كافية، استخدم PR-007 فقط.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "diapers_baby_hard_filter_rule",
+      "value_ar": "عند طلب حفاضات للأطفال، لا تُعرض أي خدمة تعليم أو إعاقة أو طفولة مبكرة إلا إذا كانت الخدمة مذكورة صراحة كحفاضات أو مستلزمات مرتبطة مباشرة بالطفل.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "mental_health_split_rule",
+      "value_ar": "عند طلب دعم نفسي بدون تحديد، اسأل أولاً عبر PR-014 هل المطلوب طبيب/معالج نفسي أم دعم نفسي. لا تخلط المسارين في نفس النتائج.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "mental_health_phcc_split_rule",
+      "value_ar": "إذا طلب المستخدم مركزاً صحياً عاماً، لا تضف تلقائياً مراكز عندها طبيب نفسي كأنها نفس الفئة. وإذا طلب طبيب/معالج نفسي أو مركزاً فيه طبيب نفسي، اعرض فقط المسار الصحي النفسي المناسب.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "hospital_not_emergency_rule",
+      "value_ar": "المستشفيات ليست طوارئ. إذا كان intent = hospital اعرض مسار المستشفيات فقط. وإذا كان intent = emergency_hotline اعرض أرقام الطوارئ فوراً فقط. لا تخلط المسارين في نفس الرد.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "hospital_intro_text",
+      "value_ar": "بالمستشفيات الحكومية، في تغطية طبية للنازحين وغير المضمونين بحسب قرار وزارة الصحة، اتصل ب1787 لتتأكد و تعرف تفاصيل اكتر. هلق رح أعرض لك فقط النتائج المرتبطة بالمستشفيات.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "emergency_hotline_priority_rule",
+      "value_ar": "عند طلب طوارئ أو إسعاف أو حادث أو نزيف أو حريق: اعرض أرقام الطوارئ فوراً قبل أي نتائج أخرى، ولا تؤخرها بسؤال المنطقة، ولا تخلطها بمسار المستشفيات.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "emergency_hotlines_intro_text",
+      "value_ar": "إذا الحالة طارئة، بلّش/ي فوراً بأرقام الطوارئ التالية قبل أي شيء آخر:",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "suicide_detection_priority",
+      "value_ar": "مرّر كشف مؤشرات الانتحار أو إيذاء النفس قبل fallback وقبل أي intent عادي. إذا تم التفعيل، أوقف أي routing عادي فوراً.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "suicide_crisis_response",
+      "value_ar": "للدعم النفسي والوقاية من الانتحار: إمبرايس 1564",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "gbv_safe_routing_rule",
+      "value_ar": "عند رصد عنف أو ضرب أو تحرش أو استغلال: ادخل فوراً إلى protection_violence، واستخدم PR-015 لتحديد الفئة (امرأة/طفل/شخص عنده إعاقة) عند الحاجة، وامنع أي fallback أو خلط مع خدمات غير الحماية.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "child_protection_safe_routing_rule",
+      "value_ar": "عند رصد خطر أو عنف على طفل، ادخل فوراً إلى child_protection أو lost_child بحسب الطلب، وامنع أي خلط مع خدمات عامة أو fallback.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "violence_target_resolution_rule",
+      "value_ar": "في PR-015: الرقم 1 يوجّه إلى gbv_sensitive، الرقم 2 إلى child_protection، الرقم 3 إلى disability_protection، وذلك فقط داخل pending_step الخاص بالحماية من العنف.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "multi_intent_rule",
+      "value_ar": "إذا ظهر أكثر من intent مسموح في نفس الرسالة، اعزل أولاً أي intent حساس أو محمي. إذا لم يوجد intent حساس، يمكن تقسيم الرد إلى أقسام منفصلة فقط إذا كانت السياسة تسمح بذلك ومن دون كسر pending_step أو خلط العائلات.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "medical_tests_anchor_text",
+      "value_ar": "لفحوصات أو تحاليل، ابدأ بمراكز الرعاية الصحية الأولية الأقرب إلك. وإذا بدك استفسار إضافي، فيك تتواصل مع وزارة الصحة على 1787.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "medical_tests_always_include",
+      "value_ar": "عند طلب فحوصات أو تحاليل: ثبّت دائماً مسار health_center/health_center_general المناسب + النص المرجعي 1787، ولا تحوّله إلى مسار مستشفيات افتراضياً.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "health_center_1787_text",
+      "value_ar": "إذا بدك كمان، فيك تتواصل مع وزارة الصحة على 1787 للاستفسار عن أقرب مركز رعاية صحية أولية مناسب إلك.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "phcc_display_label",
+      "value_ar": "مراكز الرعاية الصحية الأولية",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "phcc_source_label_rule",
+      "value_ar": "في وصف نتائج مراكز الرعاية الصحية الأولية، استخدم عبارة: من اللائحة الرسمية لوزارة الصحة العامة، ولا تذكر ملف Excel أو أسماء ملفات داخلية.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "idraac_cbr_portal",
+      "value_ar": "بوابة IDRAAC CBR: cbr.idraac.org",
+      "active": "yes"
+    },
+    {
+      "policy_group": "routing",
+      "policy_key": "disability_always_include_rule",
+      "value_ar": "في مسار disability_support: اجمع الخدمات المحلية المطابقة + الخدمات التي تغطي كل لبنان + أي خطوط/خدمات ثابتة معتمدة للإعاقة بحسب المنطقة، ثم dedupe قبل العرض.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "disability_dedupe_rule",
+      "value_ar": "في مسارات الإعاقة، امنع تكرار نفس الجهة أو الخط أو الخدمة بأشكال متعددة ما لم يكن هناك فرق فعلي في المنطقة أو نوع الخدمة.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "disability_source_line",
+      "value_ar": "المصدر: بوابة IDRAAC CBR (cbr.idraac.org)",
+      "active": "yes"
+    },
+    {
+      "policy_group": "fallback",
+      "policy_key": "unclear_or_not_found_message",
+      "value_ar": "ممكن ما فهمت طلبك بالكامل، أو يمكن ما لقيت الخدمة المطلوبة ضمن البيانات الحالية. إذا بتحب، اكتب اسم الخدمة بشكل أوضح ومع المنطقة إذا متوفرة.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "partial_understanding_note",
+      "value_ar": "فهمت جزء من طلبك، بس بدي أوضّح نقطة صغيرة حتى أعطيك نتيجة أدق.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "result_repair_intro",
+      "value_ar": "آسفة إذا كانت النتيجة ما كانت مناسبة 🙏\nخلّينا نجرّب من جديد من القائمة المرقّمة:",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "area_option_resolution_rule",
+      "value_ar": "في أسئلة المنطقة المرتبطة بـ PR-001 و PR-002 و PR-004 و PR-010: فسّر الأرقام 1..8 فقط عبر OPT-AREA-GOV-8، واكتب القيمة في slot = area ثم أكمل نفس المسار.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "disability_option_resolution_rule",
+      "value_ar": "في PR-003: استخدم OPT-DISABILITY-TYPE فقط. خرائطه الحالية هي 1→therapy_services، 2→mental_health، 3→assistive_devices، 4→social_protection; disability_protection، 5→medical_support، 6→education_inclusion.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "diapers_option_resolution_rule",
+      "value_ar": "في PR-007: الرقم 1 يعني diapers_baby والرقم 2 يعني diapers_adult عبر OPT-DIAPER-SUBTYPE فقط.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "elderly_option_resolution_rule",
+      "value_ar": "في PR-011: استخدم OPT-ELDERLY-TYPE فقط. الخرائط الحالية هي 1→medications، 2→diapers_adult، 3→health_support، 4→assistive_devices، 5→mental_health.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "mental_health_option_resolution_rule",
+      "value_ar": "في PR-014: استخدم OPT-MENTAL-HEALTH-TYPE فقط. الرقم 1 يوجّه إلى psychiatrist_support والرقم 2 يبقي المسار على mental_health.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "repair_option_resolution_rule",
+      "value_ar": "نظام repair بالأرقام مع OPT-REPAIR-TYPE متوقف في الإطلاق الحالي. عند repair_objection لا يتم تفسير الأرقام كأسباب إصلاح، بل يتم عرض القائمة الرئيسية المرقّمة عبر OPT-MAIN-MENU.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "public_hospitals_filter_rule",
+      "value_ar": "إذا كان intent_id = public_hospitals، يجب عرض الخدمات التي يكون فيها category_main = hospital ويحتوي category_additional على public_hospitals فقط. لا يجوز خلطها مع نتائج hospital العامة.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "hospital_emergency_separation_rule",
+      "value_ar": "فئة hospital منفصلة عن emergency بشكل كامل. طلب مستشفى أو مستشفى حكومي لا يُحوَّل إلى emergency إلا إذا تم تفعيل Sensitive_Triggers أو كان intent_id = emergency بشكل صريح.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "main_menu_option_resolution_rule",
+      "value_ar": "في first_intro_message و reintro_message ورسالة الاعتذار بعد repair_objection: فعّل pending_step = main_menu_navigation واربطه بـ OPT-MAIN-MENU. عند وصول رقم صحيح 1..13، فسّره فقط عبر هذا الـ option set ثم أكمل التنفيذ العادي.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "messaging",
+      "policy_key": "input_bar_helper_text",
+      "value_ar": "قد أُخطئ أحياناً، تأكّد دائماً من الخدمة قبل الاعتماد عليها.",
+      "active": "yes"
+    },
+    {
+      "policy_group": "logic",
+      "policy_key": "main_menu_combined_item_rule",
+      "value_ar": "البندان 9 و13 في القائمة الرئيسية عناوين جامعة. الرقم 9 يوجّه إلى protection_violence كمسار حماية آمن مع تحديد الفئة لاحقاً، والرقم 13 يوجّه إلى pregnancy_support كبوابة لخدمات الولادة/الصحة النسائية في النسخة الحالية.",
+      "active": "yes"
+    }
+  ]
 }
