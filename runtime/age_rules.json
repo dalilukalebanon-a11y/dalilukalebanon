@@ -1,7 +1,148 @@
 {
   "file": "age_rules.json",
   "source_sheet": "Age_Patterns, Age_Group_Rules",
-  "published_at": "2026-05-12T22:25:40.424Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:24.431Z",
+  "count": 28,
+  "data": [
+    {
+      "pattern_text": "عمره",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "عمرها",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "عمرن",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "سنة",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "سنين",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "طفل عمره",
+      "language": "arabic",
+      "pattern_type": "child_hint"
+    },
+    {
+      "pattern_text": "ولد عمره",
+      "language": "arabic",
+      "pattern_type": "child_hint"
+    },
+    {
+      "pattern_text": "بنت عمرها",
+      "language": "arabic",
+      "pattern_type": "child_hint"
+    },
+    {
+      "pattern_text": "years old",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "year old",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "aged",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "age",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "قديش عمره",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "عمره 60 سنة",
+      "language": "arabic",
+      "pattern_type": "example_pattern"
+    },
+    {
+      "pattern_text": "حدا عمره",
+      "language": "arabic",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "طفل عمره",
+      "language": "arabic",
+      "pattern_type": "child_hint"
+    },
+    {
+      "pattern_text": "بنت عمرها",
+      "language": "arabic",
+      "pattern_type": "child_hint"
+    },
+    {
+      "pattern_text": "ولد عمره",
+      "language": "arabic",
+      "pattern_type": "child_hint"
+    },
+    {
+      "pattern_text": "years old",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "year old",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "aged",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "age",
+      "language": "english",
+      "pattern_type": "nearby_number"
+    },
+    {
+      "pattern_text": "is 7 years old",
+      "language": "english",
+      "pattern_type": "example_pattern"
+    },
+    {
+      "min_age": 0,
+      "max_age": 2,
+      "label_ar": "رضيع"
+    },
+    {
+      "min_age": 3,
+      "max_age": 12,
+      "label_ar": "طفل"
+    },
+    {
+      "min_age": 13,
+      "max_age": 17,
+      "label_ar": "مراهق"
+    },
+    {
+      "min_age": 18,
+      "max_age": 59,
+      "label_ar": "بالغ"
+    },
+    {
+      "min_age": 60,
+      "max_age": 120,
+      "label_ar": "كبير بالعمر"
+    }
+  ]
 }
