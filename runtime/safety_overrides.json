@@ -1,7 +1,86 @@
 {
   "file": "safety_overrides.json",
   "source_sheet": "Safety_Overrides",
-  "published_at": "2026-05-12T22:25:50.616Z",
-  "count": 0,
-  "data": []
+  "published_at": "2026-05-13T03:34:34.611Z",
+  "count": 6,
+  "data": [
+    {
+      "override_id": "SO-001",
+      "override_type": "suicide",
+      "trigger_text": "بدي موت",
+      "match_mode": "fuzzy_contains",
+      "priority": 1000,
+      "approved_response_policy_key": "suicide_sensitive",
+      "allowed_only_service_ids": "SRV-002",
+      "suppress_fallback": "yes",
+      "suppress_other_services": "yes",
+      "clear_pending_flow": "yes",
+      "active": "yes"
+    },
+    {
+      "override_id": "SO-006",
+      "override_type": "gbv",
+      "trigger_text": "عنف",
+      "match_mode": "fuzzy_contains",
+      "priority": 980,
+      "approved_response_policy_key": "child_protection_sensitive",
+      "allowed_only_service_ids": "SRV-032;SRV-033;SRV-034;SRV-035;SRV-LC-001;SRV-LC-002;SRV-LC-003;SRV-LC-004;SRV-LC-005",
+      "suppress_fallback": "yes",
+      "suppress_other_services": "yes",
+      "clear_pending_flow": "yes",
+      "active": "yes"
+    },
+    {
+      "override_id": "SO-007",
+      "override_type": "gbv",
+      "trigger_text": "ضرب",
+      "match_mode": "fuzzy_contains",
+      "priority": 980,
+      "approved_response_policy_key": "emergency_line",
+      "allowed_only_service_ids": "SRV-001;SRV-003;SRV-029;SRV-046;SRV-047;SRV-048;SRV-049;SRV-050;SRV-051;SRV-054;SRV-055;SRV-056;SRV-057;SRV-058;SRV-017",
+      "suppress_fallback": "yes",
+      "suppress_other_services": "yes",
+      "clear_pending_flow": "yes",
+      "active": "yes"
+    },
+    {
+      "override_id": "SO-008",
+      "override_type": "gbv",
+      "trigger_text": "تحرش",
+      "match_mode": "fuzzy_contains",
+      "priority": 980,
+      "approved_response_policy_key": "disability_protection_urgent",
+      "allowed_only_service_ids": "SRV-081;SRV-081b;SRV-081c",
+      "suppress_fallback": "yes",
+      "suppress_other_services": "yes",
+      "clear_pending_flow": "yes",
+      "active": "yes"
+    },
+    {
+      "override_id": "SO-009",
+      "override_type": "gbv",
+      "trigger_text": "اعتداء",
+      "match_mode": "fuzzy_contains",
+      "priority": 980,
+      "approved_response_policy_key": "gbv_sensitive",
+      "allowed_only_service_ids": "SRV-015;SRV-017;SRV-018;SRV-020;SRV-082;SRV-081b",
+      "suppress_fallback": "yes",
+      "suppress_other_services": "yes",
+      "clear_pending_flow": "yes",
+      "active": "yes"
+    },
+    {
+      "override_id": "SO-010",
+      "override_type": "child_protection",
+      "trigger_text": "طفل يتعرض للضرب",
+      "match_mode": "fuzzy_contains",
+      "priority": 985,
+      "approved_response_policy_key": "medical_urgent",
+      "allowed_only_service_ids": "SRV-050;SRV-083",
+      "suppress_fallback": "yes",
+      "suppress_other_services": "yes",
+      "clear_pending_flow": "yes",
+      "active": "yes"
+    }
+  ]
 }
