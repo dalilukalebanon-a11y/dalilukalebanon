@@ -1,0 +1,424 @@
+{
+  "file": "sensitive_triggers.json",
+  "source_sheet": "Sensitive_Triggers",
+  "published_at": "2026-05-14T18:16:25.405Z",
+  "count": 52,
+  "data": [
+    {
+      "trigger_id": "ST-0001",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "انتحر",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "hard suicide phrase"
+    },
+    {
+      "trigger_id": "ST-0002",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "بدي موت",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "crisis phrase"
+    },
+    {
+      "trigger_id": "ST-0003",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "ما بدي عيش",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "crisis phrase"
+    },
+    {
+      "trigger_id": "ST-0004",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "بفكر أقتل حالي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "self harm phrase"
+    },
+    {
+      "trigger_id": "ST-0005",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "عم فكر أأذي حالي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "self harm phrase"
+    },
+    {
+      "trigger_id": "ST-0006",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "بدي انهي حياتي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "crisis phrase"
+    },
+    {
+      "trigger_id": "ST-0007",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "بدي خلص من حياتي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "crisis phrase"
+    },
+    {
+      "trigger_id": "ST-0008",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "kill myself",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english suicide phrase"
+    },
+    {
+      "trigger_id": "ST-0009",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "end my life",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english suicide phrase"
+    },
+    {
+      "trigger_id": "ST-0010",
+      "sensitive_group": "suicide_sensitive",
+      "trigger_text": "badi enta7er",
+      "language_type": "arabizi",
+      "active": "yes",
+      "notes": "arabizi suicide phrase"
+    },
+    {
+      "trigger_id": "ST-0011",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "اسعاف",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "ambulance keyword"
+    },
+    {
+      "trigger_id": "ST-0012",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "بدنا اسعاف",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "ambulance phrase"
+    },
+    {
+      "trigger_id": "ST-0013",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "حريق",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "fire keyword"
+    },
+    {
+      "trigger_id": "ST-0014",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "في حريق",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "fire phrase"
+    },
+    {
+      "trigger_id": "ST-0015",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "شرطة",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "police keyword"
+    },
+    {
+      "trigger_id": "ST-0016",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "بدنا شرطة",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "police phrase"
+    },
+    {
+      "trigger_id": "ST-0017",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "حادث",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "accident keyword"
+    },
+    {
+      "trigger_id": "ST-0018",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "صار حادث",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "accident phrase"
+    },
+    {
+      "trigger_id": "ST-0019",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "طوارئ",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "emergency keyword"
+    },
+    {
+      "trigger_id": "ST-0020",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "حالة طارئة",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "emergency phrase"
+    },
+    {
+      "trigger_id": "ST-0021",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "ambulance",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english keyword"
+    },
+    {
+      "trigger_id": "ST-0022",
+      "sensitive_group": "emergency_line",
+      "trigger_text": "police",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english keyword"
+    },
+    {
+      "trigger_id": "ST-0023",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "عم يضربني",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "gbv phrase"
+    },
+    {
+      "trigger_id": "ST-0024",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "تعرضت للضرب",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "violence phrase"
+    },
+    {
+      "trigger_id": "ST-0025",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "حدا عم يعتدي علي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "assault phrase"
+    },
+    {
+      "trigger_id": "ST-0026",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "حدا عم يتحرش فيي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "harassment phrase"
+    },
+    {
+      "trigger_id": "ST-0027",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "تعرضت للتحرش",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "harassment phrase"
+    },
+    {
+      "trigger_id": "ST-0028",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "اعتداء جنسي",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "sexual assault phrase"
+    },
+    {
+      "trigger_id": "ST-0029",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "في عنف بالبيت",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "domestic violence phrase"
+    },
+    {
+      "trigger_id": "ST-0030",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "عم يهددني",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "threat phrase"
+    },
+    {
+      "trigger_id": "ST-0031",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "physical violence",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english violence phrase"
+    },
+    {
+      "trigger_id": "ST-0032",
+      "sensitive_group": "gbv_sensitive",
+      "trigger_text": "sexual harassment",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english harassment phrase"
+    },
+    {
+      "trigger_id": "ST-0033",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "طفل بخطر",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "child risk phrase"
+    },
+    {
+      "trigger_id": "ST-0034",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "ولد بخطر",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "child risk phrase"
+    },
+    {
+      "trigger_id": "ST-0035",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "طفل عم ينضرب",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "child abuse phrase"
+    },
+    {
+      "trigger_id": "ST-0036",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "ولد عم ينضرب",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "child abuse phrase"
+    },
+    {
+      "trigger_id": "ST-0037",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "إساءة للأطفال",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "child abuse phrase"
+    },
+    {
+      "trigger_id": "ST-0038",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "تعنيف طفل",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "child violence phrase"
+    },
+    {
+      "trigger_id": "ST-0039",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "child abuse",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english child abuse phrase"
+    },
+    {
+      "trigger_id": "ST-0040",
+      "sensitive_group": "child_protection_sensitive",
+      "trigger_text": "child at risk",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english child risk phrase"
+    },
+    {
+      "trigger_id": "ST-0041",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "حالة طبية طارئة",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "urgent medical phrase"
+    },
+    {
+      "trigger_id": "ST-0042",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "حالة حرجة",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "critical condition"
+    },
+    {
+      "trigger_id": "ST-0043",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "بدنا دكتور بسرعة",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "urgent doctor phrase"
+    },
+    {
+      "trigger_id": "ST-0044",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "بدنا مستشفى فوراً",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "urgent hospital phrase"
+    },
+    {
+      "trigger_id": "ST-0045",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "وضع صحي خطير",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "serious medical state"
+    },
+    {
+      "trigger_id": "ST-0046",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "شخص عم يموت",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "life-threatening phrase"
+    },
+    {
+      "trigger_id": "ST-0047",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "critical condition",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english urgent medical phrase"
+    },
+    {
+      "trigger_id": "ST-0048",
+      "sensitive_group": "medical_urgent",
+      "trigger_text": "medical emergency",
+      "language_type": "english",
+      "active": "yes",
+      "notes": "english urgent medical phrase"
+    },
+    {
+      "trigger_id": "ST-0049",
+      "sensitive_group": "disability_protection_urgent",
+      "trigger_text": "شخص عنده إعاقة بخطر",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "disability protection phrase"
+    },
+    {
+      "trigger_id": "ST-0050",
+      "sensitive_group": "disability_protection_urgent",
+      "trigger_text": "شخص معاق عم يتعرض للعنف",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "disability violence phrase"
+    },
+    {
+      "trigger_id": "ST-0051",
+      "sensitive_group": "disability_protection_urgent",
+      "trigger_text": "حدا عنده إعاقة عم ينضرب",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "disability violence phrase"
+    },
+    {
+      "trigger_id": "ST-0052",
+      "sensitive_group": "disability_protection_urgent",
+      "trigger_text": "شخص معاق بحاجة حماية",
+      "language_type": "arabic",
+      "active": "yes",
+      "notes": "disability protection phrase"
+    }
+  ]
+}
