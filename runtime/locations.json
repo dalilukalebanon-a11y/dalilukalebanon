@@ -1,49 +1,43 @@
 {
   "file": "locations.json",
   "source_sheet": "Locations_Input",
-  "published_at": "2026-05-13T17:05:20.081Z",
+  "published_at": "2026-05-14T18:16:02.600Z",
   "count": 630,
   "data": [
     {
       "location_id": "LOCVAR-0001",
       "canonical_name_ar": "لبنان",
       "variant_text": "لبنان",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
       "location_id": "LOCVAR-0002",
       "canonical_name_ar": "لبنان",
       "variant_text": "lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
       "location_id": "LOCVAR-0003",
       "canonical_name_ar": "لبنان",
       "variant_text": "lb",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
       "location_id": "LOCVAR-0004",
       "canonical_name_ar": "لبنان",
       "variant_text": "كل لبنان",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
       "location_id": "LOCVAR-0005",
       "canonical_name_ar": "لبنان",
       "variant_text": "all lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
       "location_id": "LOCVAR-0006",
       "canonical_name_ar": "لبنان",
       "variant_text": "nationwide",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -51,7 +45,6 @@
       "canonical_name_ar": "بيروت",
       "governorate": "بيروت",
       "variant_text": "بيروت",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -59,7 +52,6 @@
       "canonical_name_ar": "بيروت",
       "governorate": "بيروت",
       "variant_text": "beirut",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -67,7 +59,6 @@
       "canonical_name_ar": "بيروت",
       "governorate": "بيروت",
       "variant_text": "bayrut",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -75,7 +66,6 @@
       "canonical_name_ar": "بيروت",
       "governorate": "بيروت",
       "variant_text": "beyrouth",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -83,7 +73,6 @@
       "canonical_name_ar": "جبل لبنان",
       "governorate": "جبل لبنان",
       "variant_text": "جبل لبنان",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -91,7 +80,6 @@
       "canonical_name_ar": "جبل لبنان",
       "governorate": "جبل لبنان",
       "variant_text": "mount lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -99,7 +87,6 @@
       "canonical_name_ar": "جبل لبنان",
       "governorate": "جبل لبنان",
       "variant_text": "jabal lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -107,7 +94,6 @@
       "canonical_name_ar": "جبل لبنان",
       "governorate": "جبل لبنان",
       "variant_text": "jebel lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -115,7 +101,6 @@
       "canonical_name_ar": "جبل لبنان",
       "governorate": "جبل لبنان",
       "variant_text": "mountlebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -123,7 +108,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "الشمال",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -131,7 +115,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "شمال لبنان",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -139,7 +122,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "north lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -147,7 +129,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "north",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -155,7 +136,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "shmel",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -163,7 +143,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "shamal",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -171,7 +150,6 @@
       "canonical_name_ar": "الشمال",
       "governorate": "الشمال",
       "variant_text": "north lb",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -179,7 +157,6 @@
       "canonical_name_ar": "عكار",
       "governorate": "عكار",
       "variant_text": "عكار",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -187,7 +164,6 @@
       "canonical_name_ar": "عكار",
       "governorate": "عكار",
       "variant_text": "akkar",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -195,7 +171,6 @@
       "canonical_name_ar": "عكار",
       "governorate": "عكار",
       "variant_text": "akar",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -203,7 +178,6 @@
       "canonical_name_ar": "عكار",
       "governorate": "عكار",
       "variant_text": "3akkar",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -211,7 +185,6 @@
       "canonical_name_ar": "الجنوب",
       "governorate": "الجنوب",
       "variant_text": "الجنوب",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -219,7 +192,6 @@
       "canonical_name_ar": "الجنوب",
       "governorate": "الجنوب",
       "variant_text": "جنوب لبنان",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -227,7 +199,6 @@
       "canonical_name_ar": "الجنوب",
       "governorate": "الجنوب",
       "variant_text": "south lebanon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -235,7 +206,6 @@
       "canonical_name_ar": "الجنوب",
       "governorate": "الجنوب",
       "variant_text": "janoub",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -243,7 +213,6 @@
       "canonical_name_ar": "الجنوب",
       "governorate": "الجنوب",
       "variant_text": "south",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -251,7 +220,6 @@
       "canonical_name_ar": "النبطية",
       "governorate": "النبطية",
       "variant_text": "النبطية",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -259,7 +227,6 @@
       "canonical_name_ar": "النبطية",
       "governorate": "النبطية",
       "variant_text": "نبطية",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -267,7 +234,6 @@
       "canonical_name_ar": "النبطية",
       "governorate": "النبطية",
       "variant_text": "nabatieh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -275,7 +241,6 @@
       "canonical_name_ar": "النبطية",
       "governorate": "النبطية",
       "variant_text": "nabatiyeh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -283,7 +248,6 @@
       "canonical_name_ar": "النبطية",
       "governorate": "النبطية",
       "variant_text": "nabatie",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -291,7 +255,6 @@
       "canonical_name_ar": "النبطية",
       "governorate": "النبطية",
       "variant_text": "nabatye",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -299,7 +262,6 @@
       "canonical_name_ar": "البقاع",
       "governorate": "البقاع",
       "variant_text": "البقاع",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -307,7 +269,6 @@
       "canonical_name_ar": "البقاع",
       "governorate": "البقاع",
       "variant_text": "bekaa",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -315,7 +276,6 @@
       "canonical_name_ar": "البقاع",
       "governorate": "البقاع",
       "variant_text": "bekaa",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -323,7 +283,6 @@
       "canonical_name_ar": "البقاع",
       "governorate": "البقاع",
       "variant_text": "beka3",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -331,7 +290,6 @@
       "canonical_name_ar": "البقاع",
       "governorate": "البقاع",
       "variant_text": "biqaa",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -339,7 +297,6 @@
       "canonical_name_ar": "البقاع",
       "governorate": "البقاع",
       "variant_text": "biqa3",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -347,7 +304,6 @@
       "canonical_name_ar": "بعلبك الهرمل",
       "governorate": "بعلبك الهرمل",
       "variant_text": "بعلبك الهرمل",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -355,7 +311,6 @@
       "canonical_name_ar": "بعلبك الهرمل",
       "governorate": "بعلبك الهرمل",
       "variant_text": "بعلبك-الهرمل",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -363,7 +318,6 @@
       "canonical_name_ar": "بعلبك الهرمل",
       "governorate": "بعلبك الهرمل",
       "variant_text": "baalbek hermel",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -371,7 +325,6 @@
       "canonical_name_ar": "بعلبك الهرمل",
       "governorate": "بعلبك الهرمل",
       "variant_text": "baalbeck hermel",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -379,7 +332,6 @@
       "canonical_name_ar": "بعلبك الهرمل",
       "governorate": "بعلبك الهرمل",
       "variant_text": "baalbak hermel",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -388,7 +340,6 @@
       "governorate": "الشمال",
       "district": "طرابلس",
       "variant_text": "طرابلس",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -397,7 +348,6 @@
       "governorate": "الشمال",
       "district": "طرابلس",
       "variant_text": "tripoli",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -406,7 +356,6 @@
       "governorate": "الشمال",
       "district": "طرابلس",
       "variant_text": "trablos",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -415,7 +364,6 @@
       "governorate": "الشمال",
       "district": "طرابلس",
       "variant_text": "trablos",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -424,7 +372,6 @@
       "governorate": "الشمال",
       "district": "طرابلس",
       "variant_text": "tarablos",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -433,7 +380,6 @@
       "governorate": "الشمال",
       "district": "طرابلس",
       "variant_text": "tarablous",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -442,7 +388,6 @@
       "governorate": "الجنوب",
       "district": "صيدا",
       "variant_text": "صيدا",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -451,7 +396,6 @@
       "governorate": "الجنوب",
       "district": "صيدا",
       "variant_text": "saida",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -460,7 +404,6 @@
       "governorate": "الجنوب",
       "district": "صيدا",
       "variant_text": "sidon",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -469,7 +412,6 @@
       "governorate": "الجنوب",
       "district": "صيدا",
       "variant_text": "saidaa",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -478,7 +420,6 @@
       "governorate": "الجنوب",
       "district": "صيدا",
       "variant_text": "sayda",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -487,7 +428,6 @@
       "governorate": "الجنوب",
       "district": "صيدا",
       "variant_text": "saideh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -496,7 +436,6 @@
       "governorate": "الجنوب",
       "district": "صور",
       "variant_text": "صور",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -505,7 +444,6 @@
       "governorate": "الجنوب",
       "district": "صور",
       "variant_text": "tyre",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -514,7 +452,6 @@
       "governorate": "الجنوب",
       "district": "صور",
       "variant_text": "sour",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -523,7 +460,6 @@
       "governorate": "الجنوب",
       "district": "صور",
       "variant_text": "sur",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -532,7 +468,6 @@
       "governorate": "الجنوب",
       "district": "صور",
       "variant_text": "soor",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -541,7 +476,6 @@
       "governorate": "البقاع",
       "district": "زحلة",
       "variant_text": "زحلة",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -550,7 +484,6 @@
       "governorate": "البقاع",
       "district": "زحلة",
       "variant_text": "zahle",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -559,7 +492,6 @@
       "governorate": "البقاع",
       "district": "زحلة",
       "variant_text": "zahlé",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -568,7 +500,6 @@
       "governorate": "البقاع",
       "district": "زحلة",
       "variant_text": "zahleh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -577,7 +508,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "بعلبك",
       "variant_text": "بعلبك",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -586,7 +516,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "بعلبك",
       "variant_text": "baalbek",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -595,7 +524,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "بعلبك",
       "variant_text": "baalbeck",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -604,7 +532,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "بعلبك",
       "variant_text": "baalbak",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -613,7 +540,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "الهرمل",
       "variant_text": "الهرمل",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -622,7 +548,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "الهرمل",
       "variant_text": "hermel",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -631,7 +556,6 @@
       "governorate": "بعلبك الهرمل",
       "district": "الهرمل",
       "variant_text": "harmel",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -640,7 +564,6 @@
       "governorate": "جبل لبنان",
       "district": "جبيل",
       "variant_text": "جبيل",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -649,7 +572,6 @@
       "governorate": "جبل لبنان",
       "district": "جبيل",
       "variant_text": "jbeil",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -658,7 +580,6 @@
       "governorate": "جبل لبنان",
       "district": "جبيل",
       "variant_text": "byblos",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -667,7 +588,6 @@
       "governorate": "جبل لبنان",
       "district": "جبيل",
       "variant_text": "jbayl",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -676,7 +596,6 @@
       "governorate": "جبل لبنان",
       "district": "جبيل",
       "variant_text": "jbail",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -685,7 +604,6 @@
       "governorate": "جبل لبنان",
       "district": "كسروان",
       "variant_text": "كسروان",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -694,7 +612,6 @@
       "governorate": "جبل لبنان",
       "district": "كسروان",
       "variant_text": "keserwan",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -703,7 +620,6 @@
       "governorate": "جبل لبنان",
       "district": "كسروان",
       "variant_text": "kasrawan",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -712,7 +628,6 @@
       "governorate": "جبل لبنان",
       "district": "كسروان",
       "variant_text": "kesrouan",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -721,7 +636,6 @@
       "governorate": "جبل لبنان",
       "district": "المتن",
       "variant_text": "المتن",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -730,7 +644,6 @@
       "governorate": "جبل لبنان",
       "district": "المتن",
       "variant_text": "متن",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -739,7 +652,6 @@
       "governorate": "جبل لبنان",
       "district": "المتن",
       "variant_text": "metn",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -748,7 +660,6 @@
       "governorate": "جبل لبنان",
       "district": "المتن",
       "variant_text": "matn",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -757,7 +668,6 @@
       "governorate": "جبل لبنان",
       "district": "المتن",
       "variant_text": "el metn",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -766,7 +676,6 @@
       "governorate": "جبل لبنان",
       "district": "بعبدا",
       "variant_text": "بعبدا",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -775,7 +684,6 @@
       "governorate": "جبل لبنان",
       "district": "بعبدا",
       "variant_text": "baabda",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -784,7 +692,6 @@
       "governorate": "جبل لبنان",
       "district": "بعبدا",
       "variant_text": "ba3bda",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -793,7 +700,6 @@
       "governorate": "جبل لبنان",
       "district": "عاليه",
       "variant_text": "عاليه",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -802,7 +708,6 @@
       "governorate": "جبل لبنان",
       "district": "عاليه",
       "variant_text": "عالية",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -811,7 +716,6 @@
       "governorate": "جبل لبنان",
       "district": "عاليه",
       "variant_text": "aley",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -820,7 +724,6 @@
       "governorate": "جبل لبنان",
       "district": "عاليه",
       "variant_text": "aleih",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -829,7 +732,6 @@
       "governorate": "جبل لبنان",
       "district": "عاليه",
       "variant_text": "3aley",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -838,7 +740,6 @@
       "governorate": "جبل لبنان",
       "district": "الشوف",
       "variant_text": "الشوف",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -847,7 +748,6 @@
       "governorate": "جبل لبنان",
       "district": "الشوف",
       "variant_text": "chouf",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -856,7 +756,6 @@
       "governorate": "جبل لبنان",
       "district": "الشوف",
       "variant_text": "shouf",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -865,7 +764,6 @@
       "governorate": "جبل لبنان",
       "district": "الشوف",
       "variant_text": "shuf",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -874,7 +772,6 @@
       "governorate": "الشمال",
       "district": "المنية",
       "variant_text": "المنية",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -883,7 +780,6 @@
       "governorate": "الشمال",
       "district": "المنية",
       "variant_text": "minieh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -892,7 +788,6 @@
       "governorate": "الشمال",
       "district": "المنية",
       "variant_text": "minyeh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -901,7 +796,6 @@
       "governorate": "الشمال",
       "district": "المنية",
       "variant_text": "minieh-danniyeh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -910,7 +804,6 @@
       "governorate": "الشمال",
       "district": "المنية",
       "variant_text": "minyeh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -919,7 +812,6 @@
       "governorate": "الشمال",
       "district": "الضنية",
       "variant_text": "الضنية",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -928,7 +820,6 @@
       "governorate": "الشمال",
       "district": "الضنية",
       "variant_text": "ضنيه",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -937,7 +828,6 @@
       "governorate": "الشمال",
       "district": "الضنية",
       "variant_text": "dennieh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -946,7 +836,6 @@
       "governorate": "الشمال",
       "district": "الضنية",
       "variant_text": "danniyeh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -955,7 +844,6 @@
       "governorate": "الشمال",
       "district": "الضنية",
       "variant_text": "donniyeh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -964,7 +852,6 @@
       "governorate": "الشمال",
       "district": "الضنية",
       "variant_text": "dinnieh",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -973,7 +860,6 @@
       "governorate": "الشمال",
       "district": "الكورة",
       "variant_text": "الكورة",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -982,7 +868,6 @@
       "governorate": "الشمال",
       "district": "الكورة",
       "variant_text": "كورة",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -991,7 +876,6 @@
       "governorate": "الشمال",
       "district": "الكورة",
       "variant_text": "koura",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -1000,7 +884,6 @@
       "governorate": "الشمال",
       "district": "الكورة",
       "variant_text": "kura",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -1009,7 +892,6 @@
       "governorate": "الشمال",
       "district": "الكورة",
       "variant_text": "el koura",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -1018,7 +900,6 @@
       "governorate": "الشمال",
       "district": "زغرتا",
       "variant_text": "زغرتا",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -1027,7 +908,6 @@
       "governorate": "الشمال",
       "district": "زغرتا",
       "variant_text": "zgharta",
-      "variant_type": "manual",
       "active": "yes"
     },
     {
@@ -1036,7 +916,6 @@
       "governorate": "البقاع",
       "city_area": "البقاع",
       "variant_text": "البقاع - المرج الغربي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1045,7 +924,6 @@
       "governorate": "البقاع",
       "city_area": "الطريق العام",
       "variant_text": "الطريق العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1054,7 +932,6 @@
       "governorate": "البقاع",
       "city_area": "الطريق العام",
       "variant_text": "- الطريق العام - مكسة مبنى البلدية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1063,7 +940,6 @@
       "governorate": "البقاع",
       "city_area": "الطريق العام خلف المحكمة الشرعية",
       "variant_text": "الطريق العام خلف المحكمة الشرعية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1072,7 +948,6 @@
       "governorate": "البقاع",
       "city_area": "برالياس",
       "variant_text": "برالياس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1081,7 +956,6 @@
       "governorate": "البقاع",
       "city_area": "تربل",
       "variant_text": "تربل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1090,7 +964,6 @@
       "governorate": "البقاع",
       "city_area": "تعنايل",
       "variant_text": "تعنايل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1099,7 +972,6 @@
       "governorate": "البقاع",
       "city_area": "جالال",
       "variant_text": "جالال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1108,7 +980,6 @@
       "governorate": "البقاع",
       "city_area": "جب جنين",
       "variant_text": "جب جنين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1117,7 +988,6 @@
       "governorate": "البقاع",
       "city_area": "جب جنين",
       "variant_text": "جب جنين شارع التحرير",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1126,7 +996,6 @@
       "governorate": "البقاع",
       "city_area": "حوش الحريمة",
       "variant_text": "حوش الحريمة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1135,7 +1004,6 @@
       "governorate": "البقاع",
       "city_area": "حي السيدة",
       "variant_text": "حي السيدة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1144,7 +1012,6 @@
       "governorate": "البقاع",
       "city_area": "حي السيدة",
       "variant_text": "حي السيدة – زحلة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1153,7 +1020,6 @@
       "governorate": "البقاع",
       "city_area": "خربة روحا",
       "variant_text": "خربة روحا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1162,7 +1028,6 @@
       "governorate": "البقاع",
       "city_area": "راشيا",
       "variant_text": "راشيا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1171,7 +1036,6 @@
       "governorate": "البقاع",
       "city_area": "راشيا الوادي",
       "variant_text": "راشيا الوادي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1180,7 +1044,6 @@
       "governorate": "البقاع",
       "city_area": "زحلة",
       "variant_text": "زحلة – الفاعور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1189,7 +1052,6 @@
       "governorate": "البقاع",
       "city_area": "زحلة",
       "variant_text": "زحلة – كفرزبد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1198,7 +1060,6 @@
       "governorate": "البقاع",
       "city_area": "سحمر",
       "variant_text": "سحمر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1207,7 +1068,6 @@
       "governorate": "البقاع",
       "city_area": "سعدنايل حي العمرية",
       "variant_text": "سعدنايل حي العمرية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1216,7 +1076,6 @@
       "governorate": "البقاع",
       "city_area": "سعدنايل حي العمرية",
       "variant_text": "سعدنايل حي العمرية , خلف صيدلية السهل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1225,7 +1084,6 @@
       "governorate": "البقاع",
       "city_area": "سعدنايل مبنى الجامع",
       "variant_text": "سعدنايل مبنى الجامع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1234,7 +1092,6 @@
       "governorate": "البقاع",
       "city_area": "شارع",
       "variant_text": "شارع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1243,7 +1100,6 @@
       "governorate": "البقاع",
       "city_area": "شارع",
       "variant_text": "شارع – تعلبايا الصنوبرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1252,7 +1108,6 @@
       "governorate": "البقاع",
       "city_area": "شارع الصنوبر",
       "variant_text": "شارع الصنوبر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1261,7 +1116,6 @@
       "governorate": "البقاع",
       "city_area": "شارع الصنوبر",
       "variant_text": "شارع الصنوبر - تعلبايا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1270,7 +1124,6 @@
       "governorate": "البقاع",
       "city_area": "شارع الصنوبرة",
       "variant_text": "شارع الصنوبرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1279,7 +1132,6 @@
       "governorate": "البقاع",
       "city_area": "شارع الصنوبرة",
       "variant_text": "شارع الصنوبرة – تعلبايا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1288,7 +1140,6 @@
       "governorate": "البقاع",
       "city_area": "طريق دير زنون",
       "variant_text": "طريق دير زنون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1297,7 +1148,6 @@
       "governorate": "البقاع",
       "city_area": "طريق دير زنون",
       "variant_text": "طريق دير زنون - بر الياس رياق",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1306,7 +1156,6 @@
       "governorate": "البقاع",
       "city_area": "عزة",
       "variant_text": "عزة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1315,7 +1164,6 @@
       "governorate": "البقاع",
       "city_area": "علي النهري",
       "variant_text": "علي النهري",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1324,7 +1172,6 @@
       "governorate": "البقاع",
       "city_area": "عنجر الطريق العام مفرق الروضه",
       "variant_text": "عنجر الطريق العام مفرق الروضه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1333,7 +1180,6 @@
       "governorate": "البقاع",
       "city_area": "عين كفرزبد",
       "variant_text": "عين كفرزبد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1342,7 +1188,6 @@
       "governorate": "البقاع",
       "city_area": "غزة",
       "variant_text": "غزة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1351,7 +1196,6 @@
       "governorate": "البقاع",
       "city_area": "ق عنجر الطريق العام مفر الروضه",
       "variant_text": "ق عنجر الطريق العام مفر الروضه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1360,7 +1204,6 @@
       "governorate": "البقاع",
       "city_area": "قب الياس",
       "variant_text": "قب الياس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1369,7 +1212,6 @@
       "governorate": "البقاع",
       "city_area": "كامد اللوز",
       "variant_text": "كامد اللوز",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1378,7 +1220,6 @@
       "governorate": "البقاع",
       "city_area": "كامد اللوز",
       "variant_text": "كامد اللوز - الطريق العام قرب مستشفى فرحات",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1387,7 +1228,6 @@
       "governorate": "البقاع",
       "city_area": "كسارة جانب مطرانية زحلة المارونية",
       "variant_text": "كسارة جانب مطرانية زحلة المارونية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1396,7 +1236,6 @@
       "governorate": "البقاع",
       "city_area": "كفريا",
       "variant_text": "كفريا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1405,7 +1244,6 @@
       "governorate": "البقاع",
       "city_area": "مجدل عنجر",
       "variant_text": "مجدل عنجر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1414,7 +1252,6 @@
       "governorate": "البقاع",
       "city_area": "مشغرة",
       "variant_text": "مشغرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1423,7 +1260,6 @@
       "governorate": "البقاع",
       "city_area": "وسط البلدة قبل البلدية",
       "variant_text": "وسط البلدة قبل البلدية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1432,7 +1268,6 @@
       "governorate": "الجنوب",
       "city_area": "ال مدينة العم",
       "variant_text": "ال مدينة العم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1441,7 +1276,6 @@
       "governorate": "الجنوب",
       "city_area": "الزرارية",
       "variant_text": "الزرارية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1450,7 +1284,6 @@
       "governorate": "الجنوب",
       "city_area": "الشهابية",
       "variant_text": "الشهابية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1459,7 +1292,6 @@
       "governorate": "الجنوب",
       "city_area": "الصرفند",
       "variant_text": "الصرفند",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1468,7 +1300,6 @@
       "governorate": "الجنوب",
       "city_area": "الصرفند",
       "variant_text": "الصرفند - سربتا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1477,7 +1308,6 @@
       "governorate": "الجنوب",
       "city_area": "العباسية",
       "variant_text": "العباسية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1486,7 +1316,6 @@
       "governorate": "الجنوب",
       "city_area": "الغازية",
       "variant_text": "الغازية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1495,7 +1324,6 @@
       "governorate": "الجنوب",
       "city_area": "الغسانية",
       "variant_text": "الغسانية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1504,7 +1332,6 @@
       "governorate": "الجنوب",
       "city_area": "القليله",
       "variant_text": "القليله",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1513,7 +1340,6 @@
       "governorate": "الجنوب",
       "city_area": "المجيدل",
       "variant_text": "المجيدل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1522,7 +1348,6 @@
       "governorate": "الجنوب",
       "city_area": "المعشوق صور",
       "variant_text": "المعشوق صور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1531,7 +1356,6 @@
       "governorate": "الجنوب",
       "city_area": "المعشوق صور",
       "variant_text": "- المعشوق صور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1540,7 +1364,6 @@
       "governorate": "الجنوب",
       "city_area": "الهرمل",
       "variant_text": "الهرمل - المعالي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1549,7 +1372,6 @@
       "governorate": "الجنوب",
       "city_area": "تفاحتا",
       "variant_text": "تفاحتا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1558,7 +1380,6 @@
       "governorate": "الجنوب",
       "city_area": "حارة صيدا",
       "variant_text": "حارة صيدا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1567,7 +1388,6 @@
       "governorate": "الجنوب",
       "city_area": "رجال",
       "variant_text": "رجال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1576,7 +1396,6 @@
       "governorate": "الجنوب",
       "city_area": "رجال",
       "variant_text": "رجال – صيدا االربعين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1585,7 +1404,6 @@
       "governorate": "الجنوب",
       "city_area": "روم",
       "variant_text": "روم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1594,7 +1412,6 @@
       "governorate": "الجنوب",
       "city_area": "سربتا الصرفند",
       "variant_text": "سربتا الصرفند",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1603,7 +1420,6 @@
       "governorate": "الجنوب",
       "city_area": "سربتا الصرفند",
       "variant_text": "- سربتا الصرفند",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1612,7 +1428,6 @@
       "governorate": "الجنوب",
       "city_area": "صديقين",
       "variant_text": "صديقين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1621,7 +1436,6 @@
       "governorate": "الجنوب",
       "city_area": "صرفند ال",
       "variant_text": "صرفند ال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1630,7 +1444,6 @@
       "governorate": "الجنوب",
       "city_area": "صريفا صور",
       "variant_text": "صريفا صور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1639,7 +1452,6 @@
       "governorate": "الجنوب",
       "city_area": "صريفا صور",
       "variant_text": "- صريفا صور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1648,7 +1460,6 @@
       "governorate": "الجنوب",
       "city_area": "صيدا",
       "variant_text": "صيدا - القياعة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1657,7 +1468,6 @@
       "governorate": "الجنوب",
       "city_area": "طرفلسيه",
       "variant_text": "طرفلسيه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1666,7 +1476,6 @@
       "governorate": "الجنوب",
       "city_area": "طورا",
       "variant_text": "طورا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1675,7 +1484,6 @@
       "governorate": "الجنوب",
       "city_area": "عيتيت",
       "variant_text": "عيتيت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1684,7 +1492,6 @@
       "governorate": "الجنوب",
       "city_area": "كفرحتى",
       "variant_text": "كفرحتى",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1693,7 +1500,6 @@
       "governorate": "الجنوب",
       "city_area": "مار نقوال صيدا",
       "variant_text": "مار نقوال صيدا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1702,7 +1508,6 @@
       "governorate": "الجنوب",
       "city_area": "مار نقوال صيدا",
       "variant_text": "- شارع مار نقوال صيدا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1711,7 +1516,6 @@
       "governorate": "الشمال",
       "city_area": "-ن ابو سمرا الزيتو ا السكة البيض",
       "variant_text": "-ن ابو سمرا الزيتو ا السكة البيض",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1720,7 +1524,6 @@
       "governorate": "الشمال",
       "city_area": "ابو سمرا الزيتون السكة البيضا -",
       "variant_text": "ابو سمرا الزيتون السكة البيضا -",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1729,7 +1532,6 @@
       "governorate": "الشمال",
       "city_area": "البترون",
       "variant_text": "البترون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1738,7 +1540,6 @@
       "governorate": "الشمال",
       "city_area": "البداوي",
       "variant_text": "البداوي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1747,7 +1548,6 @@
       "governorate": "الشمال",
       "city_area": "التبانة",
       "variant_text": "التبانة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1756,7 +1556,6 @@
       "governorate": "الشمال",
       "city_area": "الحدادين",
       "variant_text": "الحدادين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1765,7 +1564,6 @@
       "governorate": "الشمال",
       "city_area": "الخالدية",
       "variant_text": "الخالدية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1774,7 +1572,6 @@
       "governorate": "الشمال",
       "city_area": "الزاهرية",
       "variant_text": "الزاهرية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1783,7 +1580,6 @@
       "governorate": "الشمال",
       "city_area": "السويقة",
       "variant_text": "السويقة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1792,7 +1588,6 @@
       "governorate": "الشمال",
       "city_area": "الضنية",
       "variant_text": "الضنية - بخعون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1801,7 +1596,6 @@
       "governorate": "الشمال",
       "city_area": "الضنية",
       "variant_text": "الضنية - بطرماز",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1810,7 +1604,6 @@
       "governorate": "الشمال",
       "city_area": "الضنية",
       "variant_text": "الضنية - دير عمار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1819,7 +1612,6 @@
       "governorate": "الشمال",
       "city_area": "القبة",
       "variant_text": "القبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1828,7 +1620,6 @@
       "governorate": "الشمال",
       "city_area": "القبة",
       "variant_text": "القبة شارع الراهبات",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1837,7 +1628,6 @@
       "governorate": "الشمال",
       "city_area": "القلمون",
       "variant_text": "القلمون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1846,7 +1636,6 @@
       "governorate": "الشمال",
       "city_area": "الكورة",
       "variant_text": "الكورة - دده",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1855,7 +1644,6 @@
       "governorate": "الشمال",
       "city_area": "الكورة",
       "variant_text": "الكورة – كفريا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1864,7 +1652,6 @@
       "governorate": "الشمال",
       "city_area": "المينا",
       "variant_text": "المينا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1873,7 +1660,6 @@
       "governorate": "الشمال",
       "city_area": "بحبوش",
       "variant_text": "بحبوش",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1882,7 +1668,6 @@
       "governorate": "الشمال",
       "city_area": "بقاع صفرين",
       "variant_text": "بقاع صفرين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1891,7 +1676,6 @@
       "governorate": "الشمال",
       "city_area": "جبل محسن",
       "variant_text": "جبل محسن",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1900,7 +1684,6 @@
       "governorate": "الشمال",
       "city_area": "جبل محسن",
       "variant_text": "جبل محسن – القبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1909,7 +1692,6 @@
       "governorate": "الشمال",
       "city_area": "حدشيت",
       "variant_text": "حدشيت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1918,7 +1700,6 @@
       "governorate": "الشمال",
       "city_area": "حصرون",
       "variant_text": "حصرون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1927,7 +1708,6 @@
       "governorate": "الشمال",
       "city_area": "حي البالط",
       "variant_text": "حي البالط",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1936,7 +1716,6 @@
       "governorate": "الشمال",
       "city_area": "حي البالط",
       "variant_text": "- حي البالط - المنية بجانب مجمع العبير",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1945,7 +1724,6 @@
       "governorate": "الشمال",
       "city_area": "حي البالط",
       "variant_text": "حي البالط - المنية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1954,7 +1732,6 @@
       "governorate": "الشمال",
       "city_area": "حي الحكر",
       "variant_text": "حي الحكر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1963,7 +1740,6 @@
       "governorate": "الشمال",
       "city_area": "حي الحكر",
       "variant_text": "حي الحكر – المنية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1972,7 +1748,6 @@
       "governorate": "الشمال",
       "city_area": "دوار ابو",
       "variant_text": "دوار ابو",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1981,7 +1756,6 @@
       "governorate": "الشمال",
       "city_area": "دوار ابو",
       "variant_text": "دوار ابو – طرابلس علي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1990,7 +1764,6 @@
       "governorate": "الشمال",
       "city_area": "راس مسقا",
       "variant_text": "راس مسقا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -1999,7 +1772,6 @@
       "governorate": "الشمال",
       "city_area": "رع شا",
       "variant_text": "رع شا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2008,7 +1780,6 @@
       "governorate": "الشمال",
       "city_area": "رع شا",
       "variant_text": "رع شا - طرابلس ساتين ب - عجمي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2017,7 +1788,6 @@
       "governorate": "الشمال",
       "city_area": "ساحة",
       "variant_text": "ساحة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2026,7 +1796,6 @@
       "governorate": "الشمال",
       "city_area": "ساحة",
       "variant_text": "ساحة – ابي سمراء الشراع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2035,7 +1804,6 @@
       "governorate": "الشمال",
       "city_area": "سير الضنية",
       "variant_text": "سير الضنية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2044,7 +1812,6 @@
       "governorate": "الشمال",
       "city_area": "شارع الثقافي",
       "variant_text": "شارع الثقافي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2053,7 +1820,6 @@
       "governorate": "الشمال",
       "city_area": "شارع الثقافي",
       "variant_text": "شارع الثقافي بجانب مستشفى الحنان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2062,7 +1828,6 @@
       "governorate": "الشمال",
       "city_area": "طاران",
       "variant_text": "طاران",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2071,7 +1836,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس - التل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2080,7 +1844,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس - القبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2089,7 +1852,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس - جبل محسن",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2098,7 +1860,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس - ساحة النور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2107,7 +1868,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس – ابو سمراء",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2116,7 +1876,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس – القلمون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2125,7 +1884,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس – باب التبانة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2134,7 +1892,6 @@
       "governorate": "الشمال",
       "city_area": "طرابلس",
       "variant_text": "طرابلس، شارع محرم، خلف بنك عودة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2143,7 +1900,6 @@
       "governorate": "الشمال",
       "city_area": "قرب مجمع",
       "variant_text": "قرب مجمع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2152,7 +1908,6 @@
       "governorate": "الشمال",
       "city_area": "قرب مجمع",
       "variant_text": "قرب مجمع – المنية العبير",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2161,7 +1916,6 @@
       "governorate": "الشمال",
       "city_area": "قنات",
       "variant_text": "قنات",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2170,7 +1924,6 @@
       "governorate": "الشمال",
       "city_area": "كوسبا الكوره",
       "variant_text": "كوسبا الكوره",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2179,7 +1932,6 @@
       "governorate": "الشمال",
       "city_area": "مبنى اتحاد",
       "variant_text": "مبنى اتحاد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2188,7 +1940,6 @@
       "governorate": "الشمال",
       "city_area": "مبنى اتحاد",
       "variant_text": "مبنى اتحاد - بخعون بلديات الضنية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2197,7 +1948,6 @@
       "governorate": "الشمال",
       "city_area": "محلة",
       "variant_text": "محلة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2206,7 +1956,6 @@
       "governorate": "الشمال",
       "city_area": "محلة",
       "variant_text": "محلة - زيتون طرابلس المعيصرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2215,7 +1964,6 @@
       "governorate": "الشمال",
       "city_area": "مرياطة",
       "variant_text": "مرياطة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2224,7 +1972,6 @@
       "governorate": "الشمال",
       "city_area": "مزيارة",
       "variant_text": "مزيارة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2233,7 +1980,6 @@
       "governorate": "الشمال",
       "city_area": "مستديرة",
       "variant_text": "مستديرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2242,7 +1988,6 @@
       "governorate": "الشمال",
       "city_area": "مستديرة",
       "variant_text": "مستديرة - طرابلس شارع - لعب البلدي الم المئتين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2251,7 +1996,6 @@
       "governorate": "الشمال",
       "city_area": "مقابل",
       "variant_text": "مقابل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2260,7 +2004,6 @@
       "governorate": "الشمال",
       "city_area": "مقابل",
       "variant_text": "مقابل - الضنية ثانوية بيت الفقس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2269,7 +2012,6 @@
       "governorate": "الشمال",
       "city_area": "مقابل",
       "variant_text": "مقابل - شارع الزاهرية كاراج سير",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2278,7 +2020,6 @@
       "governorate": "الشمال",
       "city_area": "مقابل مسجد",
       "variant_text": "مقابل مسجد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2287,7 +2028,6 @@
       "governorate": "الشمال",
       "city_area": "مقابل مسجد",
       "variant_text": "مقابل مسجد - إيزال ايزال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2296,7 +2036,6 @@
       "governorate": "الشمال",
       "city_area": "منطقة",
       "variant_text": "منطقة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2305,7 +2044,6 @@
       "governorate": "الشمال",
       "city_area": "منطقة",
       "variant_text": "منطقة – طرابلس بساتين المينا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2314,7 +2052,6 @@
       "governorate": "الشمال",
       "city_area": "منطقة التبانة العقارية",
       "variant_text": "منطقة التبانة العقارية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2323,7 +2060,6 @@
       "governorate": "النبطية",
       "city_area": "أنصار",
       "variant_text": "أنصار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2332,7 +2068,6 @@
       "governorate": "النبطية",
       "city_area": "البازورية",
       "variant_text": "البازورية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2341,7 +2076,6 @@
       "governorate": "النبطية",
       "city_area": "التامرية",
       "variant_text": "التامرية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2350,7 +2084,6 @@
       "governorate": "النبطية",
       "city_area": "التامرية",
       "variant_text": "– التامرية – تولين – سنتر عوالي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2359,7 +2092,6 @@
       "governorate": "النبطية",
       "city_area": "الخيام",
       "variant_text": "الخيام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2368,7 +2100,6 @@
       "governorate": "النبطية",
       "city_area": "الساحة",
       "variant_text": "الساحة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2377,7 +2108,6 @@
       "governorate": "النبطية",
       "city_area": "الساحة",
       "variant_text": "الساحة – جبشيت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2386,7 +2116,6 @@
       "governorate": "النبطية",
       "city_area": "الطيبة",
       "variant_text": "الطيبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2395,7 +2124,6 @@
       "governorate": "النبطية",
       "city_area": "العوينة حي بنت جبيل",
       "variant_text": "العوينة حي بنت جبيل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2404,7 +2132,6 @@
       "governorate": "النبطية",
       "city_area": "العوينة حي بنت جبيل",
       "variant_text": "– العوينة حي بنت جبيل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2413,7 +2140,6 @@
       "governorate": "النبطية",
       "city_area": "النبطية",
       "variant_text": "النبطية - تل العسكر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2422,7 +2148,6 @@
       "governorate": "النبطية",
       "city_area": "النميرية",
       "variant_text": "النميرية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2431,7 +2156,6 @@
       "governorate": "النبطية",
       "city_area": "برج قالوية",
       "variant_text": "برج قالوية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2440,7 +2164,6 @@
       "governorate": "النبطية",
       "city_area": "تل العسكر النبطية",
       "variant_text": "تل العسكر النبطية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2449,7 +2172,6 @@
       "governorate": "النبطية",
       "city_area": "تل العسكر النبطية",
       "variant_text": "- تل العسكر النبطية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2458,7 +2180,6 @@
       "governorate": "النبطية",
       "city_area": "جباع",
       "variant_text": "جباع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2467,7 +2188,6 @@
       "governorate": "النبطية",
       "city_area": "جديدة مرجعيون",
       "variant_text": "جديدة مرجعيون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2476,7 +2196,6 @@
       "governorate": "النبطية",
       "city_area": "جسر ال اول",
       "variant_text": "جسر ال اول",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2485,7 +2204,6 @@
       "governorate": "النبطية",
       "city_area": "جسر ال اول",
       "variant_text": "جسر ال اول - حبوش",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2494,7 +2212,6 @@
       "governorate": "النبطية",
       "city_area": "حاصبيا",
       "variant_text": "حاصبيا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2503,7 +2220,6 @@
       "governorate": "النبطية",
       "city_area": "حاصبيا",
       "variant_text": "حاصبيا - عين جرفا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2512,7 +2228,6 @@
       "governorate": "النبطية",
       "city_area": "حوال",
       "variant_text": "حوال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2521,7 +2236,6 @@
       "governorate": "النبطية",
       "city_area": "خربة سلم",
       "variant_text": "خربة سلم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2530,7 +2244,6 @@
       "governorate": "النبطية",
       "city_area": "دير الزهراني",
       "variant_text": "دير الزهراني",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2539,7 +2252,6 @@
       "governorate": "النبطية",
       "city_area": "دير سريان",
       "variant_text": "دير سريان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2548,7 +2260,6 @@
       "governorate": "النبطية",
       "city_area": "رميش",
       "variant_text": "رميش",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2557,7 +2268,6 @@
       "governorate": "النبطية",
       "city_area": "شبعا",
       "variant_text": "شبعا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2566,7 +2276,6 @@
       "governorate": "النبطية",
       "city_area": "شقرا",
       "variant_text": "شقرا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2575,7 +2284,6 @@
       "governorate": "النبطية",
       "city_area": "صور",
       "variant_text": "صور - صريفا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2584,7 +2292,6 @@
       "governorate": "النبطية",
       "city_area": "صور",
       "variant_text": "صور - قانا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2593,7 +2300,6 @@
       "governorate": "النبطية",
       "city_area": "عيتا الشعب",
       "variant_text": "عيتا الشعب",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2602,7 +2308,6 @@
       "governorate": "النبطية",
       "city_area": "قبريخا",
       "variant_text": "قبريخا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2611,7 +2316,6 @@
       "governorate": "النبطية",
       "city_area": "قعية الجسر عق",
       "variant_text": "قعية الجسر عق",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2620,7 +2324,6 @@
       "governorate": "النبطية",
       "city_area": "كفرحمام",
       "variant_text": "كفرحمام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2629,7 +2332,6 @@
       "governorate": "النبطية",
       "city_area": "معركة",
       "variant_text": "معركة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2638,7 +2340,6 @@
       "governorate": "النبطية",
       "city_area": "ميس الجبل",
       "variant_text": "ميس الجبل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2647,7 +2348,6 @@
       "governorate": "النبطية",
       "city_area": "ميمس",
       "variant_text": "ميمس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2656,7 +2356,6 @@
       "governorate": "النبطية",
       "city_area": "يارون",
       "variant_text": "يارون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2665,7 +2364,6 @@
       "governorate": "النبطية",
       "city_area": "ياطر",
       "variant_text": "ياطر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2674,7 +2372,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "الفاكهة الطريق العام",
       "variant_text": "الفاكهة الطريق العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2683,7 +2380,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "القاع",
       "variant_text": "القاع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2692,7 +2388,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "القصر",
       "variant_text": "القصر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2701,7 +2396,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "المناقع",
       "variant_text": "المناقع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2710,7 +2404,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "المناقع",
       "variant_text": "المناقع - عرسال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2719,7 +2412,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "النبي شيت",
       "variant_text": "النبي شيت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2728,7 +2420,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "اليمونة",
       "variant_text": "اليمونة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2737,7 +2428,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "بجانب",
       "variant_text": "بجانب",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2746,7 +2436,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "بجانب",
       "variant_text": "بجانب – دورس البلدية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2755,7 +2444,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "برقا",
       "variant_text": "برقا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2764,7 +2452,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "بعلبك",
       "variant_text": "بعلبك - العين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2773,7 +2460,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "بعلبك",
       "variant_text": "بعلبك - اللبوة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2782,7 +2468,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "بعلبك",
       "variant_text": "بعلبك - ساحة ناصر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2791,7 +2476,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "تمنين التحتا",
       "variant_text": "تمنين التحتا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2800,7 +2484,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "حوش الرافقة",
       "variant_text": "حوش الرافقة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2809,7 +2492,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "حي الصلح",
       "variant_text": "حي الصلح",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2818,7 +2500,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "دورس",
       "variant_text": "دورس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2827,7 +2508,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "دير االحمر",
       "variant_text": "دير االحمر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2836,7 +2516,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "رأس بعلبك",
       "variant_text": "رأس بعلبك",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2845,7 +2524,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "ساحة ناصر بعلبك",
       "variant_text": "ساحة ناصر بعلبك",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2854,7 +2532,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "ساحة ناصر بعلبك",
       "variant_text": "- ساحة ناصر بعلبك",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2863,7 +2540,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "سرعين الفوقا",
       "variant_text": "سرعين الفوقا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2872,7 +2548,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "شمسطار",
       "variant_text": "شمسطار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2881,7 +2556,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "طريق",
       "variant_text": "طريق",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2890,7 +2564,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "طريق",
       "variant_text": "طريق - بعلبك رأس العين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2899,7 +2572,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "طريق رأس",
       "variant_text": "طريق رأس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2908,7 +2580,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "طريق رأس",
       "variant_text": "طريق رأس - بعلبك العين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2917,7 +2588,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "عرسال",
       "variant_text": "عرسال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2926,7 +2596,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "عرسال حي وادي جانب جامع",
       "variant_text": "عرسال حي وادي جانب جامع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2935,7 +2604,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "عرسال حي وادي جانب جامع",
       "variant_text": "عرسال حي وادي جانب جامع - عطا عثمان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2944,7 +2612,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "عرسال حي وادي عطا جانب جامع عثمان -",
       "variant_text": "عرسال حي وادي عطا جانب جامع عثمان -",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2953,7 +2620,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "قرب",
       "variant_text": "قرب",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2962,7 +2628,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "قرب",
       "variant_text": "قرب - بعلبك ساحة ناصر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2971,7 +2636,6 @@
       "governorate": "بعلبك الهرمل",
       "city_area": "مبنى بلدية بوداي",
       "variant_text": "مبنى بلدية بوداي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2980,7 +2644,6 @@
       "governorate": "بيروت",
       "city_area": "االشرفية",
       "variant_text": "االشرفية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2989,7 +2652,6 @@
       "governorate": "بيروت",
       "city_area": "البسطا الفوقا",
       "variant_text": "البسطا الفوقا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -2998,7 +2660,6 @@
       "governorate": "بيروت",
       "city_area": "الحرج",
       "variant_text": "الحرج",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3007,7 +2668,6 @@
       "governorate": "بيروت",
       "city_area": "الحرش",
       "variant_text": "الحرش",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3016,7 +2676,6 @@
       "governorate": "بيروت",
       "city_area": "الحرش",
       "variant_text": "الحرش - قصقص",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3025,7 +2684,6 @@
       "governorate": "بيروت",
       "city_area": "الكرنتينا",
       "variant_text": "الكرنتينا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3034,7 +2692,6 @@
       "governorate": "بيروت",
       "city_area": "المزرعة",
       "variant_text": "المزرعة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3043,7 +2700,6 @@
       "governorate": "بيروت",
       "city_area": "المصيطبة",
       "variant_text": "المصيطبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3052,7 +2708,6 @@
       "governorate": "بيروت",
       "city_area": "النويري",
       "variant_text": "النويري",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3061,7 +2716,6 @@
       "governorate": "بيروت",
       "city_area": "بربور",
       "variant_text": "بربور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3070,7 +2724,6 @@
       "governorate": "بيروت",
       "city_area": "بربور",
       "variant_text": "بربور – بيروت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3079,7 +2732,6 @@
       "governorate": "بيروت",
       "city_area": "تلة الخياط",
       "variant_text": "تلة الخياط",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3088,7 +2740,6 @@
       "governorate": "بيروت",
       "city_area": "راس بيروت",
       "variant_text": "راس بيروت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3097,7 +2748,6 @@
       "governorate": "بيروت",
       "city_area": "زقاق البالط",
       "variant_text": "زقاق البالط",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3106,7 +2756,6 @@
       "governorate": "بيروت",
       "city_area": "ش. ابن رشد",
       "variant_text": "ش. ابن رشد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3115,7 +2764,6 @@
       "governorate": "بيروت",
       "city_area": "شارع",
       "variant_text": "شارع - البربير قرب - االوزاعي روضة بيت االطفال",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3124,7 +2772,6 @@
       "governorate": "بيروت",
       "city_area": "شارع",
       "variant_text": "شارع - حمرا المقدسي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3133,7 +2780,6 @@
       "governorate": "بيروت",
       "city_area": "شارع عبد الرحمن لبان",
       "variant_text": "شارع عبد الرحمن لبان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3142,7 +2788,6 @@
       "governorate": "بيروت",
       "city_area": "صيطبة وطى الم",
       "variant_text": "صيطبة وطى الم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3151,7 +2796,6 @@
       "governorate": "بيروت",
       "city_area": "طبة المصي",
       "variant_text": "طبة المصي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3160,7 +2804,6 @@
       "governorate": "بيروت",
       "city_area": "عائشة بكار",
       "variant_text": "عائشة بكار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3169,7 +2812,6 @@
       "governorate": "بيروت",
       "city_area": "كرم الزيتون",
       "variant_text": "كرم الزيتون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3178,7 +2820,6 @@
       "governorate": "بيروت",
       "city_area": "ية الظريف والزيدان",
       "variant_text": "ية الظريف والزيدان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3187,7 +2828,6 @@
       "governorate": "جبل لبنان",
       "city_area": "األشرفية",
       "variant_text": "األشرفية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3196,7 +2836,6 @@
       "governorate": "جبل لبنان",
       "city_area": "األوزاعي",
       "variant_text": "األوزاعي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3205,7 +2844,6 @@
       "governorate": "جبل لبنان",
       "city_area": "اجنة برج البر",
       "variant_text": "اجنة برج البر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3214,7 +2852,6 @@
       "governorate": "جبل لبنان",
       "city_area": "ادما",
       "variant_text": "ادما",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3223,7 +2860,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الباروك",
       "variant_text": "الباروك",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3232,7 +2868,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الباشورة",
       "variant_text": "الباشورة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3241,7 +2876,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الجديدة",
       "variant_text": "الجديدة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3250,7 +2884,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الجديدة البوشرية السد",
       "variant_text": "الجديدة البوشرية السد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3259,7 +2892,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الحازمية",
       "variant_text": "الحازمية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3268,7 +2900,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الحدث",
       "variant_text": "الحدث",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3277,7 +2908,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الخريبة",
       "variant_text": "الخريبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3286,7 +2916,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الخزان",
       "variant_text": "الخزان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3295,7 +2924,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الخزان",
       "variant_text": "الخزان - برجا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3304,7 +2932,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الشوف",
       "variant_text": "الشوف - السمقانية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3313,7 +2940,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الشويفات",
       "variant_text": "الشويفات",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3322,7 +2948,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الشياح",
       "variant_text": "الشياح",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3331,7 +2956,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الصومعة",
       "variant_text": "الصومعة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3340,7 +2964,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الصومعة",
       "variant_text": "– الصومعة مدخل حراجل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3349,7 +2972,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الطريق",
       "variant_text": "الطريق",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3358,7 +2980,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الطريق",
       "variant_text": "الطريق - الدامور العام الدامور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3367,7 +2988,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الطريق الجديدة",
       "variant_text": "الطريق الجديدة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3376,7 +2996,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الطيونة",
       "variant_text": "الطيونة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3385,7 +3004,6 @@
       "governorate": "جبل لبنان",
       "city_area": "العبادية",
       "variant_text": "العبادية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3394,7 +3012,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الغبيري",
       "variant_text": "الغبيري",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3403,7 +3020,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الفنار",
       "variant_text": "الفنار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3412,7 +3028,6 @@
       "governorate": "جبل لبنان",
       "city_area": "الفنار",
       "variant_text": "الفنار – الزعيترية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3421,7 +3036,6 @@
       "governorate": "جبل لبنان",
       "city_area": "المبنى البلدي",
       "variant_text": "المبنى البلدي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3430,7 +3044,6 @@
       "governorate": "جبل لبنان",
       "city_area": "المبنى البلدي",
       "variant_text": "- المبنى البلدي قرب الكنيسة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3439,7 +3052,6 @@
       "governorate": "جبل لبنان",
       "city_area": "المريجة",
       "variant_text": "المريجة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3448,7 +3060,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بئر حسن",
       "variant_text": "بئر حسن",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3457,7 +3068,6 @@
       "governorate": "جبل لبنان",
       "city_area": "برج البراجنة",
       "variant_text": "برج البراجنة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3466,7 +3076,6 @@
       "governorate": "جبل لبنان",
       "city_area": "برج حمود",
       "variant_text": "برج حمود",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3475,7 +3084,6 @@
       "governorate": "جبل لبنان",
       "city_area": "برج حمود",
       "variant_text": "- برج حمود - شارع مرعش بناية قراكوزيان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3484,7 +3092,6 @@
       "governorate": "جبل لبنان",
       "city_area": "برجا",
       "variant_text": "برجا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3493,7 +3100,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بسكنتا",
       "variant_text": "بسكنتا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3502,7 +3108,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بعقلين",
       "variant_text": "بعقلين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3511,7 +3116,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بعلشميه",
       "variant_text": "بعلشميه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3520,7 +3124,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بلونه",
       "variant_text": "بلونه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3529,7 +3132,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بناية",
       "variant_text": "بناية",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3538,7 +3140,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بناية",
       "variant_text": "بناية – سد البوشرية ريموند فياض",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3547,7 +3148,6 @@
       "governorate": "جبل لبنان",
       "city_area": "بيت الدين",
       "variant_text": "بيت الدين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3556,7 +3156,6 @@
       "governorate": "جبل لبنان",
       "city_area": "جسر",
       "variant_text": "جسر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3565,7 +3164,6 @@
       "governorate": "جبل لبنان",
       "city_area": "جسر",
       "variant_text": "جسر – سن الفيل الباشا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3574,7 +3172,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حارة حريك",
       "variant_text": "حارة حريك",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3583,7 +3180,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حارة حريك ساحة القدس",
       "variant_text": "حارة حريك ساحة القدس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3592,7 +3188,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حارة حريك ساحة القدس",
       "variant_text": "– حارة حريك ساحة القدس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3601,7 +3196,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حمانا",
       "variant_text": "حمانا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3610,7 +3204,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي الحارة",
       "variant_text": "حي الحارة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3619,7 +3212,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي الحارة",
       "variant_text": "حي الحارة – جبيل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3628,7 +3220,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي السلم",
       "variant_text": "حي السلم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3637,7 +3228,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي السلم ه عالي",
       "variant_text": "حي السلم ه عالي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3646,7 +3236,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي السلم ه عالي",
       "variant_text": "- حي السلم ه عالي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3655,7 +3244,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي الشريفة شحيم",
       "variant_text": "حي الشريفة شحيم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3664,7 +3252,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي الشريفة شحيم",
       "variant_text": "- حي الشريفة شحيم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3673,7 +3260,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي بعجور",
       "variant_text": "حي بعجور",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3682,7 +3268,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي فرحات صبرا",
       "variant_text": "حي فرحات صبرا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3691,7 +3276,6 @@
       "governorate": "جبل لبنان",
       "city_area": "حي فرحات صبرا",
       "variant_text": "- حي فرحات صبرا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3700,7 +3284,6 @@
       "governorate": "جبل لبنان",
       "city_area": "رأس المتن",
       "variant_text": "رأس المتن",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3709,7 +3292,6 @@
       "governorate": "جبل لبنان",
       "city_area": "ريفون",
       "variant_text": "ريفون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3718,7 +3300,6 @@
       "governorate": "جبل لبنان",
       "city_area": "زوق مكايل",
       "variant_text": "زوق مكايل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3727,7 +3308,6 @@
       "governorate": "جبل لبنان",
       "city_area": "سن الفيل",
       "variant_text": "سن الفيل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3736,7 +3316,6 @@
       "governorate": "جبل لبنان",
       "city_area": "شارع",
       "variant_text": "شارع - الشياح مار جرجس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3745,7 +3324,6 @@
       "governorate": "جبل لبنان",
       "city_area": "شارع",
       "variant_text": "شارع - برج حمود بناية - مرعش قراكوزيان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3754,7 +3332,6 @@
       "governorate": "جبل لبنان",
       "city_area": "شارع",
       "variant_text": "شارع – البوشرية امانوس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3763,7 +3340,6 @@
       "governorate": "جبل لبنان",
       "city_area": "شارع كنيسة مار المبنى",
       "variant_text": "شارع كنيسة مار المبنى",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3772,7 +3348,6 @@
       "governorate": "جبل لبنان",
       "city_area": "شارع كنيسة مار المبنى",
       "variant_text": "شارع كنيسة مار المبنى - ساسين البلدي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3781,7 +3356,6 @@
       "governorate": "جبل لبنان",
       "city_area": "ضهور الشوير",
       "variant_text": "ضهور الشوير",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3790,7 +3364,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عاليه",
       "variant_text": "عاليه - صوفر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3799,7 +3372,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عاليه",
       "variant_text": "عاليه - مجدليا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3808,7 +3380,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عبيه",
       "variant_text": "عبيه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3817,7 +3388,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عرمون عاليه",
       "variant_text": "عرمون عاليه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3826,7 +3396,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عرمون عاليه",
       "variant_text": "- عرمون عاليه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3835,7 +3404,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عين االسد برجا",
       "variant_text": "عين االسد برجا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3844,7 +3412,6 @@
       "governorate": "جبل لبنان",
       "city_area": "عين الرمانة",
       "variant_text": "عين الرمانة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3853,7 +3420,6 @@
       "governorate": "جبل لبنان",
       "city_area": "غدير",
       "variant_text": "غدير",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3862,7 +3428,6 @@
       "governorate": "جبل لبنان",
       "city_area": "فرن الشباك",
       "variant_text": "فرن الشباك",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3871,7 +3436,6 @@
       "governorate": "جبل لبنان",
       "city_area": "فيطرون المنطقة الزرقاء",
       "variant_text": "فيطرون المنطقة الزرقاء",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3880,7 +3444,6 @@
       "governorate": "جبل لبنان",
       "city_area": "فيطرون المنطقة الزرقاء",
       "variant_text": "– فيطرون المنطقة الزرقاء",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3889,7 +3452,6 @@
       "governorate": "جبل لبنان",
       "city_area": "قرنة شهوان",
       "variant_text": "قرنة شهوان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3898,7 +3460,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كامب",
       "variant_text": "كامب",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3907,7 +3468,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كامب",
       "variant_text": "كامب - برج حمود سيس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3916,7 +3476,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كترمايا",
       "variant_text": "كترمايا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3925,7 +3484,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كفرحيم",
       "variant_text": "كفرحيم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3934,7 +3492,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كفرمتى",
       "variant_text": "كفرمتى",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3943,7 +3500,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كورنيش المزرعة",
       "variant_text": "كورنيش المزرعة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3952,7 +3508,6 @@
       "governorate": "جبل لبنان",
       "city_area": "كيفون",
       "variant_text": "كيفون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3961,7 +3516,6 @@
       "governorate": "جبل لبنان",
       "city_area": "لم حي الس عاليه",
       "variant_text": "لم حي الس عاليه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3970,7 +3524,6 @@
       "governorate": "جبل لبنان",
       "city_area": "لم حي الس عاليه",
       "variant_text": "- لم حي الس عاليه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3979,7 +3532,6 @@
       "governorate": "جبل لبنان",
       "city_area": "لمختارة ا",
       "variant_text": "لمختارة ا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3988,7 +3540,6 @@
       "governorate": "جبل لبنان",
       "city_area": "مشمش",
       "variant_text": "مشمش",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -3997,7 +3548,6 @@
       "governorate": "جبل لبنان",
       "city_area": "نيحا",
       "variant_text": "نيحا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4006,7 +3556,6 @@
       "governorate": "جبل لبنان",
       "city_area": "وطى المصيطبة",
       "variant_text": "وطى المصيطبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4015,7 +3564,6 @@
       "governorate": "جبل لبنان",
       "city_area": "– سد البوشرية بناية ريموند فياض",
       "variant_text": "– سد البوشرية بناية ريموند فياض",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4024,7 +3572,6 @@
       "governorate": "عكار",
       "city_area": "البرج",
       "variant_text": "البرج",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4033,7 +3580,6 @@
       "governorate": "عكار",
       "city_area": "البرج",
       "variant_text": "- البرج - الشقدوف الطريق العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4042,7 +3588,6 @@
       "governorate": "عكار",
       "city_area": "البيرة",
       "variant_text": "البيرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4051,7 +3596,6 @@
       "governorate": "عكار",
       "city_area": "البيرة الطريق العام",
       "variant_text": "البيرة الطريق العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4060,7 +3604,6 @@
       "governorate": "عكار",
       "city_area": "الجديدة عكار",
       "variant_text": "الجديدة عكار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4069,7 +3612,6 @@
       "governorate": "عكار",
       "city_area": "الشيخ طابا",
       "variant_text": "الشيخ طابا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4078,7 +3620,6 @@
       "governorate": "عكار",
       "city_area": "الطريق",
       "variant_text": "الطريق – العبودية العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4087,7 +3628,6 @@
       "governorate": "عكار",
       "city_area": "الطريق",
       "variant_text": "الطريق – دير دلوم العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4096,7 +3636,6 @@
       "governorate": "عكار",
       "city_area": "الطريق العام",
       "variant_text": "الطريق العام – التليل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4105,7 +3644,6 @@
       "governorate": "عكار",
       "city_area": "القبيات",
       "variant_text": "القبيات",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4114,7 +3652,6 @@
       "governorate": "عكار",
       "city_area": "الكواشرة",
       "variant_text": "الكواشرة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4123,7 +3660,6 @@
       "governorate": "عكار",
       "city_area": "المحمرة وسط بالقرب من جامع الكوثر",
       "variant_text": "المحمرة وسط بالقرب من جامع الكوثر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4132,7 +3668,6 @@
       "governorate": "عكار",
       "city_area": "برقايل",
       "variant_text": "برقايل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4141,7 +3676,6 @@
       "governorate": "عكار",
       "city_area": "تكريت",
       "variant_text": "تكريت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4150,7 +3684,6 @@
       "governorate": "عكار",
       "city_area": "جديدة القيطع",
       "variant_text": "جديدة القيطع",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4159,7 +3692,6 @@
       "governorate": "عكار",
       "city_area": "حلبا",
       "variant_text": "حلبا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4168,7 +3700,6 @@
       "governorate": "عكار",
       "city_area": "خريبة الجندي",
       "variant_text": "خريبة الجندي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4177,7 +3708,6 @@
       "governorate": "عكار",
       "city_area": "دير دلوم الطريق العام",
       "variant_text": "دير دلوم الطريق العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4186,7 +3716,6 @@
       "governorate": "عكار",
       "city_area": "رحبة",
       "variant_text": "رحبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4195,7 +3724,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - ببنين",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4204,7 +3732,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - برقايل",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4213,7 +3740,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - تلمعيان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4222,7 +3748,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - حرار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4231,7 +3756,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - حلبا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4240,7 +3764,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - فنيدق",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4249,7 +3772,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار - وادي خالد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4258,7 +3780,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار – الخريبة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4267,7 +3788,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار – العبدة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4276,7 +3796,6 @@
       "governorate": "عكار",
       "city_area": "عكار",
       "variant_text": "عكار – تل الحياة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4285,7 +3804,6 @@
       "governorate": "عكار",
       "city_area": "عكار العتيقة",
       "variant_text": "عكار العتيقة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4294,7 +3812,6 @@
       "governorate": "عكار",
       "city_area": "عين الزيت الطريق العام",
       "variant_text": "عين الزيت الطريق العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4303,7 +3820,6 @@
       "governorate": "عكار",
       "city_area": "كفرتون",
       "variant_text": "كفرتون",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4312,7 +3828,6 @@
       "governorate": "عكار",
       "city_area": "كفرصارون الكورة",
       "variant_text": "كفرصارون الكورة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4321,7 +3836,6 @@
       "governorate": "عكار",
       "city_area": "مشتى حسن",
       "variant_text": "مشتى حسن",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4330,7 +3844,6 @@
       "governorate": "عكار",
       "city_area": "مشحا",
       "variant_text": "مشحا",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4339,7 +3852,6 @@
       "governorate": "عكار",
       "city_area": "مشمش عكار",
       "variant_text": "مشمش عكار",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4348,7 +3860,6 @@
       "governorate": "عكار",
       "city_area": "وادى خالد",
       "variant_text": "وادى خالد",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4357,7 +3868,6 @@
       "governorate": "عكار",
       "city_area": "وادى خالد",
       "variant_text": "وادى خالد - الهيشة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4366,7 +3876,6 @@
       "governorate": "عكار",
       "city_area": "وادي",
       "variant_text": "وادي",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4375,7 +3884,6 @@
       "governorate": "عكار",
       "city_area": "وادي",
       "variant_text": "وادي - برقايل الريحان",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4384,7 +3892,6 @@
       "governorate": "عكار",
       "city_area": "وادي الجاموس",
       "variant_text": "وادي الجاموس",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4393,7 +3900,6 @@
       "governorate": "عكار",
       "city_area": "يق الطر",
       "variant_text": "يق الطر",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4402,7 +3908,6 @@
       "governorate": "عكار",
       "city_area": "يق الطر",
       "variant_text": "يق الطر – قبعيت العام",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4411,7 +3916,6 @@
       "governorate": "كسروان-جبيل",
       "city_area": "حي السلم عاليه",
       "variant_text": "حي السلم عاليه",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4420,7 +3924,6 @@
       "governorate": "كسروان-جبيل",
       "city_area": "حي السلم عاليه",
       "variant_text": "حي السلم عاليه -",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4429,7 +3932,6 @@
       "governorate": "كسروان-جبيل",
       "city_area": "خلدة",
       "variant_text": "خلدة",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4438,7 +3940,6 @@
       "governorate": "كسروان-جبيل",
       "city_area": "شحيم",
       "variant_text": "شحيم",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4447,7 +3948,6 @@
       "governorate": "كسروان-جبيل",
       "city_area": "عمشيت",
       "variant_text": "عمشيت",
-      "variant_type": "imported_phcc",
       "active": "yes"
     },
     {
@@ -4457,7 +3957,6 @@
       "district": "البقاع الغربي",
       "city_area": "المرج - البقاع الغربي",
       "variant_text": "المرج - البقاع الغربي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4466,7 +3965,6 @@
       "governorate": "البقاع",
       "district": "البقاع الغربي",
       "variant_text": "البقاع الغربي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4476,7 +3974,6 @@
       "district": "زحلة",
       "city_area": "الفاعور – زحلة",
       "variant_text": "الفاعور – زحلة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4486,7 +3983,6 @@
       "district": "زحلة",
       "city_area": "بر الياس",
       "variant_text": "بر الياس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4496,7 +3992,6 @@
       "district": "زحلة",
       "city_area": "بر الياس - طريق دير زنون رياق",
       "variant_text": "بر الياس - طريق دير زنون رياق",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4506,7 +4001,6 @@
       "district": "زحلة",
       "city_area": "تعلبايا - شارع الصنوبر الغربي",
       "variant_text": "تعلبايا - شارع الصنوبر الغربي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4516,7 +4010,6 @@
       "district": "زحلة",
       "city_area": "تعلبايا – شارع الصنوبرة",
       "variant_text": "تعلبايا – شارع الصنوبرة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4526,7 +4019,6 @@
       "district": "زحلة",
       "city_area": "جالالا",
       "variant_text": "جالالا",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4536,7 +4028,6 @@
       "district": "زحلة",
       "city_area": "زحلة – حي السيدة",
       "variant_text": "زحلة – حي السيدة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4546,7 +4037,6 @@
       "district": "زحلة",
       "city_area": "زحلة – وادي العرايش",
       "variant_text": "زحلة – وادي العرايش",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4556,7 +4046,6 @@
       "district": "زحلة",
       "city_area": "سعدنايل حي العمرية، خلف صيدلية السهل",
       "variant_text": "سعدنايل حي العمرية، خلف صيدلية السهل",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4566,7 +4055,6 @@
       "district": "زحلة",
       "city_area": "كفرزبد – زحلة",
       "variant_text": "كفرزبد – زحلة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4576,7 +4064,6 @@
       "district": "زحلة",
       "city_area": "مكسة - الطريق العام - مبنى البلدية",
       "variant_text": "مكسة - الطريق العام - مبنى البلدية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4585,7 +4072,6 @@
       "governorate": "الجنوب",
       "district": "جزين",
       "variant_text": "جزين",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4595,7 +4081,6 @@
       "district": "صور",
       "city_area": "قانا - صور",
       "variant_text": "قانا - صور",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4605,7 +4090,6 @@
       "district": "صيدا",
       "city_area": "القياعة - صيدا",
       "variant_text": "القياعة - صيدا",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4615,7 +4099,6 @@
       "district": "صيدا",
       "city_area": "شارع مار نقولا - صيدا",
       "variant_text": "شارع مار نقولا - صيدا",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4625,7 +4108,6 @@
       "district": "صيدا",
       "city_area": "صيدا – رجال الأربعين",
       "variant_text": "صيدا – رجال الأربعين",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4635,7 +4117,6 @@
       "district": "صيدا",
       "city_area": "مدينة العمال",
       "variant_text": "مدينة العمال",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4645,7 +4126,6 @@
       "district": "البترون",
       "city_area": "تنورين",
       "variant_text": "تنورين",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4655,7 +4135,6 @@
       "district": "الكورة",
       "city_area": "دده - الكورة",
       "variant_text": "دده - الكورة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4665,7 +4144,6 @@
       "district": "الكورة",
       "city_area": "كفريا – الكورة",
       "variant_text": "كفريا – الكورة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4674,7 +4152,6 @@
       "governorate": "الشمال",
       "district": "المنية - الضنية",
       "variant_text": "المنية - الضنية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4684,7 +4161,6 @@
       "district": "المنية - الضنية",
       "city_area": "الضنية - مقابل ثانوية بيت الفقس",
       "variant_text": "الضنية - مقابل ثانوية بيت الفقس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4694,7 +4170,6 @@
       "district": "المنية - الضنية",
       "city_area": "المنية - حي البلاط",
       "variant_text": "المنية - حي البلاط",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4704,7 +4179,6 @@
       "district": "المنية - الضنية",
       "city_area": "المنية - حي البلاط - بجانب مجمع العبير",
       "variant_text": "المنية - حي البلاط - بجانب مجمع العبير",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4714,7 +4188,6 @@
       "district": "المنية - الضنية",
       "city_area": "المنية – حي الحكر",
       "variant_text": "المنية – حي الحكر",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4724,7 +4197,6 @@
       "district": "المنية - الضنية",
       "city_area": "المنية – قرب مجمع العبير",
       "variant_text": "المنية – قرب مجمع العبير",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4734,7 +4206,6 @@
       "district": "المنية - الضنية",
       "city_area": "إيزال - مقابل مسجد إيزال",
       "variant_text": "إيزال - مقابل مسجد إيزال",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4744,7 +4215,6 @@
       "district": "المنية - الضنية",
       "city_area": "بخعون - الضنية",
       "variant_text": "بخعون - الضنية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4754,7 +4224,6 @@
       "district": "المنية - الضنية",
       "city_area": "بخعون - مبنى اتحاد بلديات الضنية",
       "variant_text": "بخعون - مبنى اتحاد بلديات الضنية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4764,7 +4233,6 @@
       "district": "المنية - الضنية",
       "city_area": "بطرماز - الضنية",
       "variant_text": "بطرماز - الضنية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4774,7 +4242,6 @@
       "district": "المنية - الضنية",
       "city_area": "دير عمار- الضنية",
       "variant_text": "دير عمار- الضنية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4783,7 +4250,6 @@
       "governorate": "الشمال",
       "district": "بشري",
       "variant_text": "بشري",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4793,7 +4259,6 @@
       "district": "طرابلس",
       "city_area": "أبو سمراء – طرابلس",
       "variant_text": "أبو سمراء – طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4803,7 +4268,6 @@
       "district": "طرابلس",
       "city_area": "أبي سمراء – ساحة الشراع",
       "variant_text": "أبي سمراء – ساحة الشراع",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4813,7 +4277,6 @@
       "district": "طرابلس",
       "city_area": "التل - طرابلس",
       "variant_text": "التل - طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4823,7 +4286,6 @@
       "district": "طرابلس",
       "city_area": "القبة – جبل محسن",
       "variant_text": "القبة – جبل محسن",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4833,7 +4295,6 @@
       "district": "طرابلس",
       "city_area": "القبة - طرابلس",
       "variant_text": "القبة - طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4843,7 +4304,6 @@
       "district": "طرابلس",
       "city_area": "القلمون – طرابلس",
       "variant_text": "القلمون – طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4853,7 +4313,6 @@
       "district": "طرابلس",
       "city_area": "الميناء",
       "variant_text": "الميناء",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4863,7 +4322,6 @@
       "district": "طرابلس",
       "city_area": "باب التبانة – طرابلس",
       "variant_text": "باب التبانة – طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4873,7 +4331,6 @@
       "district": "طرابلس",
       "city_area": "جبل محسن - طرابلس",
       "variant_text": "جبل محسن - طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4883,7 +4340,6 @@
       "district": "طرابلس",
       "city_area": "زيتون طرابلس - محلة المعيصرة",
       "variant_text": "زيتون طرابلس - محلة المعيصرة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4893,7 +4349,6 @@
       "district": "طرابلس",
       "city_area": "ساحة النور - طرابلس",
       "variant_text": "ساحة النور - طرابلس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4903,7 +4358,6 @@
       "district": "طرابلس",
       "city_area": "شارع الزاهرية - مقابل كاراج سير",
       "variant_text": "شارع الزاهرية - مقابل كاراج سير",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4913,7 +4367,6 @@
       "district": "طرابلس",
       "city_area": "طرابلس – دوار أبو علي",
       "variant_text": "طرابلس – دوار أبو علي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4923,7 +4376,6 @@
       "district": "طرابلس",
       "city_area": "طرابلس - شارع عجمي - بساتين",
       "variant_text": "طرابلس - شارع عجمي - بساتين",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4933,7 +4385,6 @@
       "district": "طرابلس",
       "city_area": "طرابلس - مستديرة الملعب البلدي",
       "variant_text": "طرابلس - مستديرة الملعب البلدي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4943,7 +4394,6 @@
       "district": "طرابلس",
       "city_area": "طرابلس – منطقة بساتين الميناء",
       "variant_text": "طرابلس – منطقة بساتين الميناء",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4953,7 +4403,6 @@
       "district": "النبطية",
       "city_area": "جبشيت – الساحة",
       "variant_text": "جبشيت – الساحة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4963,7 +4412,6 @@
       "district": "النبطية",
       "city_area": "حبوش - أول الجسر",
       "variant_text": "حبوش - أول الجسر",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4973,7 +4421,6 @@
       "district": "النبطية",
       "city_area": "قعقعية الجسر",
       "variant_text": "قعقعية الجسر",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4982,7 +4429,6 @@
       "governorate": "النبطية",
       "district": "بنت جبيل",
       "variant_text": "بنت جبيل",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -4992,7 +4438,6 @@
       "district": "بنت جبيل",
       "city_area": "حي العوينة – بنت جبيل",
       "variant_text": "حي العوينة – بنت جبيل",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5002,7 +4447,6 @@
       "district": "حاصبيا",
       "city_area": "عين جرفا - حاصبيا",
       "variant_text": "عين جرفا - حاصبيا",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5011,7 +4455,6 @@
       "governorate": "النبطية",
       "district": "مرجعيون",
       "variant_text": "مرجعيون",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5021,7 +4464,6 @@
       "district": "مرجعيون",
       "city_area": "تولين – التامرية – سنتر عوالي",
       "variant_text": "تولين – التامرية – سنتر عوالي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5031,7 +4473,6 @@
       "district": "الهرمل",
       "city_area": "المعالي - الهرمل",
       "variant_text": "المعالي - الهرمل",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5041,7 +4482,6 @@
       "district": "بعلبك",
       "city_area": "العين - بعلبك",
       "variant_text": "العين - بعلبك",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5051,7 +4491,6 @@
       "district": "بعلبك",
       "city_area": "اللبوة - بعلبك",
       "variant_text": "اللبوة - بعلبك",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5061,7 +4500,6 @@
       "district": "بعلبك",
       "city_area": "بريتال",
       "variant_text": "بريتال",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5071,7 +4509,6 @@
       "district": "بعلبك",
       "city_area": "بعلبك - طريق رأس العين",
       "variant_text": "بعلبك - طريق رأس العين",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5081,7 +4518,6 @@
       "district": "بعلبك",
       "city_area": "بعلبك - قرب ساحة ناصر",
       "variant_text": "بعلبك - قرب ساحة ناصر",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5091,7 +4527,6 @@
       "district": "بعلبك",
       "city_area": "دورس – بجانب البلدية",
       "variant_text": "دورس – بجانب البلدية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5101,7 +4536,6 @@
       "district": "بعلبك",
       "city_area": "دير الأحمر",
       "variant_text": "دير الأحمر",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5111,7 +4545,6 @@
       "district": "بعلبك",
       "city_area": "عرسال - المناقع",
       "variant_text": "عرسال - المناقع",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5121,7 +4554,6 @@
       "district": "بيروت",
       "city_area": "الأشرفية",
       "variant_text": "الأشرفية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5131,7 +4563,6 @@
       "district": "بيروت",
       "city_area": "الظريف والزيدانية",
       "variant_text": "الظريف والزيدانية",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5141,7 +4572,6 @@
       "district": "بيروت",
       "city_area": "بيروت – بربور",
       "variant_text": "بيروت – بربور",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5151,7 +4581,6 @@
       "district": "بيروت",
       "city_area": "حمرا - شارع المقدسي",
       "variant_text": "حمرا - شارع المقدسي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5161,7 +4590,6 @@
       "district": "بيروت",
       "city_area": "زقاق البلاط",
       "variant_text": "زقاق البلاط",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5171,7 +4599,6 @@
       "district": "بيروت",
       "city_area": "قصقص - الحرش",
       "variant_text": "قصقص - الحرش",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5181,7 +4608,6 @@
       "district": "الشوف",
       "city_area": "الدامور - الطريق العام",
       "variant_text": "الدامور - الطريق العام",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5191,7 +4617,6 @@
       "district": "الشوف",
       "city_area": "السمقانية - الشوف",
       "variant_text": "السمقانية - الشوف",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5201,7 +4626,6 @@
       "district": "الشوف",
       "city_area": "المختارة",
       "variant_text": "المختارة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5211,7 +4635,6 @@
       "district": "الشوف",
       "city_area": "برجا-الخزان",
       "variant_text": "برجا-الخزان",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5221,7 +4644,6 @@
       "district": "الشوف",
       "city_area": "عين الأسد برجا",
       "variant_text": "عين الأسد برجا",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5231,7 +4653,6 @@
       "district": "الشوف",
       "city_area": "مجد المعوش",
       "variant_text": "مجد المعوش",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5241,7 +4662,6 @@
       "district": "المتن",
       "city_area": "البوشرية الجديدة البوشرية السد",
       "variant_text": "البوشرية الجديدة البوشرية السد",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5251,7 +4671,6 @@
       "district": "المتن",
       "city_area": "البوشرية – شارع أمانوس",
       "variant_text": "البوشرية – شارع أمانوس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5261,7 +4680,6 @@
       "district": "المتن",
       "city_area": "الزعيترية – الفنار",
       "variant_text": "الزعيترية – الفنار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5271,7 +4689,6 @@
       "district": "المتن",
       "city_area": "برج حمود - شارع مرعش",
       "variant_text": "برج حمود - شارع مرعش",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5281,7 +4698,6 @@
       "district": "المتن",
       "city_area": "برج حمود - كامب سيس",
       "variant_text": "برج حمود - كامب سيس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5291,7 +4707,6 @@
       "district": "المتن",
       "city_area": "سد البوشرية – بناية سان ميشال",
       "variant_text": "سد البوشرية – بناية سان ميشال",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5301,7 +4716,6 @@
       "district": "المتن",
       "city_area": "سن الفيل – جسر الباشا",
       "variant_text": "سن الفيل – جسر الباشا",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5311,7 +4725,6 @@
       "district": "المتن",
       "city_area": "شارع كنيسة مار ساسين",
       "variant_text": "شارع كنيسة مار ساسين",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5321,7 +4734,6 @@
       "district": "بعبدا",
       "city_area": "الأوزاعي",
       "variant_text": "الأوزاعي",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5331,7 +4743,6 @@
       "district": "بعبدا",
       "city_area": "الشياح - شارع مار جرجس",
       "variant_text": "الشياح - شارع مار جرجس",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5341,7 +4752,6 @@
       "district": "بعبدا",
       "city_area": "بئر العبد",
       "variant_text": "بئر العبد",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5351,7 +4761,6 @@
       "district": "عاليه",
       "city_area": "بتاتر الساحة - عاليه",
       "variant_text": "بتاتر الساحة - عاليه",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5361,7 +4770,6 @@
       "district": "عاليه",
       "city_area": "صوفر - عاليه",
       "variant_text": "صوفر - عاليه",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5371,7 +4779,6 @@
       "district": "عاليه",
       "city_area": "مجدليا - عاليه",
       "variant_text": "مجدليا - عاليه",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5381,7 +4788,6 @@
       "district": "عكار",
       "city_area": "التليل – الطريق العام",
       "variant_text": "التليل – الطريق العام",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5391,7 +4797,6 @@
       "district": "عكار",
       "city_area": "الخريبة – عكار",
       "variant_text": "الخريبة – عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5401,7 +4806,6 @@
       "district": "عكار",
       "city_area": "الشقدوف - البرج - الطريق العام",
       "variant_text": "الشقدوف - البرج - الطريق العام",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5411,7 +4815,6 @@
       "district": "عكار",
       "city_area": "العبدة – عكار",
       "variant_text": "العبدة – عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5421,7 +4824,6 @@
       "district": "عكار",
       "city_area": "العبودية – الطريق العام",
       "variant_text": "العبودية – الطريق العام",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5431,7 +4833,6 @@
       "district": "عكار",
       "city_area": "الهيشة - وادى خالد",
       "variant_text": "الهيشة - وادى خالد",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5441,7 +4842,6 @@
       "district": "عكار",
       "city_area": "ببنين حي العبد",
       "variant_text": "ببنين حي العبد",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5451,7 +4851,6 @@
       "district": "عكار",
       "city_area": "ببنين - عكار",
       "variant_text": "ببنين - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5461,7 +4860,6 @@
       "district": "عكار",
       "city_area": "برقايل - عكار",
       "variant_text": "برقايل - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5471,7 +4869,6 @@
       "district": "عكار",
       "city_area": "برقايل- وادي الريحان",
       "variant_text": "برقايل- وادي الريحان",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5481,7 +4878,6 @@
       "district": "عكار",
       "city_area": "تل الحياة – عكار",
       "variant_text": "تل الحياة – عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5491,7 +4887,6 @@
       "district": "عكار",
       "city_area": "تلمعيان - عكار",
       "variant_text": "تلمعيان - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5501,7 +4896,6 @@
       "district": "عكار",
       "city_area": "حرار - عكار",
       "variant_text": "حرار - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5511,7 +4905,6 @@
       "district": "عكار",
       "city_area": "حلبا - عكار",
       "variant_text": "حلبا - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5521,7 +4914,6 @@
       "district": "عكار",
       "city_area": "فنيدق - عكار",
       "variant_text": "فنيدق - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5531,7 +4923,6 @@
       "district": "عكار",
       "city_area": "قبعيت – الطريق العام",
       "variant_text": "قبعيت – الطريق العام",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5541,7 +4932,6 @@
       "district": "عكار",
       "city_area": "وادي خالد - عكار",
       "variant_text": "وادي خالد - عكار",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5549,7 +4939,6 @@
       "canonical_name_ar": "كسروان - جبيل",
       "governorate": "كسروان - جبيل",
       "variant_text": "كسروان - جبيل",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5559,7 +4948,6 @@
       "district": "جبيل",
       "city_area": "جبيل – حي الحارة",
       "variant_text": "جبيل – حي الحارة",
-      "variant_type": "phcc_import",
       "active": "yes"
     },
     {
@@ -5568,7 +4956,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "برج البراجنة - مركز غازي بيضون",
       "variant_text": "برج البراجنة - مركز غازي بيضون",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5577,7 +4964,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "برج البراجنة - مركز غازي بيضون",
       "variant_text": "مركز غازي بيضون",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5586,7 +4972,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "المشرفية",
       "variant_text": "المشرفية",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5595,7 +4980,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "كرم الزيتون - اشرفية",
       "variant_text": "كرم الزيتون - اشرفية",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5604,7 +4988,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "كرم الزيتون - اشرفية",
       "variant_text": "اشرفية",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5613,7 +4996,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "برج حمود - بلغرجيان",
       "variant_text": "برج حمود - بلغرجيان",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5622,7 +5004,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "برج حمود - بلغرجيان",
       "variant_text": "بلغرجيان",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5631,7 +5012,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "بشار مهنا ومسلم عقيل - الشياح",
       "variant_text": "بشار مهنا ومسلم عقيل - الشياح",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5640,7 +5020,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "بشار مهنا ومسلم عقيل - الشياح",
       "variant_text": "بشار مهنا ومسلم عقيل",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5649,7 +5028,6 @@
       "governorate": "بيروت وجبل لبنان",
       "city_area": "الظريف",
       "variant_text": "الظريف",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5658,7 +5036,6 @@
       "governorate": "البقاع",
       "city_area": "العين",
       "variant_text": "العين",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5667,7 +5044,6 @@
       "governorate": "البقاع",
       "city_area": "مهدي عيدي - مشغرة",
       "variant_text": "مهدي عيدي - مشغرة",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5676,7 +5052,6 @@
       "governorate": "البقاع",
       "city_area": "مهدي عيدي - مشغرة",
       "variant_text": "مهدي عيدي",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5685,7 +5060,6 @@
       "governorate": "البقاع",
       "city_area": "دورس لصحة الأم والطفل",
       "variant_text": "دورس لصحة الأم والطفل",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5694,7 +5068,6 @@
       "governorate": "الجنوب",
       "city_area": "حلتا",
       "variant_text": "حلتا",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5703,7 +5076,6 @@
       "governorate": "الجنوب",
       "city_area": "فرديس",
       "variant_text": "فرديس",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5712,7 +5084,6 @@
       "governorate": "الجنوب",
       "city_area": "ابل السقي",
       "variant_text": "ابل السقي",
-      "variant_type": "amel_import",
       "active": "yes"
     },
     {
@@ -5721,7 +5092,6 @@
       "governorate": "الجنوب",
       "city_area": "العرقوب",
       "variant_text": "العرقوب",
-      "variant_type": "amel_import",
       "active": "yes"
     }
   ]
