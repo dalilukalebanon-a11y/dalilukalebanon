@@ -1,7 +1,7 @@
 {
   "file": "age_rules.json",
   "source_sheet": "Age_Patterns, Age_Group_Rules",
-  "published_at": "2026-05-13T17:05:30.472Z",
+  "published_at": "2026-05-14T18:16:10.479Z",
   "count": 28,
   "data": [
     {
@@ -93,77 +93,88 @@
       "pattern_text": "قديش عمره",
       "language": "arabic",
       "pattern_type": "nearby_number",
-      "active": "yes"
+      "active": "yes",
+      "notes": "سؤال عمر"
     },
     {
       "pattern_id": "AGE-014",
       "pattern_text": "عمره 60 سنة",
       "language": "arabic",
       "pattern_type": "example_pattern",
-      "active": "yes"
+      "active": "yes",
+      "notes": "مثال شائع"
     },
     {
       "pattern_id": "AGE-015",
       "pattern_text": "حدا عمره",
       "language": "arabic",
       "pattern_type": "nearby_number",
-      "active": "yes"
+      "active": "yes",
+      "notes": "وصف عام"
     },
     {
       "pattern_id": "AGE-016",
       "pattern_text": "طفل عمره",
       "language": "arabic",
       "pattern_type": "child_hint",
-      "active": "yes"
+      "active": "yes",
+      "notes": "طفل + عمر"
     },
     {
       "pattern_id": "AGE-017",
       "pattern_text": "بنت عمرها",
       "language": "arabic",
       "pattern_type": "child_hint",
-      "active": "yes"
+      "active": "yes",
+      "notes": "بنت + عمر"
     },
     {
       "pattern_id": "AGE-018",
       "pattern_text": "ولد عمره",
       "language": "arabic",
       "pattern_type": "child_hint",
-      "active": "yes"
+      "active": "yes",
+      "notes": "ولد + عمر"
     },
     {
       "pattern_id": "AGE-019",
       "pattern_text": "years old",
       "language": "english",
       "pattern_type": "nearby_number",
-      "active": "yes"
+      "active": "yes",
+      "notes": "English age pattern"
     },
     {
       "pattern_id": "AGE-020",
       "pattern_text": "year old",
       "language": "english",
       "pattern_type": "nearby_number",
-      "active": "yes"
+      "active": "yes",
+      "notes": "English age pattern"
     },
     {
       "pattern_id": "AGE-021",
       "pattern_text": "aged",
       "language": "english",
       "pattern_type": "nearby_number",
-      "active": "yes"
+      "active": "yes",
+      "notes": "English age pattern"
     },
     {
       "pattern_id": "AGE-022",
       "pattern_text": "age",
       "language": "english",
       "pattern_type": "nearby_number",
-      "active": "yes"
+      "active": "yes",
+      "notes": "English age pattern"
     },
     {
       "pattern_id": "AGE-023",
       "pattern_text": "is 7 years old",
       "language": "english",
       "pattern_type": "example_pattern",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Example"
     },
     {
       "age_group_id": "INFANT",
