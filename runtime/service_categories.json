@@ -1,0 +1,419 @@
+{
+  "file": "service_categories.json",
+  "source_sheet": "Services_Categories",
+  "published_at": "2026-05-14T18:15:57.941Z",
+  "count": 47,
+  "data": [
+    {
+      "category_id": "medications",
+      "public_display_name_ar": "أدوية",
+      "category_name_en": "medications",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "دواء/أدوية/صيدلية"
+    },
+    {
+      "category_id": "diapers_baby",
+      "public_display_name_ar": "حفاضات للأطفال",
+      "category_name_en": "baby diapers",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "حفاضات للرضع والأطفال"
+    },
+    {
+      "category_id": "diapers_adult",
+      "public_display_name_ar": "حفاضات للكبار",
+      "category_name_en": "adult diapers",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "حفاضات لحدا كبير بالعمر أو كبار السن"
+    },
+    {
+      "category_id": "hospital",
+      "public_display_name_ar": "مستشفيات",
+      "category_name_en": "hospital",
+      "sensitive_group": "medical_urgent",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "حالات صحية عاجلة"
+    },
+    {
+      "category_id": "pregnancy_support",
+      "public_display_name_ar": "دعم للحوامل",
+      "category_name_en": "pregnancy support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "متابعة الحمل وخدمات للحوامل"
+    },
+    {
+      "category_id": "baby_delivery",
+      "public_display_name_ar": "ولادة",
+      "category_name_en": "delivery/labor",
+      "sensitive_group": "medical_urgent",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مخاض/طلق/ولادة"
+    },
+    {
+      "category_id": "women_health_general",
+      "public_display_name_ar": "صحة نسائية",
+      "category_name_en": "women health",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "صحة نسائية عامة"
+    },
+    {
+      "category_id": "health_center",
+      "public_display_name_ar": "مراكز صحية",
+      "category_name_en": "health center",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مراكز صحية ومستوصفات"
+    },
+    {
+      "category_id": "medical_tests",
+      "public_display_name_ar": "فحوصات وتحاليل",
+      "category_name_en": "medical tests",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "يجب ذكر مراكز الرعاية الصحية الأولية ووزارة الصحة"
+    },
+    {
+      "category_id": "mental_health",
+      "public_display_name_ar": "دعم نفسي",
+      "category_name_en": "mental health",
+      "sensitive_group": "suicide_sensitive",
+      "allow_multi": "conditional",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "لا يُخلط مع خدمات غير مرتبطة عند وجود خطر"
+    },
+    {
+      "category_id": "disability_support",
+      "public_display_name_ar": "دعم للأشخاص ذوي الإعاقة",
+      "category_name_en": "disability support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "إعاقة واحتياجات خاصة"
+    },
+    {
+      "category_id": "displacement_aid",
+      "public_display_name_ar": "مساعدات للنازحين",
+      "category_name_en": "displacement aid",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "نزوح/نازحين"
+    },
+    {
+      "category_id": "lost_child",
+      "public_display_name_ar": "طفل مفقود",
+      "category_name_en": "lost child",
+      "sensitive_group": "child_protection",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مسار حساس ومغلق"
+    },
+    {
+      "category_id": "health_center_general",
+      "public_display_name_ar": "مراكز رعاية صحية أولية",
+      "category_name_en": "general PHCC",
+      "sensitive_group": "medical_urgent",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "health_center_psychiatrist",
+      "public_display_name_ar": "مراكز رعاية صحية أولية مع طبيب نفسي",
+      "category_name_en": "PHCC with psychiatrist",
+      "sensitive_group": "none",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "amel_phc",
+      "public_display_name_ar": "مركز عامل للرعاية الصحية الأولية",
+      "category_name_en": "Amel PHC",
+      "sensitive_group": "none",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "amel_community_center",
+      "public_display_name_ar": "مركز عامل مجتمعي",
+      "category_name_en": "Amel community center",
+      "sensitive_group": "none",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "amel_social_center",
+      "public_display_name_ar": "مركز عامل اجتماعي",
+      "category_name_en": "Amel social center",
+      "sensitive_group": "none",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "elderly_support",
+      "public_display_name_ar": "خدمات للمسنين وكبار السن",
+      "category_name_en": "elderly support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مظلة توضيحية لكبار السن/المسنين قبل التوجيه إلى نوع الخدمة المناسب"
+    },
+    {
+      "category_id": "psychiatrist_support",
+      "public_display_name_ar": "طبيب/معالج نفسي",
+      "category_name_en": "psychiatrist support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "طلبات الطبيب أو المعالج النفسي بما فيها للأطفال"
+    },
+    {
+      "category_id": "assistive_devices",
+      "public_display_name_ar": "أجهزة ومعدات مساعدة",
+      "category_name_en": "assistive devices",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "فرشة هوا/فرشة ماي/كرسي متحرك/عكازات وغيرها"
+    },
+    {
+      "category_id": "repair_objection",
+      "public_display_name_ar": "تصحيح النتائج",
+      "category_name_en": "result repair",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "اعتراض المستخدم على النتيجة السابقة أو طلب إعادة فلترة"
+    },
+    {
+      "category_id": "protection_violence",
+      "public_display_name_ar": "حماية من العنف",
+      "category_name_en": "protection from violence",
+      "sensitive_group": "gbv_sensitive; child_protection_sensitive",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مسار حماية حساس، يتطلب تحديد امرأة أو طفل أو شخص عنده اعاقة"
+    },
+    {
+      "category_id": "cancer_support",
+      "public_display_name_ar": "دعم مرضى السرطان",
+      "category_name_en": "cancer support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "طلبات السرطان والعلاج المرتبط به"
+    },
+    {
+      "category_id": "shelter_support",
+      "public_display_name_ar": "مراكز إيواء",
+      "category_name_en": "shelter support",
+      "sensitive_group": "none",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مراكز الإيواء وخطوطها الساخنة"
+    },
+    {
+      "category_id": "food_assistance",
+      "public_display_name_ar": "مساعدات غذائية",
+      "category_name_en": "food assistance",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "طلبات الطعام أو الحصص الغذائية"
+    },
+    {
+      "category_id": "nutrition_infant",
+      "public_display_name_ar": "تغذية الرضع والأطفال الصغار",
+      "category_name_en": "infant nutrition",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "الرضاعة الطبيعية وتغذية الرضع وصغار الأطفال"
+    },
+    {
+      "category_id": "mine_risk_reporting",
+      "public_display_name_ar": "الإبلاغ عن الألغام والذخائر",
+      "category_name_en": "mine risk reporting",
+      "sensitive_group": "none",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مسار تحذيري واضح للإبلاغ عن الألغام والذخائر غير المنفجرة"
+    },
+    {
+      "category_id": "psea_reporting",
+      "public_display_name_ar": "شكوى اعتداء أو استغلال جنسي",
+      "category_name_en": "PSEA reporting",
+      "sensitive_group": "gbv_sensitive",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مسار حساس للشكاوى المتعلقة بالاعتداء أو الاستغلال الجنسي"
+    },
+    {
+      "category_id": "education_emergency",
+      "public_display_name_ar": "تعليم في الطوارئ",
+      "category_name_en": "education emergency",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مشكلات التعلم أو التعليم في حالات الطوارئ"
+    },
+    {
+      "category_id": "displacement_registration",
+      "public_display_name_ar": "تسجيل النازحين",
+      "category_name_en": "displacement registration",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "روابط ومنصات تسجيل النازحين الرسمية"
+    },
+    {
+      "category_id": "suicide_support",
+      "public_display_name_ar": "خطر انتحار",
+      "category_name_en": "suicide support",
+      "sensitive_group": "suicide_sensitive",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "تجاوز صارم يعرض Embrace 1564 فقط"
+    },
+    {
+      "category_id": "therapy_services",
+      "public_display_name_ar": "خدمات علاج وتأهيل",
+      "category_name_en": "therapy services",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "health_support",
+      "public_display_name_ar": "رعاية صحية",
+      "category_name_en": "health support or medical support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
+    },
+    {
+      "category_id": "emergency_hotline",
+      "public_display_name_ar": "أرقام الطوارىء",
+      "category_name_en": "emergency hotlines",
+      "sensitive_group": "emergency_line",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "عرض ارقام الطوارىء ضمن مجموعة emergency_line"
+    },
+    {
+      "category_id": "cash_assistance",
+      "public_display_name_ar": "دعم نقدي",
+      "category_name_en": "cash assistance",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات ممكن ان تقدم دعم نقدي"
+    },
+    {
+      "category_id": "refugees_aid",
+      "public_display_name_ar": "مساعدات للاجئين",
+      "category_name_en": "refugees",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات للاجئين"
+    },
+    {
+      "category_id": "case_management",
+      "public_display_name_ar": "ادارة الحالة",
+      "category_name_en": "case management",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات ادارة الحالة"
+    },
+    {
+      "category_id": "education",
+      "public_display_name_ar": "تعليم",
+      "category_name_en": "education",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات التعليم"
+    },
+    {
+      "category_id": "social_protection",
+      "public_display_name_ar": "حماية اجتماعية",
+      "category_name_en": "social protection",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات حماية اجتماعية"
+    },
+    {
+      "category_id": "medical_support",
+      "public_display_name_ar": "رعاية طبية",
+      "category_name_en": "medical support",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات رعاية طبية"
+    },
+    {
+      "category_id": "education_inclusion",
+      "public_display_name_ar": "تعليم الدامج",
+      "category_name_en": "inclusive education",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "التعليم الدامج"
+    },
+    {
+      "category_id": "child_protection",
+      "public_display_name_ar": "حماية الطفل",
+      "category_name_en": "child protection",
+      "sensitive_group": "child_protection_sensitive",
+      "allow_multi": "no",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات متعلقة بحماية الطفل"
+    },
+    {
+      "category_id": "disability_protection",
+      "public_display_name_ar": "حماية للاشخاص ذوي الإعاقة",
+      "category_name_en": "Protection services for people with disabilities",
+      "sensitive_group": "disability_protection_urgent",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "Protection services for people with disabilities"
+    },
+    {
+      "category_id": "house_aid",
+      "public_display_name_ar": "مساعدة في أجار البيت",
+      "category_name_en": "Aid in house rent",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "خدمات مساعدة نقدية لأجار البيت"
+    },
+    {
+      "category_id": "public_hospitals",
+      "public_display_name_ar": "مستشفيات حكومية",
+      "category_name_en": "public hospitals",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "مستشفيات حكومية"
+    },
+    {
+      "category_id": "Substance_use",
+      "public_display_name_ar": "استخدام المواد المخدّرة",
+      "category_name_en": "Substance Use",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional",
+      "notes": "استخدام المواد المخدّرة"
+    }
+  ]
+}
