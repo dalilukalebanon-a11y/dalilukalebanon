@@ -1,7 +1,7 @@
 {
   "file": "normalization.json",
   "source_sheet": "Arabic_Normalization, Arabic_Number_Normalization, Arabic_Function_Words",
-  "published_at": "2026-05-13T17:05:27.226Z",
+  "published_at": "2026-05-14T18:16:07.764Z",
   "count": 89,
   "data": [
     {
@@ -30,7 +30,8 @@
       "rule_type": "letter",
       "original_text": "ة",
       "normalized_text": "ه",
-      "active": "yes"
+      "active": "yes",
+      "notes": "استعملها فقط في normalization layer وليس للعرض"
     },
     {
       "rule_id": "N-005",
@@ -57,70 +58,81 @@
       "rule_id": "N-008",
       "rule_type": "remove",
       "original_text": "َ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-009",
       "rule_type": "remove",
       "original_text": "ً",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-010",
       "rule_type": "remove",
       "original_text": "ُ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-011",
       "rule_type": "remove",
       "original_text": "ٌ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-012",
       "rule_type": "remove",
       "original_text": "ِ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-013",
       "rule_type": "remove",
       "original_text": "ٍ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-014",
       "rule_type": "remove",
       "original_text": "ّ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-015",
       "rule_type": "remove",
       "original_text": "ْ",
-      "active": "yes"
+      "active": "yes",
+      "notes": "حذف التشكيل"
     },
     {
       "rule_id": "N-016",
       "rule_type": "typo",
       "original_text": "حفضات",
       "normalized_text": "حفاضات",
-      "active": "yes"
+      "active": "yes",
+      "notes": "مهم"
     },
     {
       "rule_id": "N-017",
       "rule_type": "typo",
       "original_text": "حفاظات",
       "normalized_text": "حفاضات",
-      "active": "yes"
+      "active": "yes",
+      "notes": "مهم"
     },
     {
       "rule_id": "N-018",
       "rule_type": "typo",
       "original_text": "حفايض",
       "normalized_text": "حفاضات",
-      "active": "yes"
+      "active": "yes",
+      "notes": "مهم"
     },
     {
       "rule_id": "N-019",
@@ -162,140 +174,160 @@
       "rule_type": "phrase",
       "original_text": "شو في",
       "normalized_text": "شو في",
-      "active": "yes"
+      "active": "yes",
+      "notes": "احتفظ بها كإطار لهجة"
     },
     {
       "rule_id": "N-025",
       "rule_type": "phrase",
       "original_text": "وين ممكن لاقي",
       "normalized_text": "وين ممكن لاقي",
-      "active": "yes"
+      "active": "yes",
+      "notes": "إطار لهجة"
     },
     {
       "rule_id": "N-026",
       "rule_type": "phrase",
       "original_text": "عم تتوزع",
       "normalized_text": "تتوزع",
-      "active": "yes"
+      "active": "yes",
+      "notes": "تبسيط"
     },
     {
       "rule_id": "N-027",
       "rule_type": "digit",
       "original_text": "٠",
       "normalized_text": "0",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-028",
       "rule_type": "digit",
       "original_text": "١",
       "normalized_text": "1",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-029",
       "rule_type": "digit",
       "original_text": "٢",
       "normalized_text": "2",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-030",
       "rule_type": "digit",
       "original_text": "٣",
       "normalized_text": "3",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-031",
       "rule_type": "digit",
       "original_text": "٤",
       "normalized_text": "4",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-032",
       "rule_type": "digit",
       "original_text": "٥",
       "normalized_text": "5",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-033",
       "rule_type": "digit",
       "original_text": "٦",
       "normalized_text": "6",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-034",
       "rule_type": "digit",
       "original_text": "٧",
       "normalized_text": "7",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-035",
       "rule_type": "digit",
       "original_text": "٨",
       "normalized_text": "8",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-036",
       "rule_type": "digit",
       "original_text": "٩",
       "normalized_text": "9",
-      "active": "yes"
+      "active": "yes",
+      "notes": "Arabic-Indic digits"
     },
     {
       "rule_id": "N-100",
       "rule_type": "typo",
       "original_text": "حفضات",
       "normalized_text": "حفاضات",
-      "active": "yes"
+      "active": "yes",
+      "notes": "تصحيح شائع"
     },
     {
       "rule_id": "N-101",
       "rule_type": "typo",
       "original_text": "حفايض",
       "normalized_text": "حفاضات",
-      "active": "yes"
+      "active": "yes",
+      "notes": "جمع عامي"
     },
     {
       "rule_id": "N-102",
       "rule_type": "typo",
       "original_text": "حفاظات",
       "normalized_text": "حفاضات",
-      "active": "yes"
+      "active": "yes",
+      "notes": "تهجئة شائعة"
     },
     {
       "rule_id": "N-103",
       "rule_type": "typo",
       "original_text": "مرا",
       "normalized_text": "مره",
-      "active": "yes"
+      "active": "yes",
+      "notes": "للاستخراج فقط"
     },
     {
       "rule_id": "N-104",
       "rule_type": "typo",
       "original_text": "مرة",
       "normalized_text": "مره",
-      "active": "yes"
+      "active": "yes",
+      "notes": "للتوحيد فقط"
     },
     {
       "rule_id": "N-106",
       "rule_type": "typo",
       "original_text": "ادويه",
       "normalized_text": "ادويه",
-      "active": "yes"
+      "active": "yes",
+      "notes": "شكل شائع"
     },
     {
       "rule_id": "N-107",
       "rule_type": "typo",
       "original_text": "نازحين",
       "normalized_text": "نازحين",
-      "active": "yes"
+      "active": "yes",
+      "notes": "ثبات"
     },
     {
       "rule_id": "N-108",
@@ -336,173 +368,243 @@
       "rule_id": "AR-NORM-001",
       "rule_type": "prefix_strip",
       "original_text": "لل",
-      "active": "yes"
+      "active": "yes",
+      "notes": "remove double lam prefix (للحوامل → حوامل)"
     },
     {
       "rule_id": "AR-NORM-002",
       "rule_type": "prefix_strip",
       "original_text": "بال",
-      "active": "yes"
+      "active": "yes",
+      "notes": "remove (ب + ال) prefix (بالمدرسة → مدرسة)"
     },
     {
       "rule_id": "AR-NORM-003",
       "rule_type": "prefix_strip",
       "original_text": "ب",
-      "active": "yes"
+      "active": "yes",
+      "notes": "remove location prefix (بعرمون → عرمون)"
     },
     {
       "rule_id": "AR-NORM-004",
       "rule_type": "prefix_strip",
       "original_text": "ل",
-      "active": "yes"
+      "active": "yes",
+      "notes": "remove single lam prefix (للمساعدة → مساعدة)"
     },
     {
       "source_digit": "٠",
-      "normalized_digit": "0"
+      "normalized_digit": "0",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "١",
-      "normalized_digit": "1"
+      "normalized_digit": "1",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٢",
-      "normalized_digit": "2"
+      "normalized_digit": "2",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٣",
-      "normalized_digit": "3"
+      "normalized_digit": "3",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٤",
-      "normalized_digit": "4"
+      "normalized_digit": "4",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٥",
-      "normalized_digit": "5"
+      "normalized_digit": "5",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٦",
-      "normalized_digit": "6"
+      "normalized_digit": "6",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٧",
-      "normalized_digit": "7"
+      "normalized_digit": "7",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٨",
-      "normalized_digit": "8"
+      "normalized_digit": "8",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "٩",
-      "normalized_digit": "9"
+      "normalized_digit": "9",
+      "script_type": "arabic_indic",
+      "notes": "Arabic-Indic digit"
     },
     {
       "source_digit": "0",
-      "normalized_digit": "0"
+      "normalized_digit": "0",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "1",
-      "normalized_digit": "1"
+      "normalized_digit": "1",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "2",
-      "normalized_digit": "2"
+      "normalized_digit": "2",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "3",
-      "normalized_digit": "3"
+      "normalized_digit": "3",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "4",
-      "normalized_digit": "4"
+      "normalized_digit": "4",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "5",
-      "normalized_digit": "5"
+      "normalized_digit": "5",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "6",
-      "normalized_digit": "6"
+      "normalized_digit": "6",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "7",
-      "normalized_digit": "7"
+      "normalized_digit": "7",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "8",
-      "normalized_digit": "8"
+      "normalized_digit": "8",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
       "source_digit": "9",
-      "normalized_digit": "9"
+      "normalized_digit": "9",
+      "script_type": "western",
+      "notes": "Western digit"
     },
     {
+      "word_id": "FW-001",
       "word_text": "وين",
       "downweight_mode": "ignore_if_alone"
     },
     {
+      "word_id": "FW-002",
       "word_text": "شو",
       "downweight_mode": "ignore_if_alone"
     },
     {
+      "word_id": "FW-003",
       "word_text": "في",
       "downweight_mode": "light"
     },
     {
+      "word_id": "FW-004",
       "word_text": "ممكن",
       "downweight_mode": "light"
     },
     {
+      "word_id": "FW-005",
       "word_text": "لاقي",
       "downweight_mode": "light"
     },
     {
+      "word_id": "FW-006",
       "word_text": "عم",
       "downweight_mode": "light"
     },
     {
+      "word_id": "FW-007",
       "word_text": "حدا",
       "downweight_mode": "light"
     },
     {
+      "word_id": "FW-008",
       "word_text": "عنده",
       "downweight_mode": "light"
     },
     {
+      "word_id": "FW-009",
       "word_text": "عمره",
-      "downweight_mode": "keep_for_age"
+      "downweight_mode": "keep_for_age",
+      "notes": "لا يُحذف كلياً لأنه يساعد بالعمر"
     },
     {
+      "word_id": "FW-010",
       "word_text": "عمرها",
-      "downweight_mode": "keep_for_age"
+      "downweight_mode": "keep_for_age",
+      "notes": "لا يُحذف كلياً لأنه يساعد بالعمر"
     },
     {
+      "word_id": "شو",
       "word_text": "question_filler",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "لهجة لبنانية"
     },
     {
+      "word_id": "وين",
       "word_text": "question_filler",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "لهجة لبنانية"
     },
     {
+      "word_id": "ممكن",
       "word_text": "helper",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "ضجيج لا يحدد نية"
     },
     {
+      "word_id": "عم",
       "word_text": "helper",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "ضجيج لهجي"
     },
     {
+      "word_id": "لاقي",
       "word_text": "helper",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "ضجيج طلب"
     },
     {
+      "word_id": "حدا",
       "word_text": "helper",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "سياق شخص"
     },
     {
+      "word_id": "بالعمر",
       "word_text": "helper",
-      "downweight_mode": "yes"
+      "downweight_mode": "yes",
+      "notes": "يفيد مع العمر فقط"
     }
   ]
 }
