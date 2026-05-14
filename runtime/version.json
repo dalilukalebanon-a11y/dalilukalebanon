@@ -1,8 +1,9 @@
 {
-  "version": "2026-05-13T17:05:50.019Z",
-  "published_at": "2026-05-13T17:05:50.019Z",
+  "version": "2026-05-14T18:16:29.147Z",
+  "published_at": "2026-05-14T18:16:29.147Z",
   "files": [
     "services.json",
+    "service_categories.json",
     "intent_variants.json",
     "locations.json",
     "policies.json",
@@ -13,6 +14,7 @@
     "clarification_prompts.json",
     "option_sets.json",
     "safety_overrides.json",
+    "sensitive_triggers.json",
     "field_exposure.json"
   ]
 }
