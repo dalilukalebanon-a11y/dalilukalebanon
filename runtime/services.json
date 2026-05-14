@@ -1,7 +1,7 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-14T21:17:23.937Z",
+  "published_at": "2026-05-14T21:29:03.897Z",
   "count": 752,
   "data": [
     {
@@ -10432,7 +10432,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "advocacy",
         "community_support",
@@ -10562,7 +10561,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -10942,7 +10940,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "therapy_services",
-        "cash_assistance",
         "elderly_support"
       ],
       "category_secondary": "disability_idraac",
@@ -11074,7 +11071,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support",
@@ -11103,7 +11099,6 @@
       "category_additional": [
         "therapy_services",
         "mental_health",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -11159,7 +11154,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "social_support",
         "recreational_activities",
         "elderly_support",
@@ -11361,7 +11355,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "community_support",
         "recreational_activities"
       ],
@@ -11392,7 +11385,6 @@
         "therapy_services",
         "assistive_devices",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -11454,7 +11446,6 @@
         "therapy_services",
         "assistive_devices",
         "mental_health",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -11486,7 +11477,6 @@
       "category_additional": [
         "therapy_services",
         "assistive_devices",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -11547,7 +11537,6 @@
         "medical_support",
         "therapy_services",
         "mental_health",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "elderly_support"
@@ -11576,7 +11565,6 @@
       "category_additional": [
         "medical_support",
         "mental_health",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support",
@@ -11885,7 +11873,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "assistive_devices",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -11943,7 +11930,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "advocacy",
         "community_support",
@@ -11996,7 +11982,6 @@
       "organization_name": "KAFA",
       "category_main": "disability_support",
       "category_additional": [
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -12050,7 +12035,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "education_inclusion"
       ],
       "category_secondary": "disability_idraac",
@@ -12080,7 +12064,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -12134,7 +12117,6 @@
       "category_additional": [
         "therapy_services",
         "assistive_devices",
-        "cash_assistance",
         "social_protection",
         "advocacy",
         "community_support",
@@ -12214,7 +12196,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "mental_health",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "elderly_support"
@@ -12271,7 +12252,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -12303,7 +12283,6 @@
         "therapy_services",
         "assistive_devices",
         "mental_health",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "recreational_activities",
@@ -12416,7 +12395,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -12473,7 +12451,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "medical_support",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support"
@@ -12499,7 +12476,6 @@
       "organization_name": "Rene Mouawad Foundation",
       "category_main": "disability_support",
       "category_additional": [
-        "cash_assistance",
         "social_protection",
         "elderly_support"
       ],
@@ -12558,7 +12534,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "recreational_activities",
@@ -12588,7 +12563,6 @@
       "category_additional": [
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -12621,7 +12595,6 @@
         "therapy_services",
         "assistive_devices",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -12651,7 +12624,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "mental_health",
-        "cash_assistance",
         "advocacy",
         "recreational_activities"
       ],
@@ -12854,7 +12826,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "assistive_devices",
-        "cash_assistance",
         "recreational_activities"
       ],
       "category_secondary": "disability_idraac",
@@ -12910,7 +12881,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -13020,7 +12990,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "elderly_support",
         "education_inclusion"
       ],
@@ -13047,7 +13016,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "therapy_services",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support"
@@ -13074,7 +13042,6 @@
       "organization_name": "Development Indicators Association-DIA-Eersal",
       "category_main": "disability_support",
       "category_additional": [
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support"
@@ -13460,7 +13427,6 @@
       "category_additional": [
         "therapy_services",
         "mental_health",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -13541,7 +13507,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "elderly_support",
         "education_inclusion"
       ],
@@ -13648,7 +13613,6 @@
         "therapy_services",
         "assistive_devices",
         "education",
-        "cash_assistance",
         "advocacy",
         "elderly_support"
       ],
@@ -13674,7 +13638,6 @@
       "organization_name": "Salam-LADC",
       "category_main": "disability_support",
       "category_additional": [
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities",
@@ -13727,7 +13690,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities"
@@ -13756,7 +13718,6 @@
         "therapy_services",
         "assistive_devices",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -13786,7 +13747,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "therapy_services",
-        "cash_assistance",
         "social_protection",
         "advocacy",
         "community_support"
@@ -13815,7 +13775,6 @@
       "category_additional": [
         "therapy_services",
         "education",
-        "cash_assistance",
         "advocacy",
         "recreational_activities"
       ],
@@ -13842,7 +13801,6 @@
       "category_additional": [
         "mental_health",
         "education",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "recreational_activities"
@@ -13984,7 +13942,6 @@
       "category_additional": [
         "mental_health",
         "education",
-        "cash_assistance",
         "advocacy",
         "community_support"
       ],
@@ -14009,7 +13966,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "recreational_activities",
@@ -14124,7 +14080,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "mental_health",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -14155,7 +14110,6 @@
         "therapy_services",
         "assistive_devices",
         "mental_health",
-        "cash_assistance",
         "social_support",
         "elderly_support"
       ],
@@ -14211,7 +14165,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -14324,7 +14277,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -14357,7 +14309,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support"
@@ -14673,7 +14624,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -14704,7 +14654,6 @@
       "category_additional": [
         "therapy_services",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities"
@@ -14732,7 +14681,6 @@
       "category_additional": [
         "therapy_services",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities"
@@ -14841,7 +14789,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "recreational_activities"
@@ -14871,7 +14818,6 @@
         "medical_support",
         "therapy_services",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -14903,7 +14849,6 @@
       "category_additional": [
         "medical_support",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -14934,7 +14879,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy"
       ],
@@ -14962,7 +14906,6 @@
         "health_support",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -15072,7 +15015,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15101,7 +15043,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -15163,7 +15104,6 @@
         "therapy_services",
         "assistive_devices",
         "mental_health",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15193,7 +15133,6 @@
         "health_support",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15254,7 +15193,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15313,7 +15251,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -15367,7 +15304,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15457,7 +15393,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "recreational_activities",
@@ -15602,7 +15537,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15631,7 +15565,6 @@
       "category_additional": [
         "health_support",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "elderly_support"
@@ -15739,7 +15672,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "advocacy",
         "community_support",
         "recreational_activities"
@@ -15766,7 +15698,6 @@
       "organization_name": "ShareQ NGO",
       "category_main": "disability_support",
       "category_additional": [
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -15826,7 +15757,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15856,7 +15786,6 @@
       "category_main": "disability_support",
       "category_additional": [
         "mental_health",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -15890,7 +15819,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -15923,7 +15851,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -15955,7 +15882,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities",
@@ -15987,7 +15913,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support"
@@ -16045,7 +15970,6 @@
         "medical_support",
         "assistive_devices",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -16079,7 +16003,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities",
@@ -16138,7 +16061,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "community_support",
@@ -16166,8 +16088,7 @@
       "category_additional": [
         "health_support",
         "therapy_services",
-        "assistive_devices",
-        "cash_assistance"
+        "assistive_devices"
       ],
       "category_secondary": "disability_idraac",
       "description_ar": "📍 qeqw، جبل لبنان\n👥 الفئة المستهدفة: أشخاص ذوو إعاقة\n🏥 من بين خدماتها المعتادة: الوقاية، التأهيل، الأجهزة والوسائل المساعدة، دعم العمل الحر",
@@ -16456,7 +16377,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -16491,7 +16411,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -16773,7 +16692,6 @@
         "medical_support",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "recreational_activities"
@@ -16859,7 +16777,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -16894,7 +16811,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -16929,7 +16845,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -16961,7 +16876,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -17290,7 +17204,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support"
       ],
       "category_secondary": "disability_idraac",
@@ -17315,7 +17228,6 @@
       "organization_name": "Lebanese Union for People with Physical Disabilities (LUPD) - saida",
       "category_main": "disability_support",
       "category_additional": [
-        "cash_assistance",
         "social_protection",
         "advocacy",
         "community_support"
@@ -17345,7 +17257,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support"
       ],
       "category_secondary": "disability_idraac",
@@ -17397,7 +17308,6 @@
         "therapy_services",
         "assistive_devices",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -17510,7 +17420,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support"
       ],
@@ -17540,7 +17449,6 @@
         "therapy_services",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -17620,7 +17528,6 @@
       "category_additional": [
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "advocacy",
         "recreational_activities"
@@ -17651,7 +17558,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -17684,7 +17590,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -17717,7 +17622,6 @@
         "assistive_devices",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_protection",
         "social_support",
         "advocacy",
@@ -17749,7 +17653,6 @@
         "medical_support",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities"
@@ -17807,7 +17710,6 @@
         "medical_support",
         "mental_health",
         "education",
-        "cash_assistance",
         "social_support",
         "advocacy",
         "recreational_activities"
