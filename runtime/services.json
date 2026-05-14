@@ -1,8 +1,8 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-14T21:29:03.897Z",
-  "count": 752,
+  "published_at": "2026-05-14T21:40:47.264Z",
+  "count": 751,
   "data": [
     {
       "service_id": "SRV-001",
@@ -18310,27 +18310,6 @@
     },
     {
       "service_id": "SRV-656",
-      "service_name_ar": "test",
-      "organization_name": "فثسف",
-      "category_main": "قثقث",
-      "category_additional": "medications",
-      "category_secondary": [
-        "displacement_aid",
-        "pregnancy_support"
-      ],
-      "description_ar": "dskdaka",
-      "phone_1": 900329391,
-      "governorate": "لبنان",
-      "city_area": "كل لبنان",
-      "coverage_type": "multi_area",
-      "audience_tags_ar": "عام",
-      "availability_status": "available",
-      "display_priority": 90,
-      "show_in_fallback": "no",
-      "sensitive_group": "none"
-    },
-    {
-      "service_id": "SRV-657",
       "service_name_ar": "منظمة أبعاد",
       "organization_name": "منظمة أبعاد",
       "category_main": "protection_violence",
