@@ -1,8 +1,8 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-14T20:44:44.308Z",
-  "count": 750,
+  "published_at": "2026-05-14T21:17:23.937Z",
+  "count": 752,
   "data": [
     {
       "service_id": "SRV-001",
@@ -1638,13 +1638,10 @@
     },
     {
       "service_id": "SRV-097",
-      "service_name_ar": "وزارة الشؤون الاجتماعية — مساعدات نقدية للنازحين",
-      "organization_name": "وزارة الشؤون الاجتماعية — مساعدات نقدية للنازحين",
+      "service_name_ar": "وزارة الشؤون الاجتماعية — تسجيل النازحين",
+      "organization_name": "وزارة الشؤون الاجتماعية — تسجيل النازحين",
       "category_main": "displacement_registration",
-      "category_additional": [
-        "cash_assistance",
-        "displacement_aid"
-      ],
+      "category_additional": "displacement_aid",
       "category_secondary": "displacement_registration",
       "description_ar": "رابط التسجيل الذاتي صادر عن حكومة لبنان – وزارة الشؤون الاجتماعية بهدف جمع معلومات شخصية عن الأشخاص النازحين اللبنانيين وعائلاتهم. تُجمع هذه المعلومات بشكل أساسي لأغراض التخطيط للاستجابة الطارئة وتنسيق المساعدات. روابط التسجيل: https://survey123.arcgis.com/share/aedc95f5232845d498a41d6b0f1bfe56?lang=ar \nأو حاول \nWWW.mosa-relief.com     أو  mosa-relief.com",
       "link_url": "https://mosa-relief.com",
@@ -18286,10 +18283,11 @@
     },
     {
       "service_id": "SRV-649",
-      "service_name_ar": "يمكنك الاتصال بالخط الساخن لجمعية ام النور",
+      "service_name_ar": "جمعية ام النور",
       "organization_name": "جمعية ام النور",
       "category_main": "Substance_use",
       "category_additional": "Substance_use",
+      "description_ar": "يمكنك الاتصال بالخط الساخن لجمعية ام النور",
       "phone_1": 76947460,
       "link_url": "https://www.oumelnour.org",
       "governorate": "لبنان",
@@ -18302,7 +18300,7 @@
     },
     {
       "service_id": "SRV-650",
-      "service_name_ar": "برنامج العلاج",
+      "service_name_ar": "جمعية \"سكون\"",
       "organization_name": "جمعية \"سكون\"",
       "category_main": "Substance_use",
       "category_additional": "Substance_use",
@@ -18319,7 +18317,7 @@
     },
     {
       "service_id": "SRV-651",
-      "service_name_ar": "فحوصات الالتهابات المنقولة جنسيا",
+      "service_name_ar": "جمعية \"سكون\"",
       "organization_name": "جمعية \"سكون\"",
       "category_main": "medical_tests",
       "category_additional": "medical_tests",
@@ -18336,7 +18334,7 @@
     },
     {
       "service_id": "SRV-652",
-      "service_name_ar": "للإستفسار حول الإحالات من و إلى لجنة مكافحة الإدمان",
+      "service_name_ar": "جمعية \"سكون\"",
       "organization_name": "جمعية \"سكون\"",
       "category_main": "Substance_use",
       "category_additional": "Substance_use",
@@ -18407,6 +18405,44 @@
       "display_priority": 90,
       "show_in_fallback": "no",
       "sensitive_group": "none"
+    },
+    {
+      "service_id": "SRV-656",
+      "service_name_ar": "test",
+      "organization_name": "فثسف",
+      "category_main": "قثقث",
+      "category_additional": "medications",
+      "category_secondary": [
+        "displacement_aid",
+        "pregnancy_support"
+      ],
+      "description_ar": "dskdaka",
+      "phone_1": 900329391,
+      "governorate": "لبنان",
+      "city_area": "كل لبنان",
+      "coverage_type": "multi_area",
+      "audience_tags_ar": "عام",
+      "availability_status": "available",
+      "display_priority": 90,
+      "show_in_fallback": "no",
+      "sensitive_group": "none"
+    },
+    {
+      "service_id": "SRV-657",
+      "service_name_ar": "منظمة أبعاد",
+      "organization_name": "منظمة أبعاد",
+      "category_main": "protection_violence",
+      "category_additional": "gbv_support",
+      "description_ar": "الخط الوطني الآمن لمنظمة ابعاد",
+      "phone_1": 81788178,
+      "governorate": "لبنان",
+      "city_area": "كل لبنان",
+      "coverage_type": "multi_area",
+      "audience_tags_ar": "عام",
+      "availability_status": "available",
+      "display_priority": 90,
+      "show_in_fallback": "no",
+      "sensitive_group": "gbv_sensitive"
     }
   ]
 }
