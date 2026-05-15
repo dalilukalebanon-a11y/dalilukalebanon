@@ -1,8 +1,8 @@
 {
   "file": "intent_variants.json",
   "source_sheet": "Intent_Variants_Input",
-  "published_at": "2026-05-14T21:40:52.199Z",
-  "count": 1000,
+  "published_at": "2026-05-15T17:25:39.462Z",
+  "count": 1005,
   "data": [
     {
       "variant_id": "VAR-0001",
@@ -10972,6 +10972,61 @@
       "intent_id": "assistive_devices",
       "intent_class": "service",
       "variant_text": "مكنة",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1011",
+      "intent_id": "nutrition_infant",
+      "intent_class": "service",
+      "variant_text": "حليب",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1012",
+      "intent_id": "health_operation",
+      "intent_class": "service",
+      "variant_text": "عملية",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1013",
+      "intent_id": "therapy_services",
+      "intent_class": "service",
+      "variant_text": "معالج فيزيائي",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1014",
+      "intent_id": "therapy_services",
+      "intent_class": "service",
+      "variant_text": "معالج انشغالي",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1015",
+      "intent_id": "health_operation",
+      "intent_class": "service",
+      "variant_text": "عمليات",
       "language_type": "arabic",
       "variant_tier": "core",
       "confidence_weight": 100,
