@@ -1,8 +1,8 @@
 {
   "file": "service_categories.json",
   "source_sheet": "Services_Categories",
-  "published_at": "2026-05-14T21:40:50.029Z",
-  "count": 47,
+  "published_at": "2026-05-15T17:25:36.511Z",
+  "count": 48,
   "data": [
     {
       "category_id": "medications",
@@ -414,6 +414,14 @@
       "allow_multi": "yes",
       "related_match_behavior": "include_under_related_if_included_in_category_additional",
       "notes": "استخدام المواد المخدّرة"
+    },
+    {
+      "category_id": "health_operation",
+      "public_display_name_ar": "مساعدة في تغطية عملية",
+      "category_name_en": "health operations",
+      "sensitive_group": "none",
+      "allow_multi": "yes",
+      "related_match_behavior": "include_under_related_if_included_in_category_additional"
     }
   ]
 }
