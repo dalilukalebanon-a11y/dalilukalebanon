@@ -1,7 +1,7 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-05-15T17:25:32.324Z",
+  "published_at": "2026-05-16T09:51:55.095Z",
   "count": 751,
   "data": [
     {
@@ -219,7 +219,6 @@
       "organization_name": "جمعية أركانسييل (AEC)",
       "category_main": "disability_support",
       "category_additional": [
-        "assistive_devices",
         "mental_health",
         "medications",
         "food_assistance",
@@ -244,7 +243,6 @@
       "organization_name": "جمعية أركانسييل (AEC)",
       "category_main": "disability_support",
       "category_additional": [
-        "assistive_devices",
         "mental_health",
         "medications",
         "food_assistance",
@@ -269,7 +267,6 @@
       "organization_name": "جمعية أركانسييل (AEC)",
       "category_main": "disability_support",
       "category_additional": [
-        "assistive_devices",
         "mental_health",
         "medications",
         "food_assistance",
@@ -294,7 +291,6 @@
       "organization_name": "جمعية أركانسييل (AEC)",
       "category_main": "disability_support",
       "category_additional": [
-        "assistive_devices",
         "mental_health",
         "medications",
         "food_assistance",
