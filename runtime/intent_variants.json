@@ -1,8 +1,8 @@
 {
   "file": "intent_variants.json",
   "source_sheet": "Intent_Variants_Input",
-  "published_at": "2026-05-15T17:25:39.462Z",
-  "count": 1005,
+  "published_at": "2026-05-16T09:52:01.446Z",
+  "count": 1007,
   "data": [
     {
       "variant_id": "VAR-0001",
@@ -11027,6 +11027,28 @@
       "intent_id": "health_operation",
       "intent_class": "service",
       "variant_text": "عمليات",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1016",
+      "intent_id": "assistive_devices",
+      "intent_class": "service",
+      "variant_text": "سماعة",
+      "language_type": "arabic",
+      "variant_tier": "core",
+      "confidence_weight": 100,
+      "match_scope": "contains_phrase",
+      "active": "yes"
+    },
+    {
+      "variant_id": "VAR-1017",
+      "intent_id": "assistive_devices",
+      "intent_class": "service",
+      "variant_text": "سماعات",
       "language_type": "arabic",
       "variant_tier": "core",
       "confidence_weight": 100,
