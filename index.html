@@ -2827,10 +2827,6 @@ function logAnalytics(data){
     if(!ANALYTICS_ENABLED || !SUPABASE_URL || !SUPABASE_ANON_KEY) return;
     if(!data || typeof data !== 'object') return;
     const payload = {
-      created_at_lebanon: new Date().toLocaleString("sv-SE", {
-  timeZone: "Asia/Beirut",
-  hour12: false
-}),
       category_main: safeAnalyticsText(data.category_main || 'unknown'),
       category_additional: safeAnalyticsText(data.category_additional || ''),
       category_secondary: safeAnalyticsText(data.category_secondary || ''),
