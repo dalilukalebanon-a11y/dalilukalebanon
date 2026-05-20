@@ -2076,9 +2076,20 @@ function process(userText){
            ST.active_option_set==='OPT-AREA-GOV-8'||
            ST.pending_step==='area'){
           resetPending();
-          ST.pending_step='main_menu_navigation'; ST.active_option_set='OPT-MAIN-MENU';
-          return {type:'text', text:FALLBACK};
-        }
+ST.pending_step='main_menu_navigation'; ST.active_option_set='OPT-MAIN-MENU';
+
+console.log("[Daliluka] soft pending fallback log triggered");
+logFailure({
+  problem_type: "fallback_soft_pending",
+  category: ST.last_intent || ST.pending_intents[0] || "unknown",
+  city_area: "",
+  results_count: 0,
+  sensitive_flag: "no",
+  message_preview: cleanPreview(userText || "")
+});
+
+return {type:'text', text:FALLBACK};
+      }
         console.log("[Daliluka] pending clarification log triggered");
         logFailure({
           problem_type:   "pending_clarification_failed",
