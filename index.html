@@ -2866,9 +2866,10 @@ function cleanPreview(text){
 function logFailure(data) {
   try {
     const params = new URLSearchParams({
-      type:            "improvement_log",
+      action: "improvement_log",
+      type: "improvement_log",
       category:        data.category        || "unknown",
-      city_area:            data.area            || "",
+      city_area: data.city_area || data.area || "",
       results_count:   String(data.results_count || 0),
       problem_type:    data.problem_type    || "",
       sensitive_flag:  data.sensitive_flag  || "no",
@@ -2883,7 +2884,7 @@ function logFailure(data) {
       category_additional: '',
       category_secondary: '',
       governorate: '',
-      city_area: data.area || '',
+      city_area: data.city_area || data.area || '',
       results_count: Number(data.results_count || 0),
       action_type: data.problem_type || 'failure',
       sensitive_flag: String(data.sensitive_flag || '').toLowerCase() === 'yes' || data.sensitive_flag === true
