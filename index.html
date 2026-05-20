@@ -399,6 +399,29 @@ header{
         </select>
       </div>
       <div class="form-row">
+  <label>هل الخدمة مجانية أم مدفوعة؟ *</label>
+  <select id="public_cost_type">
+    <option value="">— اختر —</option>
+    <option value="free">مجانية</option>
+    <option value="affordable">بسعر رمزي</option>
+    <option value="paid">مدفوعة</option>
+  </select>
+</div>
+
+<div class="form-row">
+  <label>هل للخدمة تاريخ انتهاء؟ *</label>
+  <select id="public_has_end_date">
+    <option value="">— اختر —</option>
+    <option value="no">لا</option>
+    <option value="yes">نعم</option>
+  </select>
+</div>
+
+<div class="form-row" id="public_end_date_wrap" style="display:none;">
+  <label>تاريخ انتهاء الخدمة *</label>
+  <input type="date" id="public_end_date">
+</div>
+      <div class="form-row">
         <label>رابط الموقع أو الصفحة (اختياري)</label>
         <input type="url" id="f_link" placeholder="https://..." dir="ltr">
       </div>
@@ -2965,6 +2988,22 @@ function closeNGO(){
   // Reset form when closed so it's clean next time it opens
   resetNGOForm();
 }
+  const hasEndDateField = document.getElementById("public_has_end_date");
+const endDateWrap = document.getElementById("public_end_date_wrap");
+const endDateField = document.getElementById("public_end_date");
+
+if (hasEndDateField && endDateWrap && endDateField) {
+  hasEndDateField.addEventListener("change", function () {
+    if (this.value === "yes") {
+      endDateWrap.style.display = "block";
+      endDateField.required = true;
+    } else {
+      endDateWrap.style.display = "none";
+      endDateField.required = false;
+      endDateField.value = "";
+    }
+  });
+}
 async function submitNGOForm(){
   const v=id=>document.getElementById(id)?.value?.trim()||'';
   // Required fields: org, service name, category, phone, governorate,
@@ -2980,6 +3019,9 @@ async function submitNGOForm(){
   if(!v('f_nat'))    missing.push('الجنسية المستفيدة');
   if(!v('f_age'))    missing.push('الفئة العمرية');
   if(!v('f_gender')) missing.push('الجنس');
+  if(!v('public_cost_type')) missing.push('هل الخدمة مجانية أم مدفوعة؟');
+if(!v('public_has_end_date')) missing.push('هل للخدمة تاريخ انتهاء؟');
+if(v('public_has_end_date') === 'yes' && !v('public_end_date')) missing.push('تاريخ انتهاء الخدمة');
   if(!v('f_cname'))  missing.push('اسم جهة التواصل');
   if(!v('f_cphone')) missing.push('رقم واتساب للتواصل');
   if(missing.length){
@@ -2995,6 +3037,9 @@ async function submitNGOForm(){
     public_governorate:v('f_gov'),public_area:v('f_area'),
     public_description:v('f_desc'),public_nationality:v('f_nat'),
     public_age_group:v('f_age'),public_gender:v('f_gender'),
+    public_cost_type: v('public_cost_type'),
+public_has_end_date: v('public_has_end_date'),
+public_end_date: v('public_has_end_date') === 'yes' ? v('public_end_date') : '',
     public_availability:v('f_avail'),public_link:v('f_link'),
     private_contact_name:v('f_cname'),private_contact_phone:v('f_cphone'),
     private_contact_email:v('f_cemail'),notes:v('f_notes'),
@@ -3023,7 +3068,7 @@ async function submitNGOForm(){
 function resetNGOForm(){
   // Reset all form fields
   const fields=['f_org','f_svc','f_cat','f_phone','f_gov','f_area','f_desc',
-    'f_nat','f_age','f_gender','f_avail','f_link','f_cname','f_cphone','f_cemail','f_notes'];
+    'f_nat','f_age','f_gender','f_avail','f_link','f_cname','f_cphone','f_cemail','f_notes','public_cost_type','public_has_end_date','public_end_date'];
   fields.forEach(id=>{
     const el=document.getElementById(id);
     if(!el) return;
