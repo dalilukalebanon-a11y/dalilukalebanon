@@ -1553,14 +1553,45 @@ function getServices(intent, locObj, subtype, limL, limN){
     });
   }
 
-  const mainSorted = sortPool(mainPool, locObj, limL, limN);
-  const mainIds    = new Set(mainSorted.map(s=>s.id));
-  // addPool sorted independently — not competing with main for slots
-  const addFiltered = addPool.filter(s=>!mainIds.has(s.id));
-  const addSorted   = sortPool(addFiltered, locObj, 8, 8).slice(0,8);
-  const allIds = new Set(mainSorted.map(s=>s.id));
-  console.debug('[Daliluka] getServices('+intent+') main='+mainSorted.length+' add='+addSorted.length);
-  return { main: mainSorted, add: addSorted.filter(s=>!allIds.has(s.id)) };
+const nationalHeavyIntents = new Set([
+  'diapers',
+  'diapers_adult',
+  'assistive_devices',
+  'disability_support'
+]);
+
+if(nationalHeavyIntents.has(intent)){
+  limN = 20;
+}
+
+const mainSorted = sortPool(mainPool, locObj, limL, limN);
+const mainIds    = new Set(mainSorted.map(s=>s.id));
+
+// addPool sorted independently — not competing with main for slots
+const addFiltered = addPool.filter(s=>!mainIds.has(s.id));
+
+const addNationalLimit = nationalHeavyIntents.has(intent) ? 20 : 8;
+
+const addSorted = sortPool(
+  addFiltered,
+  locObj,
+  8,
+  addNationalLimit
+).slice(0, addNationalLimit);
+
+const allIds = new Set(mainSorted.map(s=>s.id));
+
+console.debug(
+  '[Daliluka] getServices('+intent+') main='+
+  mainSorted.length+
+  ' add='+
+  addSorted.length
+);
+
+return {
+  main: mainSorted,
+  add: addSorted.filter(s=>!allIds.has(s.id))
+};
 }
 
 // ═══════════════════════════════════════════════════════════════════
