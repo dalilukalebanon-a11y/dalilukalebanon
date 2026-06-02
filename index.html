@@ -2016,7 +2016,17 @@ function routeIntent(intent, locObj, userText){
 // ═══════════════════════════════════════════════════════════════════
 //  MAIN PROCESS
 // ═══════════════════════════════════════════════════════════════════
-function process(userText){
+function isMostlyEnglishMessage(text){
+  const arabicLetters = (text.match(/[\u0600-\u06FF]/g) || []).length;
+  const latinLetters = (text.match(/[A-Za-z]/g) || []).length;
+  const cleaned = text.trim();
+
+  if(cleaned.length < 3) return false;
+
+  return latinLetters >= 3 && latinLetters > arabicLetters;
+}
+  
+  function process(userText){
   const n = N(userText);
 
   // Main menu numeric shortcuts must be stable according to the intro menu.
@@ -2025,12 +2035,6 @@ function process(userText){
   if(/^\d{1,2}$/.test(__numOnly) && ST.pending_step==='main_menu_navigation'){
     const opt = OPT['OPT-MAIN-MENU'].find(o=>o.n===parseInt(__numOnly));
     if(opt) return consumePending(opt.slot,opt.val,userText);
-  }
-
-  // ── English detection ────────────────────────────────────────
-  if(/english/i.test(userText)){
-    return {type:'text',
-      text:'يمكن عم تحاول تحكي بالانكليزي, حالياً بقدر أفهم طلباتك باللغة العربية 🌟'};
   }
 
   // ── Step 1+2: Normalize + Sensitive triggers ─────────────────
@@ -2102,6 +2106,14 @@ function process(userText){
 ST.pending_step='main_menu_navigation'; ST.active_option_set='OPT-MAIN-MENU';
 
 console.log("[Daliluka] soft pending fallback log triggered");
+
+          if(isMostlyEnglishMessage(userText)){
+  return {
+    type:'text',
+    text:'يرجى كتابة رسالتك بالعربية لكي أستطيع مساعدتك بشكل أفضل. دليلك حالياً يدعم اللغة العربية بشكل أساسي.'
+  };
+}
+          
 logFailure({
   problem_type: "fallback_soft_pending",
   category: ST.last_intent || ST.pending_intents[0] || "unknown",
