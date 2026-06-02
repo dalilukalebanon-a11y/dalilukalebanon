@@ -1,7 +1,7 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-06-02T16:55:10.939Z",
+  "published_at": "2026-06-02T16:58:20.465Z",
   "count": 751,
   "data": [
     {
@@ -1404,6 +1404,7 @@
       "category_secondary": "elderly_support",
       "description_ar": "حفاضات ومعينات حركية للنازحين فوق 18 سنة. فريق الرعاية المنزلية يتابع الطلبات.",
       "link_url": "https://ee-eu.kobotoolbox.org/x/2ffEoNKT",
+      "governorate": "لبنان",
       "city_area": "كافة المناطق اللبنانية",
       "coverage_type": "national",
       "audience_tags_ar": "أشخاص ذوو إعاقة",
