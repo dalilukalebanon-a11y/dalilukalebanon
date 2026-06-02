@@ -1,7 +1,7 @@
 {
   "file": "services.json",
   "source_sheet": "Services_Input",
-  "published_at": "2026-06-02T17:06:37.392Z",
+  "published_at": "2026-06-02T17:11:13.319Z",
   "count": 751,
   "data": [
     {
@@ -1384,34 +1384,6 @@
       "city_area": "كافة الأقضية",
       "coverage_type": "national",
       "audience_tags_ar": "أشخاص ذوو إعاقة",
-      "availability_status": "available",
-      "display_priority": 70,
-      "show_in_fallback": "no",
-      "medical_tests_anchor": "no",
-      "sensitive_group": "none"
-    },
-    {
-      "service_id": "SRV-078",
-      "service_name_ar": "مؤسسة عامل الدولية — حفاضات ومعينات حركية",
-      "organization_name": "مؤسسة عامل الدولية — حفاضات ومعينات حركية",
-      "category_main": "disability_support",
-      "category_additional": [
-        "assistive_devices",
-        "diapers_adult",
-        "elderly_support",
-        "displacement_aid"
-      ],
-      "category_secondary": "elderly_support",
-      "description_ar": "حفاضات ومعينات حركية للنازحين فوق 18 سنة. فريق الرعاية المنزلية يتابع الطلبات.",
-      "link_url": "https://ee-eu.kobotoolbox.org/x/2ffEoNKT",
-      "governorate": "لبنان",
-      "city_area": "كافة المناطق اللبنانية",
-      "coverage_type": "national",
-      "audience_tags_ar": "أشخاص ذوو إعاقة",
-      "age_group_tags": [
-        "ADULT",
-        "OLDER_ADULT"
-      ],
       "availability_status": "available",
       "display_priority": 70,
       "show_in_fallback": "no",
@@ -18321,6 +18293,34 @@
       "display_priority": 90,
       "show_in_fallback": "no",
       "sensitive_group": "gbv_sensitive"
+    },
+    {
+      "service_id": "SRV-657",
+      "service_name_ar": "مؤسسة عامل الدولية — حفاضات ومعينات حركية",
+      "organization_name": "مؤسسة عامل الدولية — حفاضات ومعينات حركية",
+      "category_main": "disability_support",
+      "category_additional": [
+        "assistive_devices",
+        "diapers_adult",
+        "elderly_support",
+        "displacement_aid"
+      ],
+      "category_secondary": "elderly_support",
+      "description_ar": "حفاضات ومعينات حركية للنازحين فوق 18 سنة. فريق الرعاية المنزلية يتابع الطلبات.",
+      "link_url": "https://ee-eu.kobotoolbox.org/x/2ffEoNKT",
+      "governorate": "لبنان",
+      "city_area": "كل لبنان",
+      "coverage_type": "national",
+      "audience_tags_ar": "أشخاص ذوو إعاقة",
+      "age_group_tags": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "availability_status": "available",
+      "display_priority": 70,
+      "show_in_fallback": "no",
+      "medical_tests_anchor": "no",
+      "sensitive_group": "none"
     }
   ]
 }
